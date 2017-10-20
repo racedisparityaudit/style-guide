@@ -1,0 +1,42 @@
+
+
+main {
+  padding-top: 20px;
+}
+
+.site-wrapper {
+  @extend %site-width-container;
+}
+
+.home-index h2 {
+  margin-top: 1em;
+}
+
+
+h2 {
+  @include bold-24();
+
+  margin-top: em(25, 20);
+  margin-bottom: em(10, 20);
+
+  @include media(tablet) {
+    margin-top: em(45, 24);
+    margin-bottom: em(20, 24);
+  }
+
+}
+
+h3 {
+  @include bold-19();
+  margin-top: em(10, 16);
+  margin-bottom: em(5, 16);
+
+  @include media(tablet) {
+    margin-top: em(20, 19);
+  }
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

@@ -1,0 +1,6 @@
+@function image-url($file) {
+  $url: '';
+  $path: '/';
+  $url: url($path + $file);
+  @return $url;
+}
