@@ -22,10 +22,10 @@
     @include core-16;
     float: left;
 
-    background-image: url("/images/separator.png");
+    background-image: image-url("/images/separator.png");
 
     @include device-pixel-ratio() {
-      background-image: url("/images/separator-2x.png");
+      background-image: image-url("/images/separator-2x.png");
       background-size: 6px 11px;
     }
 
