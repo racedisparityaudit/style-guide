@@ -3,6 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
+$baseurl: "{{ site.baseurl }}";
+
 @import "image_url";
 
 
