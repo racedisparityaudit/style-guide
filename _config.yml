@@ -4,8 +4,6 @@ title: Ethnicity facts and figures style guide
 # Build settings
 markdown: kramdown
 
-baseurl: "/style-guide"
-
 defaults:
   -
     scope:
