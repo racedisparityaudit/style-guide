@@ -6,6 +6,8 @@ layout: default
   <div class="breadcrumbs">
     <ol>
       <li><a href="{{ "/" | relative_url }}">Style guide</li>
+
+      {% if page.category %}<li><a href="{{ page.category | slugify }}">{{ page.category }}</li>{% endif %}
       <li><a href="{{ absolute_url }}">{{ page.title }}</a></li>
     </ol>
   </div>
@@ -15,10 +17,7 @@ layout: default
 
   <h1 class="heading-large">{{ page.title }}</h1>
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
-      {{ content }}
-    </div>
+  {{ content }}
 
   </div>
 </main>

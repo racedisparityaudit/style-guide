@@ -7,7 +7,7 @@ In order to make the data in our service easier and faster to understand, we hav
 
 Generally we’ve stuck to the most common and widely-understood formats, as more complex data visualisations are often unfamiliar to users and take longer to understand.
 
-## Bar charts
+## [Bar charts](bar-charts)
 
 ## Line graphs
 
