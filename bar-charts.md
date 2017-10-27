@@ -92,17 +92,105 @@ This chart shows a few cases of what not to do:
     <text x="30" y="174" font-weight="bold" text-anchor="start" font-size="16">Mixed</text>
     <text x="30" y="224" font-weight="bold" text-anchor="start" font-size="16">White</text>
     <text x="30" y="274" font-weight="bold" text-anchor="start" font-size="16">Other</text>
-    {% for i in (0..10) %}
-      <line x1="{{ i | times: 85 | plus: 80.5 }}" x2="{{ i | times: 85 | plus: 80.5 }}" y1="-10" y2="295" stroke="#e6e6e6" stroke-width="1" />
-      <text x="{{ i | times: 85 | plus: 80.5 }}" y="315" text-anchor="middle" font-size="16">{{ i | times: 10 }}</text>
-    {% endfor %}
     <rect width="{{ 90 | times: 8.5 }}" height="35" x="80" y="0" fill="#DF3034"></rect>
     <rect width="{{ 99 | times: 8.5 }}" height="35" x="80" y="50" fill="#F47738"></rect>
     <rect width="{{ 75 | times: 8.5 }}" height="35" x="80" y="100" fill="#FFBF47"></rect>
     <rect width="{{ 65 | times: 8.5 }}" height="35" x="80" y="150" fill="#006435"></rect>
     <rect width="{{ 35 | times: 8.5 }}" height="35" x="80" y="200" fill="#005EA5"></rect>
     <rect width="{{ 51 | times: 8.5 }}" height="35" x="80" y="250" fill="#2B8CC4"></rect>
+    {% for i in (0..10) %}
+      <line x1="{{ i | times: 85 | plus: 80.5 }}" x2="{{ i | times: 85 | plus: 80.5 }}" y1="-10" y2="295" stroke="#e6e6e6" stroke-width="1" />
+      <text x="{{ i | times: 85 | plus: 80.5 }}" y="315" text-anchor="middle" font-size="16">{{ i | times: 10 }}</text>
+    {% endfor %}
     <text x="505" y="340" font-weight="normal" text-anchor="middle" font-size="16" fill="#6F777B">%</text>
+  </svg>
+</figure>
+
+## Category groups
+
+Sometimes the categories of the data can be meaningfully grouped into a smaller set of broader categories.
+
+This is often the case for ethnicity data, for example where “Black African”, “Black Caribbean” and “Black other” can be aggregated together as “Black” (these categories are based on Census data). Where the data is robust enough, it can be useful to show both level of these categorisations.
+
+To make the relationship between the broad and shallow categories clear, the bar chart design should:
+
+* Show the title of the broad category group in a heavier font
+* Have extra spacing between the broad category groups
+* Use a different colour for the broad vs shallow categories
+
+This chart shows an example:
+
+<figure class="example good">
+  <figcaption>Example bar chart (not real data)</figcaption>
+  <svg viewbox="0 0 960 800" width="960" height="800">
+    <text x="0" y="40" font-weight="bold">Percentage of pupils meeting the expected standard by ethnicity</text>
+    <text x="190" y="80" font-weight="bold" text-anchor="end" font-size="16">All</text>
+    <text x="190" y="120" font-weight="bold" text-anchor="end" font-size="16">Asian</text>
+    <text x="190" y="150" font-weight="normal" text-anchor="end" font-size="16">Bangladeshi</text>
+    <text x="190" y="180" font-weight="normal" text-anchor="end" font-size="16">Chinese</text>
+    <text x="190" y="210" font-weight="normal" text-anchor="end" font-size="16">Indian</text>
+    <text x="190" y="240" font-weight="normal" text-anchor="end" font-size="16">Pakistani</text>
+    <text x="190" y="270" font-weight="normal" text-anchor="end" font-size="16">Asian other</text>
+    <text x="190" y="310" font-weight="bold" text-anchor="end" font-size="16">Black</text>
+    <text x="190" y="340" font-weight="normal" text-anchor="end" font-size="16">Black African</text>
+    <text x="190" y="370" font-weight="normal" text-anchor="end" font-size="16">Black Caribbean</text>
+    <text x="190" y="400" font-weight="normal" text-anchor="end" font-size="16">Black other</text>
+    <text x="190" y="440" font-weight="bold" text-anchor="end" font-size="16">Mixed</text>
+    <text x="190" y="470" font-weight="normal" text-anchor="end" font-size="16">White and Asian</text>
+    <text x="190" y="500" font-weight="normal" text-anchor="end" font-size="16">White and Black African</text>
+    <text x="190" y="530" font-weight="normal" text-anchor="end" font-size="16">White and Black Caribbean</text>
+    <text x="190" y="570" font-weight="bold" text-anchor="end" font-size="16">White</text>
+    <text x="190" y="600" font-weight="normal" text-anchor="end" font-size="16">White British</text>
+    <text x="190" y="630" font-weight="normal" text-anchor="end" font-size="16">White Irish</text>
+    <text x="190" y="660" font-weight="normal" text-anchor="end" font-size="16">Gypsy or Irish Traveller</text>
+    <text x="190" y="690" font-weight="normal" text-anchor="end" font-size="16">White other</text>
+    <text x="190" y="730" font-weight="bold" text-anchor="end" font-size="16">Any other</text>
+    {% for i in (0..10) %}
+      <line x1="{{ i | times: 70 | plus: 210.5 }}" x2="{{ i | times: 70 | plus: 210.5 }}" y1="55" y2="745" stroke="#e6e6e6" stroke-width="1" />
+      <text x="{{ i | times: 70 | plus: 210.5 }}" y="765" text-anchor="middle" font-size="16">{{ i | times: 10 }}{% if i == 10 %}%{% endif %}</text>
+    {% endfor %}
+    <rect width="{{ 70 | times: 7 }}" height="25" x="210.0" y="62" fill="#2B8CC4" />
+    <rect width="{{ 75 | times: 7 }}" height="25" x="210.0" y="102" fill="#2B8CC4" />
+    <rect width="{{ 75 | times: 7 }}" height="25" x="210.0" y="132" fill="#B3CBD9" />
+    <rect width="{{ 82 | times: 7 }}" height="25" x="210.0" y="162" fill="#B3CBD9" />
+    <rect width="{{ 67 | times: 7 }}" height="25" x="210.0" y="192" fill="#B3CBD9" />
+    <rect width="{{ 81 | times: 7 }}" height="25" x="210.0" y="222" fill="#B3CBD9" />
+    <rect width="{{ 68 | times: 7 }}" height="25" x="210.0" y="252" fill="#B3CBD9" />
+    <rect width="{{ 72 | times: 7 }}" height="25" x="210.0" y="292" fill="#2B8CC4" />
+    <rect width="{{ 60 | times: 7 }}" height="25" x="210.0" y="322" fill="#B3CBD9" />
+    <rect width="{{ 65 | times: 7 }}" height="25" x="210.0" y="352" fill="#B3CBD9" />
+    <rect width="{{ 92 | times: 7 }}" height="25" x="210.0" y="382" fill="#B3CBD9" />
+    <rect width="{{ 70 | times: 7 }}" height="25" x="210.0" y="422" fill="#2B8CC4" />
+    <rect width="{{ 78 | times: 7 }}" height="25" x="210.0" y="452" fill="#B3CBD9" />
+    <rect width="{{ 69 | times: 7 }}" height="25" x="210.0" y="482" fill="#B3CBD9" />
+    <rect width="{{ 63 | times: 7 }}" height="25" x="210.0" y="512" fill="#B3CBD9" />
+    <rect width="{{ 69 | times: 7 }}" height="25" x="210.0" y="552" fill="#2B8CC4" />
+    <rect width="{{ 75 | times: 7 }}" height="25" x="210.0" y="582" fill="#B3CBD9" />
+    <rect width="{{ 33 | times: 7 }}" height="25" x="210.0" y="612" fill="#B3CBD9" />
+    <rect width="{{ 26 | times: 7 }}" height="25" x="210.0" y="642" fill="#B3CBD9" />
+    <rect width="{{ 70 | times: 7 }}" height="25" x="210.0" y="672" fill="#B3CBD9" />
+    <rect width="{{ 73 | times: 7 }}" height="25" x="210.0" y="712" fill="#2B8CC4" />
+    <text x="{{ 70 | times: 7 | plus: 215 }}" y="80" text-anchor="start" font-size="16">70%</text>
+    <text x="{{ 75 | times: 7 | plus: 215 }}" y="120" text-anchor="start" font-size="16">75%</text>
+    <text x="{{ 75 | times: 7 | plus: 215 }}" y="150" text-anchor="start" font-size="16">75%</text>
+    <text x="{{ 82 | times: 7 | plus: 215 }}" y="180" text-anchor="start" font-size="16">82%</text>
+    <text x="{{ 67 | times: 7 | plus: 215 }}" y="210" text-anchor="start" font-size="16">67%</text>
+    <text x="{{ 81 | times: 7 | plus: 215 }}" y="240" text-anchor="start" font-size="16">81%</text>
+    <text x="{{ 68 | times: 7 | plus: 215 }}" y="270" text-anchor="start" font-size="16">68%</text>
+    <text x="{{ 72 | times: 7 | plus: 215 }}" y="310" text-anchor="start" font-size="16">72%</text>
+    <text x="{{ 60 | times: 7 | plus: 215 }}" y="340" text-anchor="start" font-size="16">60%</text>
+    <text x="{{ 65 | times: 7 | plus: 215 }}" y="370" text-anchor="start" font-size="16">65%</text>
+    <text x="{{ 92 | times: 7 | plus: 215 }}" y="400" text-anchor="start" font-size="16">92%</text>
+    <text x="{{ 70 | times: 7 | plus: 215 }}" y="440" text-anchor="start" font-size="16">70%</text>
+    <text x="{{ 78 | times: 7 | plus: 215 }}" y="470" text-anchor="start" font-size="16">78%</text>
+    <text x="{{ 69 | times: 7 | plus: 215 }}" y="500" text-anchor="start" font-size="16">69%</text>
+    <text x="{{ 63 | times: 7 | plus: 215 }}" y="530" text-anchor="start" font-size="16">63%</text>
+    <text x="{{ 69 | times: 7 | plus: 215 }}" y="570" text-anchor="start" font-size="16">69%</text>
+    <text x="{{ 75 | times: 7 | plus: 215 }}" y="600" text-anchor="start" font-size="16">75%</text>
+    <text x="{{ 33 | times: 7 | plus: 215 }}" y="630" text-anchor="start" font-size="16">33%</text>
+    <text x="{{ 26 | times: 7 | plus: 215 }}" y="660" text-anchor="start" font-size="16">26%</text>
+    <text x="{{ 70 | times: 7 | plus: 215 }}" y="690" text-anchor="start" font-size="16">70%</text>
+    <text x="{{ 73 | times: 7 | plus: 215 }}" y="730" text-anchor="start" font-size="16">73%</text>
   </svg>
 </figure>
 
