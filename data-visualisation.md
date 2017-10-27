@@ -9,7 +9,7 @@ Generally we’ve stuck to the most common and widely-understood formats, as mor
 
 ## [Bar charts](bar-charts)
 
-## Line graphs
+## [Line charts](line-charts)
 
 ## Tables
 
