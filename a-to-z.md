@@ -4,7 +4,7 @@ title: A-Z of terminology
 ---
 
 ### BME or BAME
-Avoid these terms. ONS prefers ‘ethnic minorities’ and we like be as specific as possible, for example, ‘ethnic minorities, excluding White ethnic minorities’.
+Avoid these terms. ONS (Office for National Statistics) prefers ‘ethnic minorities’ and we like be as specific as possible, for example, ‘ethnic minorities, excluding White ethnic minorities’.
 If you’re comparing White British people to everyone else, including White ethnic minorities, you could refer to ‘other ethnic groups’.
 
 ### Disparity
