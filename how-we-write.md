@@ -3,15 +3,15 @@ layout: page
 title: Writing for Ethnicity facts and figures
 ---
 
-The data behind Ethnicity facts and figures (EFF) is complex and varied. But to be useful to a wide array of audiences, its findings must be presented simply, accurately and in a style and structure that is as uniform as possible.
+The data used in Ethnicity facts and figures (EFF) is complex and varied. But to be useful to a wide array of audiences, the findings based on this data must be presented in a way that is easy for all audiences to understand and in a style and structure that is consistent and as uniform as possible.
 
-These guidelines give a broad overview of the principles used in designing content for the website, as well as high level guidance on things to consider when writing about ethicity and about statistics in general. 
+These guidelines give a broad overview of the principles used in designing content for the website, as well as high level guidance on things to consider when writing about ethnicity and about statistics in general. 
 
 It is to be used alongside the section on [content design patterns (A to Z)](a-to-z), which provides easily searchable, alphabetised guidance on more specific content issues.
 
 ## Writing style and tone of voice
 
-This website uses measures to present findings around specific outcomes or government services. These are separate pages that summarise the findings for different ethnic groups with graphs and tables as well as written commentary. It's important that the commentary communicates the findings in a way that will be read and understood by all the website's audiences. To do this it must: 
+This website uses measures to present findings around specific outcomes or government services. Measures are separate pages that summarise the findings for different ethnic groups with graphs and tables as well as written commentary. It's important that the commentary communicates the findings in a way that will be read and understood by all the website's audiences. To do this it must: 
 
 - based on the needs of the reader first and foremost
 - avoid specialist jargon, using plain English whenever possible
