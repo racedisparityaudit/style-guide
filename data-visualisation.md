@@ -9,8 +9,13 @@ Generally we’ve stuck to the most common and widely-understood formats, as mor
 
 ## [Bar charts](bar-charts)
 
+We use these to show a breakdown of a measure by ethnicity.
+
 ## [Line charts](line-charts)
 
-## Tables
+These are used for showing how the data in a measure has changed over time.
 
+## [Tables](tables)
+
+We display tables alongside all charts as an alternative display of the data, as well as on their own whenever the data is too complex to show in a chart.
 
