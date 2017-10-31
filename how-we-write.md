@@ -24,7 +24,7 @@ It’s important that the written commentary communicates the findings in a way 
 - be consistent in its phrasing and presentation
 - use the appropriate tone of voice
 
-These principles of writing are drawn from GOV.UK guidance. This includes the GOV.UK style guide, which is evidence-based, user tested guidance for writers across the UK government.
+These principles of writing are drawn from GOV.UK guidance. This includes the GOV.UK style guide, which is evidence-based, user-tested guidance for content designers across the UK government.
 
 Where the GOV.UK style guide doesn’t provide detailed guidance on writing about statistics or ethnicity, the reference to use is the Office for National Statistics style guide.
 
