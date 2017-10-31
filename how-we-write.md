@@ -18,10 +18,15 @@ This website uses measures to present findings around specific outcomes or gover
 It’s important that the written commentary communicates the findings in a way that will be read and understood by all the website’s audiences. To do this it must:
 
 - be based on the needs of readers first and foremost
+
 - avoid specialist jargon, using plain English whenever possible
+
 - be as succinct as possible
+
 - present any complex explanations in as simple a way as possible
+
 - be consistent in its phrasing and presentation
+
 - use the appropriate tone of voice
 
 These principles of writing are drawn from GOV.UK guidance. This includes the GOV.UK style guide, which is evidence-based, user-tested guidance for content designers across the UK government.
@@ -39,8 +44,10 @@ Statistical significance is an important concept in statistics, but one that man
 Explaining concepts succinctly and in plain English instead of jargon not only opens up the commentary to a much wider audience but also is more likely to keep the audience on the page.
 
 > The English Housing Survey (EHS) is a ‘sample survey’: it collects information from a random sample of the population to make generalisations (reach 'findings’) about the total population.
+
 > For example, EHS findings might include the percentage of households who get help from their family to buy their own home.
 The commentary for this data only includes reliable, or ‘statistically significant’, findings. Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.
+
 > Specifically, the statistical tests used mean we can be confident that if we carried out the same survey on different random samples of the population, 19 times out of 20 we would get similar findings.
 
 Statistical significance is one of many specialist concepts that has been unpacked for a more generalist audience. See the A to Z guidance for more examples of user-friendly versions.
@@ -84,6 +91,7 @@ It’s important to be careful with how you phrase statements that interpret sta
 For example writing ‘White pupils had the highest fixed rate period exclusion rate in Middlesbrough (31.39%)’ can be read 2 different ways: 
 
 -  in Middlesbrough White pupils a higher rate of exclusion than pupils of other ethnicities
+
 - for White pupils in the UK, the highest rates of exclusion were found in Middlesbrough 
 
 To indicate the latter say instead that ‘the highest fixed period exclusion rate for White pupils was in Middlesbrough (31.39%)’
@@ -91,6 +99,7 @@ To indicate the latter say instead that ‘the highest fixed period exclusion ra
 Along similar lines, consider the point that ‘the percentage of adults who were overweight was highest for Black people in the period 2013 to 2015’. This can also be read 2 different ways:
 
 - of all the time periods for which there are data, 2013 to 2015 was the one in which Black adults were most likely to be overweight
+
 - looking at the time period 2013 to 2015, Black people were more likely to be overweight than other ethnic groups
 
 To indicate the latter say instead that ‘in the period 2013 to 2015, the percentage of adults who were overweight was highest for Black people’.
@@ -98,8 +107,11 @@ To indicate the latter say instead that ‘in the period 2013 to 2015, the perce
 Other points to remember:
 
 - be careful when comparing percentages between groups: ‘a higher percentage of White adults ate 5-a-day when compared with other ethnic groups’ is accurate, but ‘more White adults ate 5-a-day’ is not 
+
 - don’t overload summary points with too many figures and quantities (for example: “in England, over half (52.3%) of adults (28 million people) ate 5 or more portions of fruit and vegetables a day” – drop the ‘(28 million people) and this is fine)
+
 - say ‘higher than the average for all adults in England’ not ‘higher than the England average’
+
 - where a table shows differences between ethnic groups that aren’t statistically significant or otherwise reliable, state so in a bullet point
 
 ### Complex statistical concepts
