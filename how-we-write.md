@@ -72,9 +72,13 @@ As advised by ONS, the acronyms BME and BAME are to be avoided, with 'ethnic min
 
 Datasets used for EFF are broken down by ethnic group, but the breakdowns differ from measure to measure. See ‘Ethnicity breakdowns’ in the A to Z for a full list of these.
 
+### Using binary categories
+
 For measures in which the binary ethnic categories White and Other are used, referring to the Other category can be awkward if it appears in text isolated from the White category. This is particularly the case where Other is referred to first. Using ‘ethnic minorities’ can be clearer than ‘Other’ in these cases (since at 87% of the population, White people are in the ethnic majority). 
 
 However, remember that Gypsy and Irish Traveller, for example, are White ethnic minorities. If the binary is White British and Other ethnic groups, then ‘ethnic minorities’ can be used. But if the binary is simply White compared to Other ethnic groups, use ‘ethnic minorities (other than White ethnic minorities)’ instead. Content designers should use their judgment as to whether this phrase or ‘Other ethnic groups’ is clearer. Consistency of approach is important.
+
+### Preferred ethnicity terms
 
 Write about ‘ethnic groups’ rather than ‘ethnicities’ – although graph and table titles should include ‘by ethnicity’. It’s fine to occasionally refer to people from a particular ‘ethnic background’, to vary the phrasing in commentary.
 
@@ -104,15 +108,17 @@ Along similar lines, consider the point that ‘the percentage of adults who wer
 
 To indicate the latter say instead that ‘in the period 2013 to 2015, the percentage of adults who were overweight was highest for Black people’.
 
-Other points to remember:
+### Further tips for statistical clarity
+
+When writing about statistical findings, bue sure to:
 
 - be careful when comparing percentages between groups: ‘a higher percentage of White adults ate 5-a-day when compared with other ethnic groups’ is accurate, but ‘more White adults ate 5-a-day’ is not 
 
-- don’t overload summary points with too many figures and quantities – for example “in England, over half (52.3%) of adults (28 million people) ate 5 or more portions of fruit and vegetables a day” (remove the 28 million figure for a more readable point)
+- avoid overloading summary points with too many figures and quantities – for example “in England, over half (52.3%) of adults (28 million people) ate 5 or more portions of fruit and vegetables a day” (remove the 28 million figure for a more readable point)
 
 - say ‘higher than the average for all adults in England’ not ‘higher than the England average’
 
-- where a table shows differences between ethnic groups that aren’t statistically significant or otherwise reliable, state so in a bullet point
+- be very clear when differences between ethnic groups aren’t statistically significant or otherwise reliable but appear in a table
 
 ### Complex statistical concepts
 
