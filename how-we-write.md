@@ -5,7 +5,7 @@ title: Writing for Ethnicity facts and figures
 
 Ethnicity facts and figures (EFF) is based on a wide range of government data. Much of that data has been interpreted using complex statistical methods and is accompanied by extensive contextual information.
 
-To be useful to a wide array of audiences, the findings based on this data must be presented in a way that is easy for all audiences to understand, and in a consist style and format.
+To be useful to a wide array of audiences, the findings based on this data must be presented in a way that is easy for all audiences to understand, and in a consistent style and format.
 
 These guidelines give a broad overview of the principles used in designing content for the website, as well as high-level guidance on things to consider when writing about ethnicity and about statistics in general.
 
