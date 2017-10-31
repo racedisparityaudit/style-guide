@@ -35,7 +35,7 @@ Where the GOV.UK style guide doesn’t provide detailed guidance on writing abou
 
 ### Simpler, clearer, faster
 
-Ethnicity facts and figures is hosted as a service on the GOV.UK platform. There is comprehensive guidance on [writing for GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) there, but following is an example of some of these principles being applied in the context of EFF.
+Ethnicity facts and figures is hosted as a service on the GOV.UK platform. See [writing for GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) for comprehensive guidance. Following is an example of some of these principles being applied in the context of EFF.
 
 Statistical significance is an important concept in statistics, but one that many people are unfamiliar with. The following description gives some level of explanation to readers who aren’t familiar with statistics, but will likely leave many still scratching their heads: 
 
