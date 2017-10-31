@@ -110,7 +110,7 @@ To indicate the latter say instead that ‘in the period 2013 to 2015, the perce
 
 ### Further tips for statistical clarity
 
-When writing about statistical findings, bue sure to:
+When writing about statistical findings, be sure to:
 
 - be careful when comparing percentages between groups: ‘a higher percentage of White adults ate 5-a-day when compared with other ethnic groups’ is accurate, but ‘more White adults ate 5-a-day’ is not 
 
