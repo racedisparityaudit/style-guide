@@ -108,7 +108,7 @@ Other points to remember:
 
 - be careful when comparing percentages between groups: ‘a higher percentage of White adults ate 5-a-day when compared with other ethnic groups’ is accurate, but ‘more White adults ate 5-a-day’ is not 
 
-- don’t overload summary points with too many figures and quantities (for example: “in England, over half (52.3%) of adults (28 million people) ate 5 or more portions of fruit and vegetables a day” – drop the ‘(28 million people) and this is fine)
+- don’t overload summary points with too many figures and quantities – for example “in England, over half (52.3%) of adults (28 million people) ate 5 or more portions of fruit and vegetables a day” (remove the 28 million figure for a more readable point)
 
 - say ‘higher than the average for all adults in England’ not ‘higher than the England average’
 
@@ -116,4 +116,4 @@ Other points to remember:
 
 ### Complex statistical concepts
 
-More complex statistical concepts should be explained in the Methodology section of the measure, using approved text in the A to Z as a model that can, if necessary, be adapted. Concepts covered include confidence intervals, rounding, statistical significance and more. 
+More complex statistical concepts should be explained in the Methodology section of the measure, using approved text in the A to Z as a model that can, if necessary, be adapted. Concepts covered in the A to Z include confidence intervals, rounding, statistical significance and more. 
