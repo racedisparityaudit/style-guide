@@ -124,6 +124,17 @@ figure .multiple-charts:after {
   font-size: 16px;
 }
 
+/* Spacing between symbol and explanation */
+.missing-data-explanation .missing-data {
+  margin-right: 5px;
+}
+
+/* Spacing between explanations */
+.missing-data-explanation .explanation {
+  display: inline-block;
+  margin-right: 10px;
+}
+
 /* Used for showing N/A in tables */
 .not-applicable {
   color: $grey-1;
