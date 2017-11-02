@@ -39,16 +39,24 @@ Ethnicity facts and figures is hosted as a service on the GOV.UK platform. See [
 
 Statistical significance is an important concept in statistics, but one that many people are unfamiliar with. The following description gives some level of explanation to readers who aren’t familiar with statistics, but will likely leave many still scratching their heads: 
 
-> The EHS is a sample survey so it is possible that some of the disparities observed have occurred purely by chance.   We use robust statistical methods to carry out the EHS.  As a result, we can identify statistically significant differences, that is, variations which have not occurred purely by chance.  Unless specified otherwise, all the differences reported in the main points below are statistically significant.
+<figure class="example bad">
+<figcaption>Bad example</figcaption>
+<blockquote>
+<p>The EHS is a sample survey so it is possible that some of the disparities observed have occurred purely by chance.   We use robust statistical methods to carry out the EHS.  As a result, we can identify statistically significant differences, that is, variations which have not occurred purely by chance.  Unless specified otherwise, all the differences reported in the main points below are statistically significant.</p>
+</blockquote>
+</figure>
 
 Explaining concepts succinctly and in plain English instead of jargon not only opens up the commentary to a much wider audience but also is more likely to keep the audience on the page.
 
-> The English Housing Survey (EHS) is a ‘sample survey’: it collects information from a random sample of the population to make generalisations (reach 'findings’) about the total population.
-
-> For example, EHS findings might include the percentage of households who get help from their family to buy their own home.
-The commentary for this data only includes reliable, or ‘statistically significant’, findings. Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.
-
-> Specifically, the statistical tests used mean we can be confident that if we carried out the same survey on different random samples of the population, 19 times out of 20 we would get similar findings.
+<figure class="example good">
+<figcaption>Good example</figcaption>
+<blockquote>
+<p>The English Housing Survey (EHS) is a ‘sample survey’: it collects information from a random sample of the population to make generalisations (reach 'findings’) about the total population.</p>
+<p>For example, EHS findings might include the percentage of households who get help from their family to buy their own home.</p>
+<p>The commentary for this data only includes reliable, or ‘statistically significant’, findings. Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.</p>
+<p>Specifically, the statistical tests used mean we can be confident that if we carried out the same survey on different random samples of the population, 19 times out of 20 we would get similar findings.</p>
+</blockquote>
+</figure>
 
 Statistical significance is one of many specialist concepts that has been unpacked for a more generalist audience. See the A to Z guidance for more examples of user-friendly versions.
 
@@ -58,11 +66,21 @@ Commentary should be written in a tone of voice that is informative, helpful, an
 
 It's important to avoid using terms that imply value judgment, such as 'only', 'best' and 'worst'. For example you should avoid using phrasing such as: 
 
-> across all ethnic groups, girls did best at achieving A* to C in English and Maths GCSE, while boys did worst – 67% of girls did so, compared to only 59% of boys
+<figure class="example bad">
+<figcaption>Bad example</figcaption>
+<blockquote>
+<p>across all ethnic groups, girls did best at achieving A* to C in English and Maths GCSE, while boys did worst – 67% of girls did so, compared to only 59% of boys</p>
+</blockquote>
+</figure>
 
 Instead this main point should be expressed as: 
 
-> across all ethnic groups, girls were more likely to achieve A* to C in English and Maths GCSE than boys – 67% of girls did so, compared to 59% of boys
+<figure class="example good">
+<figcaption>Good example</figcaption>
+<blockquote>
+<p>across all ethnic groups, girls were more likely to achieve A* to C in English and Maths GCSE than boys – 67% of girls did so, compared to 59% of boys</p>
+</blockquote>
+</figure>
 
 ## Writing about ethnicity
 
