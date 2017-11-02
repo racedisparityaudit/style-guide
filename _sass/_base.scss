@@ -43,12 +43,8 @@ h2 {
 
 h3 {
   @include bold-19();
-  margin-top: em(10, 16);
+  margin-top: 2em;
   margin-bottom: em(5, 16);
-
-  @include media(tablet) {
-    margin-top: em(20, 19);
-  }
 }
 
 p {
@@ -128,7 +124,20 @@ figure .multiple-charts:after {
   font-size: 16px;
 }
 
-.missing-data:after {
+/* Used for showing N/A in tables */
+.not-applicable {
+  color: $grey-1;
+}
+
+/* Asterisk – positioned as inline-block with negative margin
+   so as to avoid increasing the row height. */
+.not-applicable sup {
+  display: inline-block;
+  margin-top: -6px;
+}
+
+/* These missing data icons are typically used in table cells. */
+.missing-data::after {
   background-color: #A2A4A6;
   color: white;
   display: inline-block;
@@ -139,9 +148,16 @@ figure .multiple-charts:after {
   width: 20px;
   height: 20px;
   border-radius: 10px;
-  margin-right: 10px;
 }
 
-.missing-data.sample-too-small:after {
-  content: '?';
+.missing-data.confidential::after {
+  content: '!'
+}
+
+.missing-data.sample-too-small::after {
+  content: '?'
+}
+
+.missing-data.not-collected::after {
+  content: '–'
 }
