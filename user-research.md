@@ -5,7 +5,15 @@ title: User research
 ![Image of Yaktocat](images/testss.png)
 
 ## Users and user needs  
+
+Users of the Ethnicity Facts and Figures range from members of the public with a personal interest in ethnicity data to academics or data experts who work with data and perform complex data analysis. From discovery to beta we involved a broad range of users in our user research, and found that different users have different ‘jobs to be done’ and therefore different needs when it comes to ethnicity data. Based on this research we identified three different personas that we have iterated upon throughout the process; these helped us to prioritise and make decisions based on user needs. The three personas are; public with a personal interest, storytellers and changemakers. 
+
 ## User research approach
+
+Public with a personal interest
+Storyteller
+Changemaker
+
 ## GOV.UK
 The style of the website follows the GOV.UK style patterns. When we first started testing prototypes of the website it wasn’t certain whether the website would be on GOV.UK or have another home. Through testing with the users, we found that trust was a substantial need for all user groups and the GOV.UK brand resonated trust and authority with the users. Being part of GOV.UK has influenced our our tone of voice and design. See the sections on “How we write” and “Visualisations” for insights on our current practice. 
 ## Navigation
