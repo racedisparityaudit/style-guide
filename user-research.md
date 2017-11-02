@@ -8,15 +8,15 @@ title: User research
 
 Users of the Ethnicity Facts and Figures range from members of the public with a personal interest in ethnicity data to academics or data experts who work with data and perform complex data analysis. From discovery to beta we involved a broad range of users in our user research, and found that different users have different ‘jobs to be done’ and therefore different needs when it comes to ethnicity data. Based on this research we identified three different personas that we have iterated upon throughout the process; these helped us to prioritise and make decisions based on user needs. The three personas are; public with a personal interest, storytellers and changemakers. 
 
-Public with a personal interest
+#Public with a personal interest
 
 These users want to improve their life and lives of those they care about and stay on top of data on ethnicity that relate to them and their situation. For example, we have seen that parents with a child in school are interested in data on performance of the children from different ethnic backgrounds. Users from this group need data presented in a simple, clear and neutral format. The users in this group were generally skeptical about whether they could trust the data and the way it was presented. The simple data visualisations, the commentary around the data on the website is designed to meet these needs.  
 
-Storyteller
+#Storyteller
 
 These users want to influence the electorate by creating engaging narratives. Users in this group need to access data that tells an interesting story presented in a way that doesn’t allow for misinterpretation. Again, the simple and clear data visualisations and the commentary in plain english were developed with these needs in mind.
 
-Changemaker
+#Changemaker
 
 These users want to encourage data-driven change to improve the lives of people and society. Changemakers are academics, researchers, data experts and experts from NGOs and think tanks. This group of users need easy access to the raw data and methodology in a format that they can use for analysis. The methodology section which explains  how the data was collected as well as the raw data downloads were developed to meet these needs.
 
