@@ -112,6 +112,31 @@ Missing data should use one of the following symbols:
 
 A key should be included within the table footer to explain any symbols used.
 
+### Ordering
+
+Columns and rows should generally be ordered alphabetically (for text) or chronologically (for time periods), with a few exceptions:
+
+* An 'All' category should be ordered first
+* For ethnicities, 'Other' and 'Unknown' should be ordered last.
+* [Socio-economic classifications](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010) should follow the order from that classification (from Higher occupations to Lower occupations)
+* UK regions (eg South West) should follow the North-South zig-zag pattern:
+  1. North East
+  2. North West
+  3. Yorkshire and the Humber
+  4. East Midlands
+  5. West Midlands
+  6. East of England
+  7. London, South East
+  8. South West
+  9. Wales
+  10. Scotland
+  11. Northern Ireland
+* Military ranks and other workforce grades should be in grade order (highest to lowest)
+
+### Fixed column headers
+
+To avoid users losing the description of a column when scrolling down on tall tables, fixed column headings should be used.
+
 ## Simple tables
 
 Rows should contain the categories of ethnicities, columns should contain values.

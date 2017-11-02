@@ -23,6 +23,15 @@ ul {
   list-style-type: disc;
 }
 
+ol {
+  padding-left: 25px;
+  list-style-type: decimal;
+}
+
+ul ol li {
+  margin-bottom: 0;
+}
+
 li {
   margin-bottom: 5px;
 }
