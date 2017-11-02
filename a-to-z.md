@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A-Z of terminology
+title: A to Z of content design for ethnicity statistics
 ---
 
 ### Abbreviations and acronyms
