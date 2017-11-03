@@ -14,7 +14,7 @@ These users want to improve their life and lives of those they care about and st
 These users want to influence the electorate by creating engaging narratives. Users in this group need to access data that tells an interesting story presented in a way that doesn’t allow for misinterpretation. Again, the simple and clear data visualisations and the commentary in plain english were developed with these needs in mind.
 
 ### Changemaker
-These users want to encourage data-driven change to improve the lives of people and society. Changemakers are academics, researchers, data experts and experts from NGOs and think tanks. This group of users need easy access to the raw data and methodology in a format that they can use for analysis. The methodology section which explains  how the data was collected as well as the raw data downloads were developed to meet these needs.
+These users want to encourage data-driven change to improve the lives of people and society. Changemakers are academics, researchers, data experts and experts from NGOs and think tanks. This group of users need easy access to the raw data and methodology in a format that they can use for analysis. The methodology section which explains how the data was collected as well as the raw data downloads were developed to meet these needs.
 
 The insights about the users and their needs are based on extensive research carried out from discovery through to beta.
 
@@ -35,7 +35,7 @@ In alpha we had weekly usability labs where we presented different user groups w
   
 During beta we continued the usability labs, reducing the frequency of these to fortnightly. We also carried out several focus groups and pop-up testing sessions. Furthermore, prior to releasing the public beta, we held a private beta during which we gave approximately 100 users from the different persona groups private access to the website. This allowed the users to explore the website in a more natural setting than in the usability labs. We received feedback on their experience in the form of diary studies, phone interviews and a survey. 
 
-Across methodologies, we ensured that users we tested with were representative of the demographic mix that we expected of our final public audience after launch. Demographic factors that we considered included;  age, ethnicity and geography. We also included users with assisted digital or accessibility needs.  
+Across methodologies, we ensured that users we tested with were representative of the demographic mix that we expected of our final  audience after launch. Demographic factors that we considered included; age, ethnicity and geography. We also included users with assisted digital or accessibility needs.  
 
 ## GOV.UK
 
