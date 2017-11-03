@@ -24,7 +24,24 @@ The insights about the users and their needs are based on extensive research car
 
 ## User research approach
 
- 
+From discovery through to beta we have used a range of research methods including:
+
+Deep dive interviews 
+“Day in the life of”
+Usability labs
+Task based testing
+Focus groups
+Pop-up research
+
+Our choice of research method depended on our learning objectives at different stages of the project and followed our agile sprints. Stages of the project broadly followed the GDS service life-cycle; consisting of discovery, alpha and beta phases.
+
+During discovery we wanted to learn who different users might be and what their goals, motivations and needs were. To get to those insights we used deep dive interviews including a day in the life of and card sorting exercises. 
+
+In alpha we had weekly usability labs where we presented different user groups with a new version of the prototype. This rapid feedback enabled us to iterate the prototypes at pace and continue to test new options. 
+  
+During beta we continued the usability labs, reducing the frequency of these to fortnightly. We also carried out several focus groups and pop-up testing sessions. Furthermore, prior to releasing the public beta, we held a private beta during which we gave approximately 100 users from the different persona groups private access to the website. This allowed the users to explore the website in a more natural setting than in the usability labs. We received feedback on their experience in the form of diary studies, phone interviews and a survey. 
+
+Across methodologies, we ensured that users we tested with were representative of the demographic mix that we expected of our final public audience after launch. Demographic factors that we considered included;  age, ethnicity and geography. We also included users with assisted digital or accessibility needs.  
 
 ## GOV.UK
 The style of the website follows the GOV.UK style patterns. When we first started testing prototypes of the website it wasn’t certain whether the website would be on GOV.UK or have another home. Through testing with the users, we found that trust was a substantial need for all user groups and the GOV.UK brand resonated trust and authority with the users. Being part of GOV.UK has influenced our our tone of voice and design. See the sections on “How we write” and “Visualisations” for insights on our current practice. 
