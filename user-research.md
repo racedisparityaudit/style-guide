@@ -26,17 +26,15 @@ The insights about the users and their needs are based on extensive research car
 From discovery through to beta we have used a range of research methods including:
 
 ### Deep dive interviews 
-### “Day in the life of”
 ### Usability labs
-### Task based testing
 ### Focus groups
 ### Pop-up research
 
 Our choice of research method depended on our learning objectives at different stages of the project and followed our agile sprints. Stages of the project broadly followed the GDS service life-cycle; consisting of discovery, alpha and beta phases.
 
-During discovery we wanted to learn who different users might be and what their goals, motivations and needs were. To get to those insights we used deep dive interviews including a day in the life of and card sorting exercises. 
+During discovery we wanted to learn who different users might be and what their goals, motivations and needs were. To get to those insights we used deep dive interviews including a "day in the life of" and card sorting exercises. 
 
-In alpha we had weekly usability labs where we presented different user groups with a new version of the prototype. This rapid feedback enabled us to iterate the prototypes at pace and continue to test new options. 
+In alpha we had weekly usability labs where we presented different user groups with a new version of the prototype and did task based testing. This rapid feedback enabled us to iterate the prototypes at pace and we continued to test new options for navigation, design and content. 
   
 During beta we continued the usability labs, reducing the frequency of these to fortnightly. We also carried out several focus groups and pop-up testing sessions. Furthermore, prior to releasing the public beta, we held a private beta during which we gave approximately 100 users from the different persona groups private access to the website. This allowed the users to explore the website in a more natural setting than in the usability labs. We received feedback on their experience in the form of diary studies, phone interviews and a survey. 
 
@@ -49,7 +47,6 @@ The style of the website follows the GOV.UK style patterns. Upon testing of init
 The navigation of the website has been developed to represent users’ mental models of the different topic areas as opposed to a departmental grouping of the topics. 
 
 In the first prototypes of the website we tested different options and found that users were more likely to navigate by topic than by race or location. In the first prototype we tested a search bar in the header. Users didn’t utilise the search bar and when asked why commented that their experience with search bars was poor and they would be more likely to Google for the data they were looking for. We also tested different options around data filters, finding that too many options created a confusing flow for users. Thus for now, we found that the best option for navigation are the six main topic areas with subtopics within these. That being said, we do recognise a requirement for further filtering options as and when the number of measures on the  Ethnicity facts and figures site increases.
-
 
 ## Graphs and tables 
 ## Commentary 
