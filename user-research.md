@@ -8,15 +8,12 @@ title: User research
 Users of the Ethnicity Facts and Figures range from members of the public with a personal interest in ethnicity data to academics or data experts who work with data and perform complex data analysis. From discovery to beta we involved a broad range of users in our user research, and found that different users have different ‘jobs to be done’ and therefore different needs when it comes to ethnicity data. Based on this research we identified three different personas that we have iterated upon throughout the process; these helped us to prioritise and make decisions based on user needs. The three personas are; public with a personal interest, storytellers and changemakers. 
 
 ### Public with a personal interest
-
 These users want to improve their life and lives of those they care about and stay on top of data on ethnicity that relate to them and their situation. For example, we have seen that parents with a child in school are interested in data on performance of the children from different ethnic backgrounds. Users from this group need data presented in a simple, clear and neutral format. The users in this group were generally skeptical about whether they could trust the data and the way it was presented. The simple data visualisations, the commentary around the data on the website is designed to meet these needs.  
 
 ### Storyteller
-
 These users want to influence the electorate by creating engaging narratives. Users in this group need to access data that tells an interesting story presented in a way that doesn’t allow for misinterpretation. Again, the simple and clear data visualisations and the commentary in plain english were developed with these needs in mind.
 
 ### Changemaker
-
 These users want to encourage data-driven change to improve the lives of people and society. Changemakers are academics, researchers, data experts and experts from NGOs and think tanks. This group of users need easy access to the raw data and methodology in a format that they can use for analysis. The methodology section which explains  how the data was collected as well as the raw data downloads were developed to meet these needs.
 
 The insights about the users and their needs are based on extensive research carried out from discovery through to beta.
@@ -41,16 +38,22 @@ During beta we continued the usability labs, reducing the frequency of these to 
 Across methodologies, we ensured that users we tested with were representative of the demographic mix that we expected of our final public audience after launch. Demographic factors that we considered included;  age, ethnicity and geography. We also included users with assisted digital or accessibility needs.  
 
 ## GOV.UK
+
 The style of the website follows the GOV.UK style patterns. Upon testing of initial prototypes of the website, it wasn’t certain whether this would be linked to GOV.UK. Via user testing, we found that trust was a substantial need for all user groups and that the GOV.UK brand resonated trust and authority, correlating with this user requirement. Being part of GOV.UK has influenced our tone of voice and design parameters. See the sections on “How we write” and “Visualisations” for insights on our current practice. 
 
 ## Navigation
+
 The navigation of the website has been developed to represent users’ mental models of the different topic areas as opposed to a departmental grouping of the topics. 
 
 In the first prototypes of the website we tested different navigation options and found that users were more likely to navigate by topic than by race or location. In the first prototype we tested a search bar in the header. Users didn’t utilise the search bar and when asked why commented that their experience with search bars was poor and they would be more likely to Google for the data they were looking for. We also tested different options around data filters, finding that too many options created a confusing flow for users. Thus for now, we found that the best option for navigation are the six main topic areas with subtopics within these. The naming and ordering of topics and subtopics was continually changed throughout alpha and beta. Based on task based research in the lab we found that some of the measures were not under the subtopic users expected them to be and we continually rearranged these to make sure that the navigation to the data matched users mental model. We do recognise a requirement for further research on the navigation as and when the amount of data on the Ethnicity Facts and Figures website increases.
 
 ## Graphs and tables 
+
+The presentation of the data in the form of graphs and tables was developed to meet users different levels of data literacy. Presenting the data in a way that made sense to all user groups and didn’t allow for misinterpretation was one of the core challenges to the designers. We tested many different options and iterations, including maps and other more interactive options but by testing these in labs we found that the data needed to be presented as simply and clearly as possible. Based on this we have a developed a catalog of graph types and how and when these should be used - see more in the section on “ Visualisation”.  
+
 ## Commentary 
+
 ## The name 
-## Downloads 
+
 ## Mobile 
 
