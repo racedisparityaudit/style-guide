@@ -53,7 +53,6 @@ The presentation of the data in the form of graphs and tables was developed to m
 
 ## Commentary 
 
+
 ## The name 
-
-## Mobile 
-
+When we tested the initial prototypes back in alpha the name of our website was the Race Disparity Audit. Thorough the testing we found that most users found this name confusing, contentions or didn’t think it reflected the content on the website. First of all ‘race’ was seen as controversial, colonial or as something relating to racism. Secondly the word ‘disparity’ created some confusion and one users said; “This is going to show my ignorance, but I don’t know what disparity means.”. Finally, many users weren’t sure what an ‘audit’ was and others who were familiar with the term would say that they didn’t see this as an audit. Based on this we started testing different names for the website, which led to the current name Ethnicity Facts and Figures. 
