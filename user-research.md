@@ -2,7 +2,6 @@
 layout: page
 title: User research
 ---
-![Image of Yaktocat](images/testss.png)
 
 ## Users and user needs  
 
@@ -26,12 +25,12 @@ The insights about the users and their needs are based on extensive research car
 
 From discovery through to beta we have used a range of research methods including:
 
-Deep dive interviews 
-“Day in the life of”
-Usability labs
-Task based testing
-Focus groups
-Pop-up research
+### Deep dive interviews 
+### “Day in the life of”
+### Usability labs
+### Task based testing
+### Focus groups
+### Pop-up research
 
 Our choice of research method depended on our learning objectives at different stages of the project and followed our agile sprints. Stages of the project broadly followed the GDS service life-cycle; consisting of discovery, alpha and beta phases.
 
