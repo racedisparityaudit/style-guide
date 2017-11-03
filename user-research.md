@@ -53,6 +53,8 @@ The presentation of the data in the form of graphs and tables was developed to m
 
 ## Commentary 
 
+Though testing with users we found that users have different preferences for consuming data. Some users are comfortable with numbers, others need visualisations and finally there is a group who don’t like numbers and have difficulties making sense of visualisations. To serve the need of these users we testing complementing the graphs and tables with commentary that would explain the data. Initially the commentary was written in a very technical language and we found that users struggled to understand terms such as statistical significant and confidence intervals. Based on this we realised that the commentary would have to be explaining the data in simple and plain English. In the xx you can read more about how our content designers have developed a guide on translating complex and technical statements to summary points that make sense to users.  
 
 ## The name 
+
 When we tested the initial prototypes back in alpha the name of our website was the Race Disparity Audit. Thorough the testing we found that most users found this name confusing, contentions or didn’t think it reflected the content on the website. First of all ‘race’ was seen as controversial, colonial or as something relating to racism. Secondly the word ‘disparity’ created some confusion and one users said; “This is going to show my ignorance, but I don’t know what disparity means.”. Finally, many users weren’t sure what an ‘audit’ was and others who were familiar with the term would say that they didn’t see this as an audit. Based on this we started testing different names for the website, which led to the current name Ethnicity Facts and Figures. 
