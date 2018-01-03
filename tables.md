@@ -148,9 +148,9 @@ Where possible an 'All' category should appear first.
 Where data is available by detailed ethnicity categories, these should be grouped by the broad ethnicity category. Where possible these broad ethnicity category should also include aggregated values.
 
 <style>
-  .detailed-ethnicity-table { border-collapse: collapse; font-size: 16px; min-width: 600px; margin-top: 20px; margin-bottom: 20px;  }
+  .detailed-ethnicity-table { border-collapse: collapse; max-width: 600px; margin-top: 20px; margin-bottom: 20px;  }
   .detailed-ethnicity-table td,
-  .detailed-ethnicity-table th { border-bottom: 1px solid #bfc1c3; margin: 0; padding: 5px 5px; }
+  .detailed-ethnicity-table th { border-bottom: 1px solid #bfc1c3; font-size: 16px; margin: 0; padding: 5px 5px; }
   .detailed-ethnicity-table caption { text-align: left; font-weight: bold; margin-bottom: 10px; font-size: 19px; }
   .detailed-ethnicity-table td:first-child, th:first-child { padding-left: 0; }
   .detailed-ethnicity-table td:last-child, th:last-child { padding-right: 0; }
@@ -325,9 +325,9 @@ If there are lots of time periods, then horizontal scrolling within the table ma
 Where the data has a small number of secondary groups, these can be compared using column groups:
 
 <style>
-  .grouped-columns-table { border-collapse: collapse; font-size: 16px; width: 100%; margin-top: 20px; margin-bottom: 20px;  }
+  .grouped-columns-table { border-collapse: collapse; width: 100%; margin-top: 20px; margin-bottom: 20px;  }
   .grouped-columns-table td,
-  .grouped-columns-table th { border-bottom: 1px solid #bfc1c3; margin: 0; padding: 5px 10px; }
+  .grouped-columns-table th { border-bottom: 1px solid #bfc1c3; font-size: 16px; margin: 0; padding: 5px 10px; }
   .grouped-columns-table caption { text-align: left; font-weight: bold; margin-bottom: 10px; font-size: 19px; }
   .grouped-columns-table th { text-align: left; }
   .grouped-columns-table td { text-align: right; font-family: 'ntatabularnumbers', 'Helvetica', Arial, sans-serif; font-variant-numeric: tabular-nums; }
