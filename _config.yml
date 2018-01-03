@@ -3,6 +3,7 @@ title: Ethnicity facts and figures style guide
 
 # Build settings
 markdown: kramdown
+theme: govuk-jekyll-theme
 
 defaults:
   -
