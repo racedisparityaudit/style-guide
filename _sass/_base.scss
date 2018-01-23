@@ -72,14 +72,10 @@ main ul {
 
 
 figure.example {
-  margin-left: -20px;
-  margin-right: -20px;
-  margin-bottom: 20px;
-  padding-left: 18px;
-  padding-right: 18px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 2px solid;
+  margin-left: 0px;
+  padding-left: 16px;
+  border-style: solid;
+  border-width: 0 0 0 4px;
 
   &.good {
     border-color: #00823B;
@@ -180,4 +176,17 @@ figure .multiple-charts:after {
 
 .missing-data.not-collected::after {
   content: '–'
+}
+
+blockquote {
+  margin: 0 0 0 30px
+}
+
+
+blockquote p:before {
+  content: "\201C";
+  display: block;
+  margin-left: -15px;
+  float: left;
+  clear: both;
 }
