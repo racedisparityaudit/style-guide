@@ -100,11 +100,7 @@ In Methodology, include a note like the following, customised for individual mea
 >
 >The smaller the survey sample, the more uncertain the estimate and the wider the confidence interval. For example, fewer children from the Chinese ethnic group responded to the survey than White children, so we can be less certain about the estimate for the smaller group. This greater uncertainty is expressed by a wider confidence interval, for example of between 15.6% and 18.6% for Chinese children aged 4 to 5 in 2015/16.
 
-If the differences between 2 different groups or time periods are determined to be statistically significant using the non-overlapping confidence intervals method, include the following (substituting relevant figures from the measure in the second paragraph):
-
-> All the differences noted in the text are statistically significant. The statistical significance of differences are approximate because they are determined where the 95% confidence intervals for 2 groups or time periods don't overlap.
-
-An example of non-overlapping confidence intervals would be the results for the Indian ethnic group, which had a confidence interval of between 30.5% and 35.3%, and the UK average, which had a confidence interval of between 29.3% and 30.0%.
+If the differences between 2 different groups or time periods are determined to be statistically significant using the non-overlapping confidence intervals method, see [Statistical significance determined by non-overlapping confidence intervals](#statistical-significance-determined-by-non-overlapping-confidence-intervals).
 
 ### Data
 
@@ -645,10 +641,10 @@ Bad example:
 Good example:
 
 > The English Housing Survey (EHS) is a ‘sample survey’: it collects information from a random sample of the population to make generalisations (reach ‘findings’) about the total population.
-
-The commentary for this data only includes reliable, or ‘statistically significant’, findings. Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.
-
-Specifically, the statistical tests used mean we can be confident that if we carried out the same survey on different random samples of the population, 19 times out of 20 we would get similar findings.’
+>
+> The commentary for this data only includes reliable, or ‘statistically significant’, findings. Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.
+>
+> Specifically, the statistical tests used mean we can be confident that if we carried out the same survey on different random samples of the population, 19 times out of 20 we would get similar findings.’
 
 In Summaries and Main points, we use a shorter version. See the style guide entries on ‘Sample size’ and ‘Variance’ for ways to explain unreliable data in plain English.
 
