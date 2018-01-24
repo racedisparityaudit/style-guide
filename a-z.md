@@ -86,10 +86,6 @@ Use ‘in comparison with’, not ‘in comparison to’.
 
 Research showed that even data-literate users struggled to understand this important statistical concept when numbers were presented in a table or an explanation offered in commentary.
 
-Where confidence intervals are available for the data, include the following standard explanation in ''Things you need to know'':
-
-> Differences are statistically significant if the results for the 2 groups or time periods being compared are within entirely different ranges.
-
 In Methodology, include a note like the following, customised for individual measures:
 
 
