@@ -88,18 +88,17 @@ Research showed that even data-literate users struggled to understand this impor
 
 In Methodology, include a note like the following, customised for individual measures:
 
-
->Confidence intervals
-
-Confidence intervals for each ethnic group are available in the ‘download the data’ section.
-
-Based on the NCMP measurements, it’s estimated that 22.1% of children aged 4 to 5 and 34.2% of children aged 10 to 11 were overweight or obese in England in 2015/16.
-
-The NCMP is based on a sample of schoolchildren aged 4 to 5 and aged 10 to 11 in state-maintained schools, rather than all schoolchildren of those ages in such schools in England. This measure makes a reliable estimate of the percentage of children of these ages in England who are overweight or obese, but it’s impossible to be 100% certain of the true percentage.
-
-It’s 95% certain, however, that somewhere between 22.0% and 22.2% of all 4 to 5 year olds in England were overweight or obese in 2015/16. In statistical terms, this is a 95% confidence interval. This means that if 100 random samples were taken, then 95 times out of 100 the estimate would fall between the lower and upper bounds of the confidence interval. But 5 times out of 100 it would fall outside this range.
-
-The smaller the survey sample, the more uncertain the estimate and the wider the confidence interval. For example, fewer children from the Chinese ethnic group responded to the survey than White children, so we can be less certain about the estimate for the smaller group. This greater uncertainty is expressed by a wider confidence interval, for example of between 15.6% and 18.6% for Chinese children aged 4 to 5 in 2015/16.
+> Confidence intervals
+>
+> Confidence intervals for each ethnic group are available in the ‘download the data’ section.
+>
+> Based on the NCMP measurements, it’s estimated that 22.1% of children aged 4 to 5 and 34.2% of children aged 10 to 11 were overweight or obese in England in 2015/16.
+>
+> The NCMP is based on a sample of schoolchildren aged 4 to 5 and aged 10 to 11 in state-maintained schools, rather than all schoolchildren of those ages in such schools in England. This measure makes a reliable estimate of the percentage of children of these ages in England who are overweight or obese, but it’s impossible to be 100% certain of the true percentage.
+>
+> It’s 95% certain, however, that somewhere between 22.0% and 22.2% of all 4 to 5 year olds in England were overweight or obese in 2015/16. In statistical terms, this is a 95% confidence interval. This means that if 100 random samples were taken, then 95 times out of 100 the estimate would fall between the lower and upper bounds of the confidence interval. But 5 times out of 100 it would fall outside this range.
+>
+>The smaller the survey sample, the more uncertain the estimate and the wider the confidence interval. For example, fewer children from the Chinese ethnic group responded to the survey than White children, so we can be less certain about the estimate for the smaller group. This greater uncertainty is expressed by a wider confidence interval, for example of between 15.6% and 18.6% for Chinese children aged 4 to 5 in 2015/16.
 
 If the differences between 2 different groups or time periods are determined to be statistically significant using the non-overlapping confidence intervals method, include the following (substituting relevant figures from the measure in the second paragraph):
 
