@@ -28,6 +28,10 @@ ol {
   list-style-type: decimal;
 }
 
+.breadcrumbs ol {
+  padding-left: 0;
+}
+
 ul ol li {
   margin-bottom: 0;
 }
@@ -70,6 +74,9 @@ main ul {
   max-width: 660px;
 }
 
+strong {
+  font-weight: bold;
+}
 
 figure.example {
   margin-left: 0px;

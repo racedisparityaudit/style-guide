@@ -94,17 +94,11 @@ For this reason, aim for a clear, simple and impartial style. Let the facts spea
 
 This is neutral:
 
-
-<figure class="example good">
-  <p>Across all ethnic groups, girls were more likely to achieve A* to C in English and Maths GCSE than boys – 67% of girls did so, compared to 59% of boys</p>
-</figure>
+> Across all ethnic groups, girls were more likely to achieve A* to C in English and Maths GCSE than boys – 67% of girls did so, compared to 59% of boys
 
 This is judgemental:
 
-
-<figure class="example bad">
-  <p>Across all ethnic groups, girls did best at achieving A* to C in English and Maths GCSE, while boys did worst – 67% of girls did so, compared to only 59% of boys</p>
-</figure>
+> Across all ethnic groups, girls did best at achieving A* to C in English and Maths GCSE, while boys did worst – 67% of girls did so, compared to only 59% of boys
 
 ## Structure
 
@@ -123,15 +117,14 @@ The structure of the measure page  has been developed based on findings from use
 
 * [Content style guide A to Z](./a-z)
 * [Measure page guidance](./measure-page)
-* [Data style guide](./data-style-guide)
 
 ## Further reading
 
-ONS style guide
-Hints and Tips: Statistical Commentary (GSS)
-Writing about Statistics (GSS)
-Making Data Meaningful (UNECE)
-GOV.UK style guide
+* [ONS style guide](https://style.ons.gov.uk/)
+* [Hints and Tips: Statistical Commentary (GSS) (PDF)](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/20140303-GPT-Commentary-Hints-and-Tips.pdf)
+* [Writing about Statistics (GSS) (PDF)](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Writing-About-Statistics-National-Statisticians-Guidance1.pdf)
+* [Making Data Meaningful (UNECE)](http://www.unece.org/stats/documents/writing/)
+* [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 
 

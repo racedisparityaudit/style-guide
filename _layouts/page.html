@@ -5,10 +5,10 @@ layout: default
 <div class="site-wrapper">
   <div class="breadcrumbs">
     <ol>
-      <li><a href="{{ "/" | relative_url }}">Style guide</li>
+      <li><a href="{{ "/" | relative_url }}">Style guide</a></li>
 
-      {% if page.category %}<li><a href="{{ page.category | slugify }}">{{ page.category }}</li>{% endif %}
-      <li><a href="{{ absolute_url }}">{{ page.title }}</a></li>
+      {% if page.category %}<li><a href="{{ page.category | slugify }}">{{ page.category }}</a></li>{% endif %}
+      <li>{{ page.title }}</li>
     </ol>
   </div>
 </div>
