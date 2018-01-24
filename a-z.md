@@ -317,7 +317,7 @@ In Methodology:
 
 Parents are able to claim FSM if they receive a [qualifying benefit.](https://www.gov.uk/apply-free-school-meals).
 
-FSM is used as an indicator of disadvantage, but when drawing conclusions, it should be remembered that not all eligible parents apply for FSM and families who don’t quite reach the eligibility threshold for FSM may still be suffering deprivation.
+FSM is used as an indicator of disadvantage. However, not all eligible parents apply for FSM and families who don’t quite reach the eligibility threshold for FSM may still be suffering deprivation.
 
 ### Gender vs sex
 
@@ -657,8 +657,8 @@ This should be expressed differently in 2 places in the measure:
 In ‘Things you need to know’:
 
 > Findings are statistically significant when we can be confident that they can be repeated, and are reflective of the total population rather than just the survey sample.
-
-Differences are statistically significant if the results for the 2 groups or time periods being compared are within entirely different ranges.
+>
+> Differences are statistically significant if the results for the 2 groups or time periods being compared are within entirely different ranges.
 
 In Methodology:
 
