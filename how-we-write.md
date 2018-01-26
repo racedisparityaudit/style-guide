@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing for Ethnicity facts and figures
+title: How we write about statistics and ethnicity
 ---
 
 Ethnicity facts and figures brings together complex statistical data from government departments, services and other organisations.
