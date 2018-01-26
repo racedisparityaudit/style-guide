@@ -825,5 +825,5 @@ Check that the titles of charts and tables are descriptive enough that X and Y a
 
 ## Related guidance
 
-* [How we write about data](./how-we-write)
+* [How we write about statistics and ethnicity](./how-we-write)
 * [Measure page guidance](./measure-page)
