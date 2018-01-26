@@ -104,7 +104,7 @@ If the differences between 2 different groups or time periods are determined to 
 
 ### Data
 
-Follow the GDS style guide and treat data as a singular noun.
+Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and treat data as a singular noun.
 
 ### Data versus statistics
 
