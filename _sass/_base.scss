@@ -186,14 +186,7 @@ figure .multiple-charts:after {
 }
 
 blockquote {
-  margin: 0 0 0 30px
-}
+  padding-left: 20px;
+  border-left: 6px solid #bfc1c3;
 
-
-blockquote p:before {
-  content: "\201C";
-  display: block;
-  margin-left: -15px;
-  float: left;
-  clear: both;
 }
