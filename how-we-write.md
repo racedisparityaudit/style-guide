@@ -115,7 +115,7 @@ The structure of the measure page  has been developed based on findings from use
 
 ## Related guidance
 
-* [Content style guide A to Z](./a-z)
+* [Style guide A to Z](./a-z)
 * [Measure page guidance](./measure-page)
 
 ## Further reading
