@@ -42,8 +42,8 @@ Select one of the following:
 * United Kingdom
 * Country (for example, England, Wales, England and Wales, Scotland)
 * Region (for example, South West, London, North West, Wales)
-* Local authority upper (for example, county council, unitary authority, Greater London Authority)
-* Local authority lower (for example, district council, unitary authority, London borough)
+* Local authority upper (for example, county council and unitary authority)
+* Local authority lower (for example, district council and unitary authority)
 * Police force area
 * Clinical commissioning group
 
