@@ -125,12 +125,3 @@ The structure of the measure page  has been developed based on findings from use
 * [Writing about Statistics (GSS) (PDF)](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Writing-About-Statistics-National-Statisticians-Guidance1.pdf)
 * [Making Data Meaningful (UNECE)](http://www.unece.org/stats/documents/writing/)
 * [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-
-
-
-
-
-
-
-
-
