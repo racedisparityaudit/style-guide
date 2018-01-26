@@ -285,6 +285,6 @@ Summary:
 
 ## Related guidance
 
-* [Content style guide A to Z](./a-z)
-* [How we write about data](./how-we-write)
+* [Style guide A to Z](./a-z)
+* [How we write about statistics and ethnicity](./how-we-write)
 
