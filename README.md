@@ -50,13 +50,9 @@ There is a AWS Cloudfront distribution in front of the S3 origin and it is curre
 cache headers.
 
 
-Once done you can build the static html output:
+Once done you can build and deploy the static html to s3 using the shell script in this repo:
 
-  jekyll build
-
-and then deploy to AWS:
-
-  s3_website push
+  ./deploy.sh
 
 If/when there are updates to the repo, pull the updates, build html and push again.
 
