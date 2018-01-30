@@ -315,7 +315,7 @@ In Methodology:
 
 > Pupils are included in the figures for free school meals (FSM) if their families have claimed eligibility for FSM at the time of the annual spring school census. This FSM definition includes all who were eligible to receive free school meals, not only those who actually received free school meals. Pupils not eligible for free school meals or unclassified pupils are described as ‘All other pupils’.
 
-Parents are able to claim FSM if they receive a [qualifying benefit.](https://www.gov.uk/apply-free-school-meals).
+Parents are able to claim FSM if they receive a [qualifying benefit](https://www.gov.uk/apply-free-school-meals).
 
 FSM is used as an indicator of disadvantage. However, not all eligible parents apply for FSM and families who don’t quite reach the eligibility threshold for FSM may still be suffering deprivation.
 
