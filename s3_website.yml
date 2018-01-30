@@ -35,7 +35,7 @@ gzip:
 
 # s3_reduced_redundancy: true
 
-# cloudfront_distribution_id: your-dist-id
+cloudfront_distribution_id: <%= ENV.fetch('DISTRIBUTION_ID') %>
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:
