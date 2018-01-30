@@ -45,7 +45,7 @@ gzip:
 #     items:
 #       - your.website.com
 
-# cloudfront_invalidate_root: true
+cloudfront_invalidate_root: true
 
 cloudfront_wildcard_invalidation: true
 
