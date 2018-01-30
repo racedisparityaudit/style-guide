@@ -80,7 +80,7 @@ Complex statistical concepts are explained as simply as possible using plain Eng
 
 Sometimes, a two-tier explanation is needed: a high-level explanation for the general user, and more detailed and technical text for the specialist (which appears in the Methodology section).
 
-[Measure page guidance](/) and the [Style guide A to Z](/a-z) contain more guidance on writing about statistics.
+[Measure page guidance](/measure-page) and the [Style guide A to Z](/a-z) contain more guidance on writing about statistics.
 
 ## Tone of voice
 Commentary should be accurate and objective, but also approachable, helpful and human.
@@ -111,7 +111,7 @@ The structure of the measure page  has been developed based on findings from use
 * users looking for detailed background information can open ‘What the data measures’ and ‘The ethnic categories used in this data’
 * specialist users refer to the more technical ‘Methodology and type of data’ and ‘Data source details’, and can download the raw data for their own analysis
 
-[Measure page guidance](/) contains a detailed guide on the way information is structured in the measure page.
+[Measure page guidance](/measure-page) contains a detailed guide on the way information is structured in the measure page.
 
 ## Related guidance
 
