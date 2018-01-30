@@ -8,4 +8,4 @@ function strip_extension {
     find _site/ -type f ! -iname 'index.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
 }
 
-jekyll build && strip_extension && s3_website push
+bundle exec jekyll build && strip_extension && s3_website push
