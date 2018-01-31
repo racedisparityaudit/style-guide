@@ -248,11 +248,11 @@ Bad example:
 
 Good example:
 
-> Employment, by ethnicity and qualification level
+> Employment, by qualification level and ethnicity
 
 Add another cut:
 
-> Employment, by ethnicity, qualification level and gender
+> Employment, by qualification level, ethnicity and gender
 
 ### Time period
 
