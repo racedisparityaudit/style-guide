@@ -84,7 +84,7 @@ Sometimes, a two-tier explanation is needed: a high-level explanation for the ge
 
 ## Tone of voice
 Commentary should be accurate and objective, but also approachable, helpful and human.
-Avoid unnecessary formality and technical vocabulary, while remaining a professional, reliable source of information.
+It should avoid unnecessary formality and technical vocabulary, while remaining a professional, reliable source of information.
 
 Users must, above all, feel confident that the information they read is trustworthy, unbiased and politically independent.
 
