@@ -225,7 +225,7 @@ Provide a link to the data’s quality methodology report.
 
 Please supply any other information you think is relevant.
 
-Example from [Illicit drug use among adults](https://www.gov.uk/government/statistics/schools-pupils-and-their-characteristics-january-2016):
+Example from [Illicit drug use among adults](https://www.ethnicity-facts-figures.service.gov.uk/health/physical-and-mental-health/illicit-drug-use-among-adults/latest):
 
 > [Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014](http://digital.nhs.uk/catalogue/PUB21748)
 
