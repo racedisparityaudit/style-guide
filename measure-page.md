@@ -145,7 +145,7 @@ Use this section to add context and background to the data. For example:
 * what this data tells users (for example, ‘This data measures how likely people in different ethnic groups are to own their own homes’)
 * the source of the data (for example, ‘The figures are drawn from the 2014/15 and 2015/16 English Housing Survey (EHS)’)
 * technical aspects that need further explanation (for example, ‘Some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household’)
-* plain English definitions of terms used in the measure (for example, ‘‘Young people’ means people aged 10 to 17 years’)
+* plain English definitions of terms used in the measure (for example, ‘Young people’ means people aged 10 to 17 years’)
 * what’s included where ‘other’ is used to categorise certain parts of the data (for example, ‘Types of crime under ‘Other offences’ include:...’
 
 Again, even quite complex statistical concepts can and should be translated into plain English for users.
