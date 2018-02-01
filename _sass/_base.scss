@@ -190,3 +190,14 @@ blockquote {
   border-left: 6px solid #bfc1c3;
 
 }
+
+.symbols-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.symbols-list kbd {
+  display: inline-block;
+  min-width: 3em;
+  margin-right: 1em;
+}
