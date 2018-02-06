@@ -49,7 +49,7 @@ Use the chart and table in the first dimension to break down the data by ethnici
 Use an ‘over time’ analysis in the table for the first dimension if:
 
 * a second dimension ‘over time’ would be very similar to the first dimension (for example, if there are only 2 years of data)
-* the dimensions ‘by ethnicity’ and ‘by ethnicity over time’ are the only ones in a measure, as in [Patient experience of primary care - GP services](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/employment/employment/latest)
+* the dimensions ‘by ethnicity’ and ‘by ethnicity over time’ are the only ones in a measure, as in [Patient experience of primary care - GP services](https://www.ethnicity-facts-figures.service.gov.uk/health/patient-experiences/patient-experience-of-primary-care-gp-services/latest)
 
 ## Types of chart
 
