@@ -335,8 +335,8 @@ The variables listed depend on the content of the download file.
 
 ## Related guidance
 
-* [Content style guide A to Z](./a-z)
+* [Style guide A to Z](./a-z)
 * [Measure page guidance](./measure-page)
-* [How we write about data](./how-we-write)
+* [How we write about statistics and ethnicity](./how-we-write)
 
 
