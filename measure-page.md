@@ -99,7 +99,13 @@ If no data has been excluded, leave this section blank.
 
 ### Contact – Person primarily responsible for source
 
-Give details for the person responsible for the data source. This information is not visible to users.
+Give details (name, email and phone number) for the person responsible for the data source. This information is not visible to users. 
+
+## Secondary source
+
+If there’s a secondary source, complete the secondary source section in the same way that you completed the primary source details.
+
+> For example, see [Access to NHS dental services](https://www.ethnicity-facts-figures.service.gov.uk/health/access-to-treatment/access-to-nhs-dental-services/latest#data-source-details), the data for which is published on the NHS Outcomes Framework (primary source), but derived from the GP Patient Survey (secondary source).
 
 ## Commentary
 
@@ -111,7 +117,7 @@ Its content should therefore:
 
 * supply context where appropriate (for example, ‘14.3 million (63%) of the estimated 22.6 million households in England in 2015/16 were in home ownership’)
 * summarise the most important findings on the page (across all the dimensions analysed)
-* help users unfamiliar with charts and tables understand what they’re looking at
+* help users unfamiliar with charts and tables understand what they’re looking at (for example, figures quoted in the commentary which users can also find in the charts and tables help make sense of both)
 * where possible, work as stand-alone statements (as they may be quoted out of context)
 * alert users to serious caveats about the quality of the data
 * be written in between 6 and 8 bullet points
@@ -122,7 +128,9 @@ Use this section to explain factors that might lead users to misinterpret or mis
 
 * sample sizes, suppression, missing data
 * changes in methodology over time
-* limitations in the quality or reliability of the data
+* other limitations in the quality or reliability of the data
+* the application of statistical methods like weighting and age standardisation
+* the size of the group with unknown ethnicity, and whether they’ve been included when calculating values like percentages
 
 Even quite complex statistical concepts can and should be translated into plain English for users.
 
@@ -142,22 +150,23 @@ Use this section to add context and background to the data. For example:
 * plain English definitions of terms used in the measure (for example, ‘Young people’ means people aged 10 to 17 years’)
 * what’s included where ‘other’ is used to categorise certain parts of the data (for example, ‘Types of crime under ‘Other offences’ include:...’
 
-Again, even quite complex statistical concepts can and should be translated into plain English for users.
+Translate complex statistical concepts into plain English for users, referring to the [Style guide A to Z](/a-z) where needed.
 
 Suggested maximum word count: 500
 
 ### Why these ethnic categories were chosen
 
-[UK government organisations use a variety of different lists of ethnicities](https://www.ethnicity-facts-figures.service.gov.uk/ethnicity-in-the-uk). These lists also change over time to reflect the nation’s changing population.
+UK government organisations use a variety of different lists of ethnicities. These lists also change over time to reflect the nation’s changing population. 
 
-Although the Office of National Statistics (ONS) set out a standardised list of ethnicities in the 2011 Census, in practice there is no single standard across the public sector.
+Although the Office of National Statistics (ONS) set out a standardised list of ethnicities in the 2011 Census, in practice there is no single standard across the public sector. 
 
-Use this section to explain, in plain English, the ethnic categorisation used in this measure page and why it differs from ONS’s standardised list.
+Use this section to explain, in plain English, the ethnic categorisation in this measure page and why it is used. 
 
-See the [Style guide A to Z](/a-z) for the most common ethnic categorisations.
+See the [Style guide A to Z](/a-z#ethnic-categories) for the most common ethnic categorisations. 
+
+Read more about describing ethnicity and collecting ethnicity data in [Ethnicity in the UK](https://www.ethnicity-facts-figures.service.gov.uk/).
 
 Suggested maximum word count: 100
-
 
 ## Methodology and type of data
 
@@ -182,26 +191,32 @@ The UK Statistics Authority’s Code of Practice is clear that transparency is i
 
 > Transparent judgements about statistical definitions and methods, together with judgements about strengths and limitations, are essential in supporting confidence in the quality of the statistics. [Five whys: the Code of Practice](https://www.statisticsauthority.gov.uk/five-whys-the-code-of-practice/)
 
-Use ‘Things you need to know’ to provide the non-specialist user with honest and clearly expressed caveats about the limitations of the data.
+Use ‘Things you need to know’ to provide the non-specialist user with honest and clearly expressed caveats about the limitations of the data. 
 
-Use ‘Methodology’ to give statisticians, specialists and experts in the field a detailed methodological description.
+Use ‘Methodology’ to give statisticians, specialists and experts in the field a detailed methodological description. 
 
-The language in this section may need to be more specialist and technical than the commentary elsewhere. However it should be as accessible as possible to the interested non-specialist.
+The language in this section may need to be more specialist and technical than the commentary elsewhere. However it should be as accessible as possible to the interested non-specialist. 
 
-Methodology may include:
+Include information about the following if they apply to your data:
 
-* size of survey
-* collection methods
-* limitations to the data
-* age standardisation
+* sample size , including limitations on covering the whole population
+* collection methods, including sample selection and possible sample biases
+* response rates, and non-response biases
+* whether any significance tests were done (for example, overlapping intervals or t tests) and how they were done
+* whether analysing the data by ethnicity has any quality or methodological implications that aren’t covered in the QMI document
+* age standardisation – how and why it was applied
 * weighting
 * confidence intervals
 
-Content on weighting and confidence intervals should be given separate subheads and be listed last in the methodology section.
+Content on weighting and confidence intervals should be given separate subheads and be listed last in the methodology section. 
+
+See the [Style guide A to Z](/a-z) for boilerplated plain English explanations for specialist concepts.
 
 ### Rounding
 
-Specify the rounding rules used in commentary and data.
+Specify the rounding rules used in commentary and data. 
+
+See the [data style guide](/data-style-guide#rounding) for rules on rounding.
 
 ### Related publications
 
@@ -224,11 +239,12 @@ Example from [Illicit drug use among adults](https://www.ethnicity-facts-figures
 > [Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014](http://digital.nhs.uk/catalogue/PUB21748)
 
 ## Downloads
+
 Please specify what the download file contains, for example:
 
-This file contains the following: ethnicity, year, geography, gender, age group, NS-SEC (socio-economic group), income, region, value, denominator, numerator, confidence intervals.
+> This file contains the following: measure, ethnicity, year, geography, gender, age group, NS-SEC (socio-economic group), income, region, value, denominator, numerator, confidence intervals (upper bound, lower bound).
 
-See the [data style guide](/) for more information.
+See the [data style guide](/data-style-guide#download-files) for more information.
 
 ## Dimensions
 
@@ -279,6 +295,8 @@ Summary:
 
 ## Related guidance
 
-* [Style guide A to Z](./a-z)
-* [How we write about statistics and ethnicity](./how-we-write)
+* [Content style guide A to Z](/a-z)
+* [Data style guide](/data-style-guide)
+* [How we write about statistics and ethnicity](/how-we-write)
+
 
