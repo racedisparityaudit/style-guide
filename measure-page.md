@@ -3,9 +3,7 @@ layout: page
 title: Measure page guidance
 ---
 
-A measure page represents a data set which has been analysed according to 1 or more ‘dimensions’ (sometimes called ‘analyses’).
-
-For example, the [Unemployment measure page](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest) analyses unemployment by ethnicity; by ethnicity over time; by ethnicity and region; by ethnicity and gender; and by ethnicity and age.
+A measure page represents data which has been analysed according to 1 or more ‘dimensions’ (sometimes called ‘analyses’). It’s good practice to include dimensions by ethnicity, by ethnicity over time, by ethnicity and gender, by ethnicity and age, and by ethnicity and area. The [Unemployment measure page](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest) is a good example.
 
 Each of these dimensions can be illustrated with a chart and/or table, and a summary.
 
@@ -29,25 +27,27 @@ Good example:
 
 ### Time period
 
-The time period the data covers. See the [Style guide A to Z](/a-z) for date formulations.
+The time period the data covers. See the [Style guide A to Z](/a-z#dates-and-date-ranges) for date formulations.
 
 ### Area covered
 
-The geographical area the data covers. See the [Style guide A to Z](/a-z) for style guidance on regions.
+The geographical area the data covers. See the [Style guide A to Z](/a-z#region) for style guidance on regions.
 
 ### Lowest level of geography
 
-Select one of the following:
+Typically one of the following:
 
 * United Kingdom
 * Country (for example, England, Wales, England and Wales, Scotland)
 * Region (for example, South West, London, North West, Wales)
-* Local authority upper (for example, county council and unitary authority)
-* Local authority lower (for example, district council and unitary authority)
+* Local authority upper tier (for example, county council, unitary authority, Greater London Authority) – applies to England only
+* Local authority lower tier (for example, district council, unitary authority, London borough) – applies to England, Scotland, Wales and Northern Ireland
 * Police force area
 * Clinical commissioning group
 
 If other, please contact the team to arrange for another option to be added.
+
+If you don’t know whether your data includes lower or upper tier local authorites, you can download a lookup file of [local authorities in England and Wales](http://geoportal.statistics.gov.uk/datasets/lower-tier-local-authority-to-upper-tier-local-authority-december-2017-lookup-in-england-and-wales).
 
 ## Primary source
 
@@ -57,7 +57,7 @@ The name of the data source (for example, Annual Population Survey). This should
 
 ### Publishing department
 
-The department responsible for analysing and/or publishing the data in the first instance (for example, Department for Education).
+The department responsible for analysing and/or publishing the data (for example, Department for Education).
 
 ### Source URL
 
@@ -65,7 +65,7 @@ Provide a link to the data source.
 
 ### Frequency of release
 
-How often is this data collected and published?
+How often is this data published?
 
 * Monthly
 * Quarterly
@@ -93,15 +93,9 @@ If there is a need to specify some other option, please contact the team to disc
 
 ### Suppression rules
 
-Has data been excluded from the analysis because small sample sizes make it unreliable, or for any other reason? Please specify.
+Specify here if data has been excluded from the analysis to protect confidentiality, because small sample sizes make it unreliable, or for any other reason.
 
-If no data has been excluded, leave this section blank.
-
-### Disclosure control
-
-Has data been excluded from the analysis to protect confidentiality? Please specify.
-
-If no data has been excluded, leave this section blank.
+If no data has been excluded, leave this section blank. 
 
 ### Contact – Person primarily responsible for source
 
