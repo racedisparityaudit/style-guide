@@ -3,7 +3,15 @@ layout: page
 title: Measure page guidance
 ---
 
-A measure page represents data which has been analysed according to 1 or more ‘dimensions’ (sometimes called ‘analyses’). It’s good practice to include dimensions by ethnicity, by ethnicity over time, by ethnicity and gender, by ethnicity and age, and by ethnicity and area. The [Unemployment measure page](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest) is a good example.
+A measure page represents data which has been analysed according to one or more ‘dimensions’ (sometimes called ‘analyses’). It’s good practice to include dimensions by:
+
+* ethnicity
+* ethnicity over time
+* ethnicity and gender
+* ethnicity and age
+* ethnicity and area
+
+The [Unemployment measure page](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest) is a good example.
 
 Each of these dimensions can be illustrated with a chart and/or table, and a summary.
 
@@ -148,7 +156,7 @@ Use this section to add context and background to the data. For example:
 * the source of the data (for example, ‘The figures are drawn from the 2014/15 and 2015/16 English Housing Survey (EHS)’)
 * technical aspects that need further explanation (for example, ‘Some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household’)
 * plain English definitions of terms used in the measure (for example, ‘Young people’ means people aged 10 to 17 years’)
-* what’s included where ‘other’ is used to categorise certain parts of the data (for example, ‘Types of crime under ‘Other offences’ include:...’
+* what’s included where ‘other’ is used to categorise certain parts of the data (for example, ‘Types of crime under ‘Other offences’ include:...’)
 
 Translate complex statistical concepts into plain English for users, referring to the [Style guide A to Z](/a-z) where needed.
 
@@ -183,7 +191,7 @@ Why is government (or another body) collecting this data?
 
 Example from [Reading attainments for children aged 7 to 11](https://www.ethnicity-facts-figures.service.gov.uk/education-skills-and-training/7-to-11-years-old/reading-attainments-for-children-aged-7-to-11-key-stage-2/latest):
 
-> The primary purpose is to measure schools and pupils progress and performance from key stage 1 to key stage 2 to monitor and improve standards and inform parental choice when applying to local schools.
+> The primary purpose is to measure schools' and pupils' progress and performance from key stage 1 to key stage 2 to monitor and improve standards and inform parental choice when applying to local schools.
 
 ### Methodology
 
@@ -199,7 +207,7 @@ The language in this section may need to be more specialist and technical than t
 
 Include information about the following if they apply to your data:
 
-* sample size , including limitations on covering the whole population
+* sample size, including limitations on covering the whole population
 * collection methods, including sample selection and possible sample biases
 * response rates, and non-response biases
 * whether any significance tests were done (for example, overlapping intervals or t tests) and how they were done
@@ -208,7 +216,7 @@ Include information about the following if they apply to your data:
 * weighting
 * confidence intervals
 
-Content on weighting and confidence intervals should be given separate subheads and be listed last in the methodology section. 
+Content on weighting and confidence intervals should be given separate subheads and listed last in the methodology section. 
 
 See the [Style guide A to Z](/a-z) for boilerplated plain English explanations for specialist concepts.
 
@@ -274,7 +282,7 @@ Use the summary to comment in detail on the findings presented in this dimension
 
 Content should:
 
-* avoid repetition of the Main points by providing detail specific to this dimension
+* avoid repetition of the main points by providing detail specific to this dimension
 * draw out the important and reliable findings and trends over time
 * alert users to serious caveats about the quality of the data
 * where possible, work as stand-alone statements (as they may be quoted out of context)
@@ -283,7 +291,7 @@ Content should:
 * account for differences visible in the charts which aren’t meaningful
 * be written in between 6 and 8 bullet points
 
-The example below, taken from [Overweight adults](https://www.ethnicity-facts-figures.service.gov.uk/health/preventing-illness/overweight-adults/latest) illustrates the difference between a measure’s main points and summary.
+The example below, taken from [Overweight adults](https://www.ethnicity-facts-figures.service.gov.uk/health/preventing-illness/overweight-adults/latest), illustrates the difference between a measure’s main points and summary.
 
 Main points:
 
