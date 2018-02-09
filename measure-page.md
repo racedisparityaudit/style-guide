@@ -96,6 +96,7 @@ Select one of the following:
 * National Statistics
 * Official statistics
 * Experimental statistics
+* Non-official statistics
 
 If there is a need to specify some other option, please contact the team to discuss.
 
