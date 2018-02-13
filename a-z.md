@@ -275,10 +275,8 @@ To save space, longer descriptions should be shortened in charts, tables and com
 
 5 ethnic categories:
 
-> For this data, the number of people surveyed (the ‘sample size’) was too small to draw any firm
-> conclusions about specific ethnic categories. Therefore, the data is broken down into the
-> following 5 broad groups:
->
+> For this data, the number of people from specific ethnic categories surveyed (the ‘sample size’) was too small to draw any firm conclusions. Therefore, the data is broken down into the following 5 broad groups:
+
 > * Asian/Asian British
 > * Black/African/Caribbean/Black British
 > * Mixed/Multiple ethnic groups
