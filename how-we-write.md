@@ -102,7 +102,7 @@ This is judgemental:
 
 ## Structure
 
-Ethnicity facts and figures is divided into [topics, sub-topics and measure pages](https://www.ethnicity-facts-figures.service.gov.uk/background).
+Ethnicity facts and figures is divided into topics, sub-topics and measure pages based on [consultation and engagement](https://www.ethnicity-facts-figures.service.gov.uk/background#consultation-and-engagement).
 
 The structure of the measure page  has been developed based on findings from user research. The content for each section of the measure reflects the needs (and available time) of the different audiences for that section:
 
