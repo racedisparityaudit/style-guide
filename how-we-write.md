@@ -60,7 +60,7 @@ User testing showed this was open to misinterpretation, so use ‘broad’ and �
 A term defining groups in relation to the White majority was not well received in user testing. Instead of using ‘non-White’, write either:
 
 * ‘ethnic minority groups’ when comparing with White British people
-* ‘other ethnic groups’ when comparing with White people (including White ethnic minorities)’
+* ‘other ethnic groups’ when comparing with White people (including White ethnic minorities)
 
 ### Order of ethnic categories
 
