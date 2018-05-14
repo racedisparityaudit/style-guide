@@ -20,42 +20,9 @@ The website built using [Jekyll](https://help.github.com/articles/using-jekyll-a
 
 ## Deployment
 
-The website is deployed to an AWS S3 bucket using [the S3 website gem](https://github.com/laurilehmijoki/s3_website)
+The website is deployed as a GitHub Pages site automatically from the master branch, so any changes merged to master
+will be (almost) immediately visible on the live site.
 
-To deploy, checkout this repo and create the deployment configuration by running this command
-
-    s3_website cfg create
-
-That will create the file: "s3_website.yml". Fill in at least the following values:
-
-
-    s3_id: [your aws access key id]
-    s3_secret: [your aws secret access key]
-    s3_bucket: guide-ethnicity-facts-and-figures
-
-The bucket already exists in RDU's AWS account.
-
-You can also uncomment the following from the s3_website.yml
-
-    max_age:
-      "assets/*": 6000
-      "*": 300
-
-    gzip:
-      - .html
-      - .css
-
-
-There is a AWS Cloudfront distribution in front of the S3 origin and it is currently configured to use origin
-cache headers.
-
-
-Once done you can build and deploy the static html to s3 using the shell script in this repo:
-
-  ./deploy.sh
-
-If/when there are updates to the repo, pull the updates, build html and push again.
-
-The website is served at: https://guide.ethnicity-facts-figures.service.gov.uk
-
-
+The site has a CNAME record in AWS Route 53 to make `guide.ethnicity-facts-figures.service.gov.uk` point to the GitHub
+style guide site at `racedisparityaudit@github.io`, enabling the website to be served at: 
+https://guide.ethnicity-facts-figures.service.gov.uk
