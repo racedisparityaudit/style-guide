@@ -90,7 +90,7 @@ Provide a link to the data source used for the measure. Users should be able to 
 
 The link should usually be the landing page for the statistics publication, rather than a PDF, spreadsheet or GOV.UK ‘collections’ page.
 
-> For example, for the 2017 Key Stage 1 measures, the correct URL is [Phonics screening check and key stage 1 assessments: England 2017](https://www.gov.uk/government/statistics/phonics-screening-check-and-key-stage-1-assessments-england-2017), not [Statistics: key stage 1](https://www.gov.uk/government/collections/statistics-key-stage-1) (collections page) or the [statistical first release PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/654859/Phonics_KS1_SFR_Text_2017_.pdf)..
+> For example, for the 2017 Key Stage 1 measures, the correct URL is [Phonics screening check and key stage 1 assessments: England 2017](https://www.gov.uk/government/statistics/phonics-screening-check-and-key-stage-1-assessments-england-2017), not [Statistics: key stage 1](https://www.gov.uk/government/collections/statistics-key-stage-1) (collections page) or the [statistical first release PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/654859/Phonics_KS1_SFR_Text_2017_.pdf).
 
 If the source data is not published, link to a page that best describes the data or survey.
 
@@ -176,11 +176,11 @@ See the [Style guide A to Z](/a-z) for boilerplated plain English explanations f
 
 Use this section to add context and background to the data. For example:
 
-* what this data tells users (for example, ‘This data measures how likely people in different ethnic groups are to own their own homes’)
-* the source of the data (for example, ‘The figures are drawn from the 2014/15 and 2015/16 English Housing Survey (EHS)’)
-* technical aspects that need further explanation (for example, ‘some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household’)
-* plain English definitions of terms used in the measure (for example, ‘Young people’ means people aged 10 to 17 years’)
-* what’s included where ‘other’ is used to categorise certain parts of the data (for example, ‘Types of crime under ‘Other offences’ include:...’
+* what this data tells users – for example, ‘This data measures how likely people in different ethnic groups are to own their own homes’
+* the source of the data – for example, ‘The figures are drawn from the 2014/15 and 2015/16 English Housing Survey (EHS)’
+* technical aspects that need further explanation – for example, ‘some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household’
+* plain English definitions of terms used in the measure – for example, ‘Young people’ means people aged 10 to 17 years’
+* what’s included where ‘other’ is used to categorise certain parts of the data – for example, ‘Types of crime under ‘Other offences’ include:...’
 
 Translate complex statistical concepts into plain English for users, referring to the [Style guide A to Z](/a-z) where needed.
 
@@ -210,7 +210,7 @@ The language in this section may need to be more specialist and technical than t
 
 Include information about the following if they apply to your data:
 
-* sample size , including limitations on covering the whole population
+* sample size, including limitations on covering the whole population
 * collection methods, including sample selection and possible sample biases
 * response rates, and non-response biases
 * whether any significance tests were done (for example, overlapping intervals or t tests) and how they were done
@@ -295,7 +295,7 @@ Use the summary to comment in detail on the findings presented in this dimension
 
 Content should:
 
-* avoid repetition of the Main points by providing detail specific to this dimension
+* avoid repetition of the 'Main points' section by providing detail specific to this dimension
 * draw out the important and reliable findings and trends over time
 * alert users to serious caveats about the quality of the data
 * where possible, work as stand-alone statements (as they may be quoted out of context)
