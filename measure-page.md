@@ -55,7 +55,7 @@ Choose one of the following:
 
 If other, please contact the team to arrange for another option to be added.
 
-If you don’t know whether your data includes lower or upper tier local authorites, you can download a lookup file of [local authorities in England and Wales](http://geoportal.statistics.gov.uk/datasets/lower-tier-local-authority-to-upper-tier-local-authority-december-2017-lookup-in-england-and-wales).
+If you don’t know whether your data includes lower or upper tier local authorities, you can download a lookup file of [local authorities in England and Wales](http://geoportal.statistics.gov.uk/datasets/lower-tier-local-authority-to-upper-tier-local-authority-december-2017-lookup-in-england-and-wales).
 
 ## Data sources: primary source 
 
