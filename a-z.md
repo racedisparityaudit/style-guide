@@ -3,6 +3,8 @@ layout: page
 title: A to Z
 ---
 
+[A](#a) | [b](#b) 
+
 This guide includes:
 
 * boilerplate text (content designed to have multiple applications) for statistical concepts
