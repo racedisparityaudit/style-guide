@@ -201,3 +201,17 @@ blockquote {
   min-width: 3em;
   margin-right: 1em;
 }
+
+
+/* DS - additions for A-Z page */
+nav#toc ul {
+	max-width: 100%;
+	padding-top: 3em;
+}
+nav#toc ul li {
+    /* margin-right: 30px; */
+    display: inline;
+    padding: .4em;
+    line-height: 2em;
+    font-size: 21px;
+}
