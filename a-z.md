@@ -20,11 +20,14 @@ This guide includes:
 		<li><a href="#g">G</a></li>
 		<li><a href="#h">H</a></li>
 		<li><a href="#i">I</a></li>
+		<li><span>J</span></li>
+		<li><span>K</span></li>
 		<li><a href="#l">L</a></li>
 		<li><a href="#m">M</a></li>
 		<li><a href="#n">N</a></li>
 		<li><a href="#o">O</a></li>
 		<li><a href="#p">P</a></li>
+		<li><span>Q</span></li>
 		<li><a href="#r">R</a></li>
 		<li><a href="#s">S</a></li>
 		<li><a href="#t">T</a></li>
