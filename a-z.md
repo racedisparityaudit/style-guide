@@ -176,6 +176,9 @@ When this term is used in measures, include the following definition in ‘What 
 
 > A dwelling is normally a house or flat. It is self-contained and all the rooms and amenities, such as kitchen, bathroom and toilet, are only for the use of the household living in it.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="e" class="atoz-section">E</h2>
+
 ### Economically inactive
 
 Use the following boilerplate in ‘What the data measures’ if you need to define ‘economically inactive’:
@@ -311,6 +314,9 @@ To save space, longer descriptions should be shortened in charts, tables and com
 
 In commentary, where White includes White British and White ethnic minorities, be specific about this in the first instance and use ‘the White ethnic group’ or ‘White people’ thereafter.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="f" class="atoz-section">F</h2>
+
 ### Fractions
 
 Use only meaningful fractions (a quarter, a half, three-quarters, one-third, one-fifth and one tenth) and write them out rather than expressing them numerically (not ½, ¾ etc). See the [ONS style guide](https://style.ons.gov.uk/category/house-style/numbers/#fractions) for further guidance.
@@ -329,6 +335,9 @@ Parents are able to claim FSM if they receive a [qualifying benefit](https://www
 
 FSM is used as an indicator of disadvantage. However, not all eligible parents apply for FSM and families who don’t quite reach the eligibility threshold for FSM may still be suffering deprivation.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="g" class="atoz-section">G</h2>
+
 ### Gender vs sex
 
 Use the same term that’s used in the data source.
@@ -337,6 +346,9 @@ Use the same term that’s used in the data source.
 
 
 Use ‘England, Wales and Scotland’, not Great Britain. ‘United Kingdom’ can be abbreviated to UK.
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="h" class="atoz-section">H</h2>
 
 ### Household
 
@@ -352,14 +364,19 @@ Use the following plain English definition:
 >
 > Some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="i" class="atoz-section">I</h2>
+
 ### Individuals vs occurrences
 
 Adapt the following for ‘What the data measures’ if the measure counts occurrences rather than individuals:
 
 > This data records the number of occasions on which (an act of self-harm was reported), not the number of individuals that (self-harmed), nor how often (individual young people harmed themselves). Individuals may therefore be included in the data more than once. This means that the (rate or percentage the measure is looking at) should be considered with some caution.
 
-### Levels
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="l" class="atoz-section">L</h2>
 
+### Levels
 
 Acceptable when used in the source material: for example, ‘levels of satisfaction’. Avoid as a synonym for percentage or proportion (in other words, don’t replace ‘percentage of homeowners’ with ‘levels of home ownership’).
 
@@ -395,6 +412,9 @@ Links to a downloadable pdf should be clearly labelled (PDF). For example:
 
 > This is consistent with DfE’s statistical policy statement on confidentiality (PDF).
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="m" class="atoz-section">M</h2>
+
 ### Maintained schools
 
 Avoid. Use ‘state-funded mainstream schools’ instead.
@@ -423,13 +443,14 @@ Use the following if you need to explain the median:
 
 Avoid this phrasing. Use ‘specific ethnic groups' instead. (The website collects data on ethnicity, not race, and the terms ‘major’ and ‘race’ are both potentially inflammatory.)
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="n" class="atoz-section">N</h2>
 
 ### Non-White
 
 Avoid saying ‘non-white’. Defining ethnic groups in relation to the White majority suggests they are of secondary importance. Use ‘ethnic minority groups (except White ethnic minorities)’.
 
 ### NS-SEC
-
 
 Avoid both ‘National Statistics Socio-economic Classification’ and its abbreviation NS-SEC. Use ‘socio-economic groups’ and include the following boilerplate content in Methodology:
 
@@ -445,7 +466,6 @@ Avoid both ‘National Statistics Socio-economic Classification’ and its abbre
 > * not classified
 
 ### Numbers in commentary
-
 
 Use sparingly. Referring to some of the figures in the chart or table helps users decipher them. Referring to lots of them makes the commentary indigestible.
 
@@ -470,13 +490,14 @@ Good example:
 > * in 2015/16, there were 540,689 pupils in key stage 4 at maintained schools in England, with ethnicity known for 534,918 (99%)
 > * 78% were White, 9% were Asian, 5% were Black, 4% were Mixed, 1.5% came from the Other ethnic group and 0.4% were Chinese
 
-### Only
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="o" class="atoz-section">O</h2>
 
+### Only
 
 Avoid this value judgment when describing findings. For example, don’t say ‘Asian pupils only scored X’.
 
 ### Other
-
 
 This term has several uses.
 
@@ -518,6 +539,9 @@ Define this term in measures by including the following definition in ‘What th
 
 > Overcrowding is measured using the bedroom standard. A household is counted as overcrowded if it has fewer bedrooms than it needs according to the bedroom standard.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="p" class="atoz-section">P</h2>
+
 ### Percentage
 
 When expressing numbers, use the symbol (%) in text, not the word ‘percent’ (for example, 75%). The word percentage can be used in commentary (for example, ‘a higher percentage of girls than boys entered the Ebacc’).
@@ -552,13 +576,14 @@ Proportion:
 
 Many people use these words interchangeably. Be consistent in usage within a sentence  that is, don’t combine proportion and percentage in one bullet.
 
-### Race
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="r" class="atoz-section">R</h2>
 
+### Race
 
 Use ‘ethnicity’ instead because surveys usually ask respondents for their ethnicity not their race, and using consistent terminology helps users understand the content.
 
 ### Rate
-
 
 Some measures use rate (or ratio) while others use percentage.
 
@@ -580,7 +605,6 @@ There are some exceptions. In measures relating to employment, for example, the 
 
 ### Region
 
-
 Use ‘area’ for titles of summaries, graphs and tables (user testing showed ‘region’ was often misread as ‘religion’).
 
 Region is acceptable in commentary text. Header rows in tables will usually refer to the specific type of geography being studied, for example ‘Local authority’.
@@ -599,7 +623,6 @@ England’s 9 regions take capital letters:
 
 ### Rounding
 
-
 A data analyst will decide whether to round to whole numbers or 1 decimal place. They should explain their approach in the commentary template.
 
 Rounding must be consistent within a measure, so use the same rounding in commentary that’s being used in charts and tables.
@@ -607,6 +630,9 @@ Rounding must be consistent within a measure, so use the same rounding in commen
 In cases where rounding has been used, add the boilerplate text below to the ‘Rounding’ field to explain inconsistencies:
 
 > We round numbers in our commentary. For this reason some figures may not add up, and numbers quoted in commentary may not exactly match numbers in charts and tables.
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="s" class="atoz-section">S</h2>
 
 ### Sample size
 
@@ -686,7 +712,6 @@ This type of survey methodology means that some statistical tests for significan
 
 ### Suppression and disclosure
 
-
 Explain these concepts, where they are applicable.
 
 For data suppressed or not disclosed to preserve confidentiality, adapt the following and include in ‘Things you need to know’:
@@ -708,6 +733,9 @@ Use the following plain English boilerplate in ‘Things you need to know’:
 
 >These statistics are estimates based on the sample of people who took part in the survey, and may not reflect the whole population. You should therefore use caution when interpreting them.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="t" class="atoz-section">T</h2>
+
 ### Time series
 
 When data extends over a time series of 3 or more years, or 3 or more data points, add the following caveat to 'Things you need to know':
@@ -715,7 +743,6 @@ When data extends over a time series of 3 or more years, or 3 or more data point
 > Bear in mind that the trends shown in the data may not extend beyond the time series of this analysis.
 
 ### Total household income
-
 
 Total household income is a metric frequently used in housing measures. Use the following explanation of the concept in the Methodology section:
 
@@ -742,6 +769,9 @@ Uncertainty around results based on small sample sizes is reduced if the results
 
 > Where ethnic groups have consistently low or high scores over several survey years, this can somewhat offset the uncertainty around survey estimates from one year.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="u" class="atoz-section">U</h2>
+
 ### Under-occupation
 
 Under-occupation is measured using the bedroom standard (see ‘Bedroom standard’ in this guidance). A household is counted as under-occupied if it has at least 2 bedrooms more than it needs according to the bedroom standard.
@@ -758,6 +788,9 @@ Use the following boilerplate in 'What the data measures' if you need to define 
 >
 > This is the International Labour Organisation’s definition of ‘unemployment’ and is often used in published UK statistics. It gives more accurate figures for unemployment than alternatives such as a count of claimants for out-of-work benefits.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="v" class="atoz-section">V</h2>
+
 ### Variance
 
 Explain survey results which are unreliable due to variance by adapting the following boilerplate:
@@ -767,7 +800,6 @@ Explain survey results which are unreliable due to variance by adapting the foll
 > However, when the average result is based on a wide variation in answers (for example, life satisfaction between 4 and 9 out of 10) we can be much less certain of the reliability of the survey estimate. Where no commentary has been supplied for trends or differences apparently visible in the charts and tables, it’s because this wide variation (known as ‘variance’) makes them unreliable.
 
 ### Volatility
-
 
 Use ‘variable’ instead of ‘volatile’, or avoid both terms, as in the following:
 
@@ -779,8 +811,10 @@ Rewrite:
 
 > For the Gypsy or Irish Traveller ethnic group, the number of people surveyed was too small to draw firm conclusions.
 
-### Weighting
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="w" class="atoz-section">W</h2>
 
+### Weighting
 
 If data hasn’t been weighted, this information should be included in ‘Things you need to know’.
 
@@ -818,7 +852,6 @@ See ‘2 ethnic categories’ in this guide.
 
 ### Worst
 
-
 Avoid value judgements.
 
 Bad example:
@@ -828,6 +861,9 @@ Bad example:
 Good example:
 
 > Gypsy/Roma pupils were least likely to meet the expected standards.
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="x" class="atoz-section">X</h2>
 
 ### X axis and Y axis
 
