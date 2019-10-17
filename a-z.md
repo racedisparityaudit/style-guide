@@ -40,6 +40,9 @@ You can also use a more technical explanation in Methodology:
 
 > The resulting statistics for [insert reference to what’s being measured] have been age-standardised. This is because the prevalence of [what’s being measured] is related to age and the age profile can differ considerably between ethnic groups. This adjustment allows comparisons to be made between ethnic groups as if they had the same age profile.
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="b" class="atoz-section">B</h2>
+
 ### BAME/BME (Black, Asian and minority ethnic/Black and minority ethnic)
 
 Don’t use this alternative to ‘ethnic minorities’ because:
@@ -58,6 +61,9 @@ For example, each married or cohabiting couple is allowed a bedroom, as is an in
 Where the results of a sample survey are only available for broad ethnic groups, the following caveat can be useful in ‘Things you need to know’:
 
 > The ethnic groupings used here are broad; there is no breakdown of data for the more specific ethnic groups each contains. Some of the specific ethnic groups have very different experiences to one another. For example, the Black ethnic group could include both recent migrants from Somalia and Black people born in Britain to British parents.
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="c" class="atoz-section">C</h2>
 
 ### Capitalisation
 
@@ -104,6 +110,9 @@ In Methodology, include a note like the following, customised for individual mea
 >The smaller the survey sample, the more uncertain the estimate and the wider the confidence interval. For example, fewer children from the Chinese ethnic group responded to the survey than White children, so we can be less certain about the estimate for the smaller group. This greater uncertainty is expressed by a wider confidence interval, for example of between 15.6% and 18.6% for Chinese children aged 4 to 5 in 2015/16.
 
 If the differences between 2 different groups or time periods are determined to be statistically significant using the non-overlapping confidence intervals method, see [Statistical significance determined by non-overlapping confidence intervals](#statistical-significance-determined-by-non-overlapping-confidence-intervals).
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="d" class="atoz-section">D</h2>
 
 ### Data
 
