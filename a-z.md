@@ -9,6 +9,9 @@ This guide includes:
 * definitions of commonly-used terms
 * general guidance on formatting, grammar and punctuation
 
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="a" class="atoz-section">A</h2>
+
 ### Abbreviations and acronyms
 
 Use the complete name or phrase followed by the abbreviation or acronym in the first instance: for example, ‘English Housing Survey (EHS)’. Thereafter, within each section, use the acronym alone: ‘EHS’.
