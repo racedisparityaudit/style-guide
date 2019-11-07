@@ -57,8 +57,19 @@ English law defines adults as people aged 18 and older, but some datasets count 
 
 In criminal justice statistics, ‘young people’ are aged from 10 to 17 years.
 
-### Age standardisation
+### Ages
 
+Use conversational language when talking about ages.
+
+For example:
+
+* ‘16 to 64 year olds’, not ‘people aged 16 to 64 years’
+* ‘5 year olds’, not ‘children aged 5 years old’
+* ‘under 18s’, not ‘people aged 17 and under’
+
+There are some exceptions. For example, say ‘people aged 65 and over’, not ‘over 64s’.
+
+### Age standardisation
 
 For some measures (those related to illness, for example) statistical age standardisation is particularly important.
 
@@ -81,11 +92,23 @@ Don’t use this alternative to ‘ethnic minorities’ because:
 * the UK’s ethnic minorities include White ethnic minorities
 * it highlights particular groups while others are omitted – for example, it includes Black and Asian people but not people of a Mixed ethnicity
 
+### Broad and specific ethnic groups
+
+See [Writing about ethnicity](#).
+
 ### Broad ethnic groups
 
 Where the results of a sample survey are only available for broad ethnic groups, the following caveat can be useful in ‘Things you need to know’:
 
 > The ethnic groupings used here are broad; there is no breakdown of data for the more specific ethnic groups each contains. Some of the specific ethnic groups have very different experiences to one another. For example, the Black ethnic group could include both recent migrants from Somalia and Black people born in Britain to British parents.
+
+### Bullet points
+
+In most cases, follow [GOV.UK guidance on bullet points](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#bullet-points-steps).
+
+There’s one exception. Don’t add a lead-in line above the bullet points in ‘Main facts and figures’. 
+
+See also [Writing principles](#). 
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="c" class="atoz-section">C</h2>
@@ -165,6 +188,9 @@ For a time period starting and ending with non-calendar years, format as ‘2009
 
 Preserve the formatting used for external publications: for example, ‘The English Housing Survey 2013-14’.
 
+### Decimals
+
+See [rounding](#).
 
 ### Denominators and numerators
 These are statistical terms that many users won’t understand. Keep them for use in the Methodology, where needed.
@@ -198,6 +224,17 @@ Use the following boilerplate in ‘What the data measures’ if you need to def
 >
 > People who are caring for their family or retired are also counted as economically inactive.
 
+### Ethnicities and nationalities
+
+See [Writing about ethnicity](#).
+
+### Ethnicity facts and figures
+
+Write ‘Ethnicity facts and figures’, not ‘Ethnicity Facts and Figures’ or ‘ethnicity facts and figures’.  
+
+This includes within a sentence. For example, ‘New data was recently added to Ethnicity facts and figures.’
+
+Don’t use the abbreviations ‘EFF’ or ‘EFAF’. Either say ‘Ethnicity facts and figures’ or ‘the website’, depending on the context. Don’t call it a ‘service’.
 
 ### Ethnicity unknown
 
@@ -434,6 +471,10 @@ Use men and women, young men and young women, boys and girls instead.
 
 If the sample includes both adults and children, say, for example, ‘10% of Black men and boys’.
 
+### Mean
+
+See [averages](#).
+
 ### Median
 
 Use the following if you need to explain the median:
@@ -442,6 +483,10 @@ Use the following if you need to explain the median:
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="n" class="atoz-section">N</h2>
+
+### Mixed ethnicity
+
+See [Writing about ethnicity](#).
 
 ### Non-White
 
@@ -565,6 +610,20 @@ Many people use these words interchangeably. Be consistent in usage within a sen
 ### Race
 
 Use ‘ethnicity’ instead because surveys usually ask respondents for their ethnicity not their race, and using consistent terminology helps users understand the content.
+
+### Race Disparity Audit
+
+The [Race Disparity Audit](https://www.gov.uk/government/publications/race-disparity-audit) was published on GOV.UK in October 2017.
+
+It’s a standalone publication, and not the same as the Ethnicity facts and figures website.
+
+If you need to refer to it, write ‘the Race Disparity Audit’, not ‘the race disparity audit’. In subsequent mentions, you can say ‘the audit’ (but not ‘the Audit’ or ‘the RDA’).
+
+### Race Disparity Unit
+
+Write ‘the Race Disparity Unit’, not ‘the Race disparity unit’ or ‘the race disparity unit’. 
+
+It’s fine to say ‘the RDU’, but write it out in full the first time you say it, as per the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
 ### Rate
 
