@@ -10,11 +10,11 @@ There are some exceptions. Listed here are the things not covered by the ONS sty
 ## BAME/BME (Black, Asian and minority ethnic/Black and minority ethnic)
 Don’t use these terms, use ‘ethnic minorities’ instead. This is because:
 
-the UK’s ethnic minorities include White ethnic minorities
-the terms BAME and BME highlight particular groups while others are omitted – for example, they include Black and Asian people but not people of a Mixed ethnicity
-research shows that the majority of our users don’t understand the acronyms
+* the UK’s ethnic minorities include White ethnic minorities
+* the terms BAME and BME highlight particular groups while others are omitted – for example, they include Black and Asian people but not people of a Mixed ethnicity
+* research shows that the majority of our users don’t understand the acronyms
 
-See also ethnic minorities.
+See also [ethnic minorities](#ethnic-minorities).
 
 ## Broad and specific ethnic groups
 
@@ -34,16 +34,16 @@ You can use ‘ethnic minorities’ to describe all the ethnic groups in a datas
 
 Do not use it to collectively refer to Black, Asian and Mixed groups. This is because ethnic minorities include White minorities, such as White Irish. 
 
-See also Non-White.
+See also [Non-White](#non-white).
 
 ## Ethnicities and nationalities
 
 These ethnic groups are also nationalities: 
 
-Bangladeshi
-Chinese
-Indian
-Pakistani
+* Bangladeshi
+* Chinese
+* Indian
+* Pakistani
 
 Avoid ambiguity when referring to them.
 
@@ -58,8 +58,8 @@ It’s fine to say ‘Black people’ and ‘White people’.
 
 Use the word ‘ethnicity’ on the website instead of race because:
 
-data collection asks respondents for their ethnicity not their race
-using consistent terminology helps users understand the content
+* data collection asks respondents for their ethnicity not their race
+* using consistent terminology helps users understand the content
 
 ## Mixed ethnicity
 
@@ -78,19 +78,20 @@ Ethnic groups are therefore ordered alphabetically in charts and tables, with �
 ## ‘Other’ ethnic groups
 
 ‘Other’ can refer to the following ethnic groups.
-A broad ethnic group
+
+### A broad ethnic group
 
 For example, Asian, Black, Mixed, White, Other.
 
 In commentary, write ‘people from the Other ethnic group’.
 
-## A specific ethnic group
+### A specific ethnic group
 
 For example, ‘Any other Asian background’, ‘Any other Black background’.
 
 In commentary, write ‘people from the Asian Other ethnic group’ and ‘people from the Black Other ethnic group’.
 
-## All other ethnic groups except White or White British
+### All other ethnic groups except White or White British
 
 Where you're comparing 2 ethnic groups – for example, White and Other.
 
