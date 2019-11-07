@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Writing about ethnicity 
+title: Writing about ethnicity (Draft)
 ---
-
-(Draft)
 
 We follow the [ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity) when writing about ethnicity.   
 
