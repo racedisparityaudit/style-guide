@@ -165,11 +165,13 @@ For a time period starting and ending with non-calendar years, format as ‘2009
 
 Preserve the formatting used for external publications: for example, ‘The English Housing Survey 2013-14’.
 
-### Denominators and numerators in charts and tables
 
-Data analysts will usually choose which values to include in a table.
+### Denominators and numerators
+These are statistical terms that many users won’t understand. Keep them for use in the Methodology, where needed.
 
-Check that column header rows are clear and unambiguous – for example, they should say ‘All respondents’ rather than ‘Respondents’ if they’re referring to survey data.
+A plain English explanation of who’s counted in the numerator and denominator might look like this:
+
+> The data shows the percentage of defendants who were found guilty of a certain offence within a given year. This was calculated by dividing the number of defendants found guilty of the offence by the total number of people who were prosecuted for that offence that year, then multiplying by 100.
 
 ### Difference/discrimination
 
