@@ -81,12 +81,6 @@ Don’t use this alternative to ‘ethnic minorities’ because:
 * the UK’s ethnic minorities include White ethnic minorities
 * it highlights particular groups while others are omitted – for example, it includes Black and Asian people but not people of a Mixed ethnicity
 
-### Bedroom standard
-
-This is the the number of bedrooms needed to avoid undesirable sharing (based on the age, sex and relationship of household members).
-
-For example, each married or cohabiting couple is allowed a bedroom, as is an individual aged 21 or over and each pair of adolescents or children of the same sex. The bedroom standard is described in detail in the 2015/16 [English Housing Survey Headline Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/595785/2015-16_EHS_Headline_Report.pdf) (PDF).
-
 ### Broad ethnic groups
 
 Where the results of a sample survey are only available for broad ethnic groups, the following caveat can be useful in ‘Things you need to know’:
@@ -105,12 +99,6 @@ Ethnic categories, including Asian, Black, Mixed, White and Other all take a cap
 Follow the ONS style guide and use upper case when referring to a specific census year: for example, ‘This data uses the standardised ethnic groups based on the 2011 Census’.
 
 Use lower case in all other cases: for example, ‘the census information shows that...’
-
-### Citations
-
-Citations (example below) are acceptable in Methodology but not elsewhere.
-
-> The achieved response rate (57%) is in line with that of similar surveys (Barnes et al. 2010; cited in APMS 2014).
 
 ### Compared with and compared to
 
@@ -177,14 +165,6 @@ For a time period starting and ending with non-calendar years, format as ‘2009
 
 Preserve the formatting used for external publications: for example, ‘The English Housing Survey 2013-14’.
 
-### Denominators and numerators
-
-These are statistical terms that many users won’t understand. Keep them for use in the Methodology, where needed.
-
-A plain English explanation of who’s counted in the numerator and denominator might look like this:
-
-> The data shows the percentage of defendants who were found guilty of a certain offence within a given year. This was calculated by dividing the number of defendants found guilty of the offence by the total number of people who were prosecuted for that offence that year, then multiplying by 100.
-
 ### Denominators and numerators in charts and tables
 
 Data analysts will usually choose which values to include in a table.
@@ -200,12 +180,6 @@ For this reason, we refer to ethnic ‘difference’ (or ‘disparity’) not et
 ### Double, treble/triple, quadruple
 
 ‘Double’ or ‘twice’ are acceptable. Use ‘3 times’ or ‘4 times’ instead of triple/treble/thrice or quadruple.
-
-### Dwelling
-
-When this term is used in measures, include the following definition in ‘What the data measures’:
-
-> A dwelling is normally a house or flat. It is self-contained and all the rooms and amenities, such as kitchen, bathroom and toilet, are only for the use of the household living in it.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="e" class="atoz-section">E</h2>
@@ -450,11 +424,6 @@ Links to a downloadable pdf should be clearly labelled (PDF). For example:
 
 Avoid. Use ‘state-funded mainstream schools’ instead.
 
-### Major race groups
-
-
-Avoid this phrasing. Use 'broad ethnic groups' instead. (The website collects data on ethnicity, not race, and the terms ‘major’ and ‘race’ are both potentially inflammatory.)
-
 ### Males and females
 
 Avoid unless you’re using ‘male’ or ‘female’ as an adjective, for example ‘10% of male offenders’.
@@ -468,11 +437,6 @@ If the sample includes both adults and children, say, for example, ‘10% of Bla
 Use the following if you need to explain the median:
 
 > The middle point of a range of numbers that are arranged in order of size from lowest to highest.
-
-### Minor race groups
-
-
-Avoid this phrasing. Use ‘specific ethnic groups' instead. (The website collects data on ethnicity, not race, and the terms ‘major’ and ‘race’ are both potentially inflammatory.)
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="n" class="atoz-section">N</h2>
@@ -564,12 +528,6 @@ It appears in lists of ethnic categories to describe anyone not falling into the
 ‘Other Black’ and ‘Black other’:
 Charts and tables use the formulation ‘Black other’ because it makes the grouping of Black ethnic categories easier for users to read. In commentary, use ‘Other Black’.
 
-### Overcrowding
-
-Define this term in measures by including the following definition in ‘What the data measures’:
-
-> Overcrowding is measured using the bedroom standard. A household is counted as overcrowded if it has fewer bedrooms than it needs according to the bedroom standard.
-
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="p" class="atoz-section">P</h2>
 
@@ -584,14 +542,6 @@ Gaps should be expressed as a percentage point difference, like this:
 Not like this:
 
 > 16% more Black Caribbean girls entered the Ebacc than Black Caribbean boys
-
-### Privately rented housing
-
-Use the following boilerplate in 'What the data measures' if you need to define privately rented housing:
-
-> Privately rented housing covers property which is not rented from local authorities (including Arms’ Length Management Organisations and housing action trusts), housing associations, local housing companies, co-operatives and charitable trusts.
-
-The private rented sector also includes accommodation that is tied to a job or made available rent-free.
 
 ### Proportion vs percentage
 
@@ -689,12 +639,6 @@ You can also use the following where results over time are affected by small sam
 
 > Results taken from a low number of responses are more likely to be affected by statistical variation, so observed changes might not reflect real differences. As such, caution is needed when interpreting short-term trends in the data, especially for sub-groups (for example, a specific ethnic group, age group and gender).’
 
-### Social housing
-
-Use the following boilerplate in ‘What the data measures’ if you need to define social housing:
-
-> Social housing includes property rented from local authorities (including Arms’ Length Management Organisations and housing action trusts), housing associations, local housing companies, co-operatives and charitable trusts.
-
 ### Statistical significance
 
 Specialists understand ‘not statistically significant’ to mean, ‘failing to meet a variety of statistical tests’. But for general users it begs more questions than it answers: for example, ‘Why are these results relating to my ethnic group, and the visible differences between my group and other groups, not regarded as important?’
@@ -767,12 +711,6 @@ Use the following plain English boilerplate in ‘Things you need to know’:
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="t" class="atoz-section">T</h2>
 
-### Time series
-
-When data extends over a time series of 3 or more years, or 3 or more data points, add the following caveat to 'Things you need to know':
-
-> Bear in mind that the trends shown in the data may not extend beyond the time series of this analysis.
-
 ### Total household income
 
 Total household income is a metric frequently used in housing measures. Use the following explanation of the concept in the Methodology section:
@@ -795,17 +733,12 @@ Total household income is a metric frequently used in housing measures. Use the 
 
 ### Trends across time series
 
-
 Uncertainty around results based on small sample sizes is reduced if the results are consistent over a number of years. Use the following boilerplate:
 
 > Where ethnic groups have consistently low or high scores over several survey years, this can somewhat offset the uncertainty around survey estimates from one year.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="u" class="atoz-section">U</h2>
-
-### Under-occupation
-
-Under-occupation is measured using the bedroom standard (see ‘Bedroom standard’ in this guidance). A household is counted as under-occupied if it has at least 2 bedrooms more than it needs according to the bedroom standard.
 
 ### Unemployment
 
