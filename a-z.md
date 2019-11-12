@@ -19,7 +19,7 @@ This guide includes:
 		<li><a href="#f">F</a></li>
 		<li><a href="#g">G</a></li>
 		<li><a href="#h">H</a></li>
-		<li><a href="#i">I</a></li>
+		<li><span>I</span></li>
 		<li><span>J</span></li>
 		<li><span>K</span></li>
 		<li><a href="#l">L</a></li>
@@ -32,11 +32,11 @@ This guide includes:
 		<li><a href="#s">S</a></li>
 		<li><a href="#t">T</a></li>
 		<li><a href="#u">U</a></li>
-		<li><a href="#v">V</a></li>
+		<li><span>V</span></li>
 		<li><a href="#w">W</a></li>
-		<li><a href="#x">X</a></li>
-		<li><a href="#y">Y</a></li>
-		<li><a href="#z">Z</a></li>
+		<li><span>X</span></li>
+		<li><span>Y</span></li>
+		<li><span>Z</span></li>
 	</ul>
 </nav>
 
