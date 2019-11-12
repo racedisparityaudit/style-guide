@@ -400,10 +400,6 @@ If needed, use this definition of total household income:
 
 > Total household income is the combined income of everyone in a household. It includes income from all sources. For example, work, pensions, benefits, and interest from savings.  
 
-### Trends
-
-See [Time series](#).
-
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="u" class="atoz-section">U</h2>
 
