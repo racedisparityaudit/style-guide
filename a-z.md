@@ -129,7 +129,7 @@ For example:
 Use this in the Methodology section:
 
 > [Download the data](#download-the-data) to see the confidence intervals for the estimates on this page.
-
+>
 > Read more about how confidence intervals are used to judge the reliability of survey data.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
@@ -243,7 +243,7 @@ Add this content to dimension summaries, above the bullet points:
 Add this content to the Methodology section:
 
 > Figures for free school meals include pupils who are eligible for FSM. To be eligible, their families must:
-
+>
 > * have applied for FSM at the time of the school census in January
 > * be receiving a qualifying benefit like Jobseeker’s Allowance
 
@@ -425,7 +425,7 @@ If data covers regions in England, plus Wales and/or Scotland as a whole, write 
 Use this in the Methodology section where applicable:
 
 > [Download the data](#download-the-data) to see unweighted samples.
-
+>
 > Read more about how weighting is used to judge the reliability of survey data.
 
 ### Women and men
