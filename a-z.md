@@ -188,7 +188,7 @@ Use or adapt one of the following:
 
 ### Decimals
 
-See [rounding](#).
+See [rounding](#rounding).
 
 ### Denominators and numerators
 
@@ -256,7 +256,7 @@ Add this content to the Methodology section:
 
 Use the same term as in the data source. The ONS explains [the difference between the two terms](https://www.ons.gov.uk/economy/environmentalaccounts/articles/whatisthedifferencebetweensexandgender/2019-02-21).
 
-See also [women and men](#).
+See also [women and men](#women-and-men).
 
 ### Gypsy, Roma and Traveller ethnic groups
 
@@ -333,7 +333,7 @@ See [Writing about ethnicity](writing-about-ethnicity).
 
 ### 'Other' ethnic groups
 
-This term has several uses.See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](writing-about-ethnicity).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="p" class="atoz-section">P</h2>
@@ -342,7 +342,7 @@ This term has several uses.See [Writing about ethnicity](writing-about-ethnicity
 
 Don’t use ‘proportion’, ‘level’ or ‘rate’ as an alternative to ‘percentage’. They don’t mean the same thing.
 
-See also [rates](#rates). 
+See also: [rates](#rates). 
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="r" class="atoz-section">R</h2>
@@ -368,7 +368,7 @@ You can use ‘rate’ as in these examples:
 Black people had the highest unemployment rate out of all the ethnic groups (9%)
 there were 698,737 arrests in England and Wales in 2017to 20/18, at a rate of 13 arrests per 1,000 people
 
-[See also: Percentage or proportion](#percentage-or-proportion)
+See also: [Percentage or proportion](#percentage-or-proportion)
 
 ### Rounding
 
