@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing about ethnicity (Draft)
+title: Writing about ethnicity
 ---
 
 In general, content for the Ethnicity facts and figures website and publications follows the ethnicity guidelines in [ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).  
@@ -13,7 +13,6 @@ We refer to ethnicity and not race. This is because:
 
 * surveys and questionnaires usually ask respondents for their ethnicity not their race
 * using consistent terms makes it easier for people to understand our data
-
 
 ### Ethnic minorities, BAME and BME
 
