@@ -45,17 +45,7 @@ This guide includes:
 
 ### Abbreviations and acronyms
 
-Use the complete name or phrase followed by the abbreviation or acronym in the first instance: for example, ‘English Housing Survey (EHS)’. Thereafter, within each section, use the acronym alone: ‘EHS’.
-
-Treat each section as a new instance of the name or phrase (because users may not read all the sections or read them in order).
-
-Don’t follow a name or phrase with its acronym if you’re not going to use the acronym later in the text.
-
-### Adults and young people
-
-English law defines adults as people aged 18 and older, but some datasets count those aged 16 and older as adults. In these cases the commentary should refer to “people aged 16 and older” rather than “adults aged 16 and older”.
-
-In criminal justice statistics, ‘young people’ are aged from 10 to 17 years.
+Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
 ### Ages
 
@@ -69,38 +59,30 @@ For example:
 
 There are some exceptions. For example, say ‘people aged 65 and over’, not ‘over 64s’.
 
-### Age standardisation
+### Averages
 
-For some measures (those related to illness, for example) statistical age standardisation is particularly important.
+Don’t use ‘mean’ or ‘median’ in bullet points. Say ‘average’ instead.
 
-In these cases, use a plain English explanation in ‘Things you need to know’:
+You can explain the type of average used in methodology.
 
-> These statistics have been age-standardised so comparisons can be made between ethnic groups as if they had the same age profile (an age profile shows the number of people of different ages within an ethnic group). The statistics do not tell you the actual percentage of people in each ethnic group who [insert text relevant to measure here].
+Plain English version of median:
 
+> The middle point of a range of numbers arranged in order.
 
-You can also use a more technical explanation in Methodology:
+Plain English version of mean: 
 
-> The resulting statistics for [insert reference to what’s being measured] have been age-standardised. This is because the prevalence of [what’s being measured] is related to age and the age profile can differ considerably between ethnic groups. This adjustment allows comparisons to be made between ethnic groups as if they had the same age profile.
+> The sum of all the numbers, divided by how many numbers there are.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="b" class="atoz-section">B</h2>
 
 ### BAME/BME (Black, Asian and minority ethnic/Black and minority ethnic)
 
-Don’t use this alternative to ‘ethnic minorities’ because:
-
-* the UK’s ethnic minorities include White ethnic minorities
-* it highlights particular groups while others are omitted – for example, it includes Black and Asian people but not people of a Mixed ethnicity
+See [Writing about ethnicity](writing-about-ethnicity).
 
 ### Broad and specific ethnic groups
 
-See [Writing about ethnicity](#).
-
-### Broad ethnic groups
-
-Where the results of a sample survey are only available for broad ethnic groups, the following caveat can be useful in ‘Things you need to know’:
-
-> The ethnic groupings used here are broad; there is no breakdown of data for the more specific ethnic groups each contains. Some of the specific ethnic groups have very different experiences to one another. For example, the Black ethnic group could include both recent migrants from Somalia and Black people born in Britain to British parents.
+See [Writing about ethnicity](writing-about-ethnicity).
 
 ### Bullet points
 
@@ -108,125 +90,130 @@ In most cases, follow [GOV.UK guidance on bullet points](https://www.gov.uk/guid
 
 There’s one exception. Don’t add a lead-in line above the bullet points in ‘Main facts and figures’. 
 
-See also [Writing principles](#). 
+See also [Writing principles](#).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="c" class="atoz-section">C</h2>
 
 ### Capitalisation
 
-Ethnic categories, including Asian, Black, Mixed, White and Other all take a capital. When referring generically to ‘all other ethnic groups’ (compared to the White British group, for example) use a lower ‘o’, but use a capital ‘O’ for for specific groupings like ‘Any Other Asian’ or ‘Any Other Black’.
+Follow the [GOV.UK guidance on capitalisation](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#capitalisation). 
+
+See also [Writing about ethnicity](writing-about-ethnicity).
 
 ### Census
 
-Follow the ONS style guide and use upper case when referring to a specific census year: for example, ‘This data uses the standardised ethnic groups based on the 2011 Census’.
-
-Use lower case in all other cases: for example, ‘the census information shows that...’
-
-### Compared with and compared to
-
-Use ‘compared with’ when writing about the similarities and differences of subjects.
+A population census happens every 10 years in England and Wales, Scotland, and Northern Ireland. Write ‘Census’ with a capital ‘C’ when you’re referring to a specific census. 
 
 For example:
 
-> 25% of White respondents felt they had an influence, compared with 44% of Black respondents
+* according to the 2011 Census, the total population of England and Wales was 56.1 million
 
-Use ‘in comparison with’, not ‘in comparison to’.
+Use lower case:
+
+* when you’re not referring to a specific census – for example, ‘census information shows that…’
+* for the ‘school census’ 
+
+### Comparisons
+
+Don’t write ‘compared to’.
+
+Write ‘compared with’ when you’re comparing groups with each other.
+
+For example:
+
+> from 2017 to 2018, there were 3 stop and searches for every 1,000 White people, compared with 29 stop and searches for every 1,000 Black people
 
 ### Confidence intervals
 
-Research showed that even data-literate users struggled to understand this important statistical concept when numbers were presented in a table or an explanation offered in commentary.
+Use this in the Methodology section:
 
-In Methodology, include a note like the following, customised for individual measures:
+> [Download the data](#download-the-data) to see the confidence intervals for the estimates on this page.
 
-> Confidence intervals
->
-> Confidence intervals for each ethnic group are available in the ‘download the data’ section.
->
-> Based on the NCMP measurements, it’s estimated that 22.1% of children aged 4 to 5 and 34.2% of children aged 10 to 11 were overweight or obese in England in 2015/16.
->
-> The NCMP is based on a sample of schoolchildren aged 4 to 5 and aged 10 to 11 in state-maintained schools, rather than all schoolchildren of those ages in such schools in England. This measure makes a reliable estimate of the percentage of children of these ages in England who are overweight or obese, but it’s impossible to be 100% certain of the true percentage.
->
-> It’s 95% certain, however, that somewhere between 22.0% and 22.2% of all 4 to 5 year olds in England were overweight or obese in 2015/16. In statistical terms, this is a 95% confidence interval. This means that if 100 random samples were taken, then 95 times out of 100 the estimate would fall between the lower and upper bounds of the confidence interval. But 5 times out of 100 it would fall outside this range.
->
->The smaller the survey sample, the more uncertain the estimate and the wider the confidence interval. For example, fewer children from the Chinese ethnic group responded to the survey than White children, so we can be less certain about the estimate for the smaller group. This greater uncertainty is expressed by a wider confidence interval, for example of between 15.6% and 18.6% for Chinese children aged 4 to 5 in 2015/16.
-
-If the differences between 2 different groups or time periods are determined to be statistically significant using the non-overlapping confidence intervals method, see [Statistical significance determined by non-overlapping confidence intervals](#statistical-significance-determined-by-non-overlapping-confidence-intervals).
+> Read more about how confidence intervals are used to judge the reliability of survey data.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="d" class="atoz-section">D</h2>
 
 ### Data
 
-Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and treat data as a singular noun.
+Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and write data as a singular noun.
 
-### Data versus statistics
+For example:
 
+‘This data shows that…’, not ‘These data show that…’.
 
-Use data to refer to the raw material the measure draws on, and statistics to refer to findings and estimates. It might be useful to think of data as the clay and statistics as the pot.
+### Dates
 
-### Data visualisation doesn’t match commentary
+Follow [GOV.UK’s style guide on dates](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#dates). Say ‘2018 to 2019’, not ‘2018/19’ or ‘2018-19’.  
 
+Dashes (-) and slashes (/) make it harder for users to read and don’t work well for those who use screen readers.
 
-Charts can appear to show differences between ethnic groups which, for statistical reasons, aren’t meaningful or reliable findings.
+#### Financial or academic years 
 
-However, simply ignoring them leaves users at best confused, and at worst suspicious.
+Let users know if you’re referring to a date range other than a calendar year: 
 
-Adapt one of the following and include in the main points:
+* The financial year ending March 2019
+* The academic year ending July 2019
+* The tax year 2017 to 2018
 
-> although the chart/table shows a difference in home ownership for under 35s, sample sizes for this group are small, so any generalisations based on this result are very unreliable
+Example:
 
-> there were no meaningful differences in the degree to which men and women in other ethnic groups felt their actions were worthwhile, because of the wide variation in responses for these groups
+> there were 277,378 stop and search incidents in England and Wales in the financial year ending March 2018, at a rate of 5 per 1,000 people
 
-### Dates and date ranges
+#### Combining data across multiple years
 
-For financial or academic year date ranges use the format ‘2015/16’. Use the ‘What the data measures’ section to specify whether the measure spans an academic or financial year.
+Don’t refer to ‘rolling averages’.
 
-For combined years of data use the format ‘2013/14, 2014/15 and 2015/16 (combined)’.
+Use or adapt one of the following:
 
-For a time period starting and ending with non-calendar years, format as ‘2009/10 to 2015/16’.
+* 3 years ending March 2019 (combined)
+* In the 5 years ending August 2019, an average of...
+* On average for 2017 and 2018 combined, …
 
-Preserve the formatting used for external publications: for example, ‘The English Housing Survey 2013-14’.
+Example:
+
+> in the 2 years ending March 2017, an average of 3.9 million (17%) of the estimated 23 million households in England rented social housing
+
+#### Periods over time
+
+Don’t write ‘2002/03 to 2018/19’.
+
+Use or adapt one of the following:
+
+* 2002 to 2018
+* 10 academic years ending August 2019
+* Financial years ending March 2003 to March 2019
+
 
 ### Decimals
 
 See [rounding](#).
 
 ### Denominators and numerators
-These are statistical terms that many users won’t understand. Keep them for use in the Methodology, where needed.
 
-A plain English explanation of who’s counted in the numerator and denominator might look like this:
-
-> The data shows the percentage of defendants who were found guilty of a certain offence within a given year. This was calculated by dividing the number of defendants found guilty of the offence by the total number of people who were prosecuted for that offence that year, then multiplying by 100.
-
-### Difference/discrimination
-
-We avoid subjective judgements about the causes of different outcomes or experiences for ethnic groups, which may or may not be due to discrimination.
-
-For this reason, we refer to ethnic ‘difference’ (or ‘disparity’) not ethnic discrimination. An obvious exception would be measures discussing discrimination cases in law.
-
-### Double, treble/triple, quadruple
-
-‘Double’ or ‘twice’ are acceptable. Use ‘3 times’ or ‘4 times’ instead of triple/treble/thrice or quadruple.
+Don’t refer to ‘numerators’ or ‘denominators’ except in data download files.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="e" class="atoz-section">E</h2>
 
 ### Economically inactive
 
-Use the following boilerplate in ‘What the data measures’ if you need to define ‘economically inactive’:
+Someone is economically inactive if they are 16 to 64 years old and:
 
-> A person of working age is counted as economically inactive if:
->
-> * they are out of work
-> * they have not been actively looking for work in the past 4 weeks
-> * they are not waiting to start a job
->
-> People who are caring for their family or retired are also counted as economically inactive.
+* are out of work
+* have not been looking for work in the past 4 weeks
+* are not waiting to start a job
+
+This could include people who care for their family or are retired. 
+
+### Ethnic minorities
+
+See [Writing about ethnicity](writing-about-ethnicity).
 
 ### Ethnicities and nationalities
 
-See [Writing about ethnicity](#).
+See [Writing about ethnicity](writing-about-ethnicity).
 
 ### Ethnicity facts and figures
 
@@ -236,186 +223,53 @@ This includes within a sentence. For example, ‘New data was recently added to 
 
 Don’t use the abbreviations ‘EFF’ or ‘EFAF’. Either say ‘Ethnicity facts and figures’ or ‘the website’, depending on the context. Don’t call it a ‘service’.
 
-### Ethnicity unknown
-
-When data includes people for whom ethnicity is unknown, analysts will usually follow the department’s lead in including or excluding them from charts, tables and downloads.
-
-Where it’s appropriate, include details about the group (for example its size) in ‘Things you need to know’.
-
-### Ethnic minorities and ‘people from ethnic minority groups’
-
-When White British people are compared to all other ethnic groups, these groups can collectively be referred to as ‘ethnic minorities’ or ‘people from ethnic minority groups’.
-
-Avoid using either term as a synonym for Black, Asian, Mixed, etc – ethnic minorities include White ethnic minorities.
-
-### Ethnic categories
-
-Although there is no standardised list of ethnic categories used across the public sector, the following are the most common. Use the text below to explain the ethnic categories used in the measure.
-
-To save space, longer descriptions should be shortened in charts, tables and commentary (for example, use ‘Black’ instead of ‘Black/African/Caribbean/Black British’).
-
-18 ethnic categories:
-
-> This data uses the standardised ethnic groups based on the 2011 Census.
->
-> White:
->
-> * English/Welsh/Scottish/Northern Irish/British
-> * Irish
-> * Gypsy, Traveller or Irish Traveller
-> * Any Other White background
->
-> Mixed/Multiple ethnic groups:
->
-> * White and Black Caribbean
-> * White and Black African
-> * White and Asian
-> * Any Other Mixed/Multiple ethnic background
->
-> Asian/Asian British:
->
-> * Indian
-> * Pakistani
-> * Bangladeshi
-> * Chinese
-> * Any Other Asian background
->
-> Black/African/Caribbean/Black British:
->
-> * African
-> * Caribbean
-> * Any Other Black/African/Caribbean background
->
-> Other ethnic group:
->
-> * Arab
-> * Any Other ethnic group
-
-16 ethnic categories:
-
-> The 16 categories used in this data are those listed in the 2001 Census. The categories are
-> broadly the same as those used in the 2011 Census, with the following exceptions:
->
-> * the 2001 Census categorised Chinese people within 'Other ethnic group'.
-> * the 2001 Census did not list Gypsy and Irish Travellers or Arab people.
->
-> The 2001 categories are therefore as follows:
->
-> White:
->
-> * English/Welsh/Scottish/Northern Irish/British
-> * Irish
-> * Any Other White background
->
-> Mixed/Multiple ethnic groups:
->
-> * White and Black Caribbean
-> * White and Black African
-> * White and Asian
-> * Any Other Mixed/Multiple ethnic background
->
-> Asian/Asian British:
->
-> * Indian
-> * Pakistani
-> * Bangladeshi
-> * Any Other Asian background
->
-> Black/African/Caribbean/Black British:
->
-> * African
-> * Caribbean
-> * Any Other Black/ African/ Caribbean background
->
-> Other ethnic group:
->
-> * Chinese
-> * Any Other ethnic group
-
-5 ethnic categories:
-
-> For this data, the number of people from specific ethnic categories surveyed (the ‘sample size’) was too small to draw any firm conclusions. Therefore, the data is broken down into the following 5 broad groups:
-
-> * Asian/Asian British
-> * Black/African/Caribbean/Black British
-> * Mixed/Multiple ethnic groups
-> * White
-> * Other ethnic group
-
-2 ethnic categories:
-
-> For this data, the number of people surveyed (the ‘sample size’) was too small to draw any firm conclusions about specific or broad ethnic categories. Therefore, the data is broken down into the following 2 broad categories:
-
-(either)
-
-> * White British
-> * Other – all other ethnic groups (including White ethnic minorities and all other ethnic minorities)
-
-(or)
-
-> * White – White ethnic groups (including White British and White ethnic minorities)
-> * Other – all other ethnic minorities
-
-In commentary, where White includes White British and White ethnic minorities, be specific about this in the first instance and use ‘the White ethnic group’ or ‘White people’ thereafter.
-
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="f" class="atoz-section">F</h2>
 
 ### Fractions
 
-Use only meaningful fractions (a quarter, a half, three-quarters, one-third, one-fifth and one tenth) and write them out rather than expressing them numerically (not ½, ¾ etc). See the [ONS style guide](https://style.ons.gov.uk/category/house-style/numbers/#fractions) for further guidance.
+Only use meaningful fractions such as a quarter, a half, three-quarters or one-third. Follow the [ONS guidance](https://style.ons.gov.uk/category/house-style/numbers/#fractions) by writing them out rather than expressing numerically (not ½ or ¾).
 
 ### Free school meals (FSM)
 
-In commentary:
+Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms) before using ‘FSM’.
 
-> Eligibility for free school meals (FSM) is used as an indicator of deprivation by the Department for Education. For more about who qualifies for FSM, see Methodology.
+All children in reception, year 1 and year 2 at state-funded schools get free school meals.
 
-In Methodology:
+But eligibility for free school meals is also used as an indicator of deprivation.
 
-> Pupils are included in the figures for free school meals (FSM) if their families have claimed eligibility for FSM at the time of the annual spring school census. This FSM definition includes all who were eligible to receive free school meals, not only those who actually received free school meals. Pupils not eligible for free school meals or unclassified pupils are described as ‘All other pupils’.
+Add this content to dimension summaries, above the bullet points:
 
-Parents are able to claim FSM if they receive a [qualifying benefit](https://www.gov.uk/apply-free-school-meals).
+> The Department for Education uses eligibility for free school meals (FSM) as an indicator of deprivation.
 
-FSM is used as an indicator of disadvantage. However, not all eligible parents apply for FSM and families who don’t quite reach the eligibility threshold for FSM may still be suffering deprivation.
+Add this content to the Methodology section:
+
+> Figures for free school meals include pupils who are eligible for FSM. To be eligible, their families must:
+
+> * have applied for FSM at the time of the school census in January
+> * be receiving a qualifying benefit like Jobseeker’s Allowance
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="g" class="atoz-section">G</h2>
 
 ### Gender vs sex
 
-Use the same term that’s used in the data source.
+Use the same term as in the data source. The ONS explains [the difference between the two terms](https://www.ons.gov.uk/economy/environmentalaccounts/articles/whatisthedifferencebetweensexandgender/2019-02-21).
 
-### Geographic coverage
+See also [women and men](#).
 
+### Gypsy, Roma and Traveller ethnic groups
 
-Use ‘England, Wales and Scotland’, not Great Britain. ‘United Kingdom’ can be abbreviated to UK.
+See [Writing about ethnicity](writing-about-ethnicity).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="h" class="atoz-section">H</h2>
 
 ### Household
 
-Use the following plain English definition:
+Plain English version of household:
 
-> A household is one person or a group of people (not necessarily related) who have the accommodation as their only or main residence. If it is a group, they must share cooking facilities and also share a living room, sitting room or dining area.
-
-### Household reference person
-
-Use the following plain English definition:
-
-> The household reference person is the person in whose name the dwelling is owned or rented or who is otherwise responsible for the accommodation.
->
-> Some households contain people from different ethnic backgrounds; in these circumstances, we have used the ethnic background of the household reference person to define the ethnic background of the household.
-
-<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
-<h2 id="i" class="atoz-section">I</h2>
-
-### Individuals vs occurrences
-
-Adapt the following for ‘What the data measures’ if the measure counts occurrences rather than individuals:
-
-> This data records the number of occasions on which (an act of self-harm was reported), not the number of individuals that (self-harmed), nor how often (individual young people harmed themselves). Individuals may therefore be included in the data more than once. This means that the (rate or percentage the measure is looking at) should be considered with some caution.
+> A household is a person or group of people whose accommodation is their main home. If it is a group, they must share cooking facilities and a living room, sitting room or dining area.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="l" class="atoz-section">L</h2>
