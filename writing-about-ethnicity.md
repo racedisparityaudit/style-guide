@@ -55,8 +55,9 @@ We don’t use slashes (/) in commentary as this can imply these terms are the s
 
 For example:
 
-* 29% of White Gypsy and Roma pupils met the expected standard in reading compared with 31% of White Irish Traveller pupils
-* 75.2% of people from the Gypsy and Traveller ethnic group were satisfied with GP out-of-hours services 
+> 29% of White Gypsy and Roma pupils met the expected standard in reading compared with 31% of White Irish Traveller pupils
+>
+> 75.2% of people from the Gypsy and Traveller ethnic group were satisfied with GP out-of-hours services 
 
 ## Ordering and style
 
