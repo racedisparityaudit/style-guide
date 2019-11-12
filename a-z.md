@@ -107,7 +107,7 @@ A population census happens every 10 years in England and Wales, Scotland, and N
 
 For example:
 
-* according to the 2011 Census, the total population of England and Wales was 56.1 million
+> according to the 2011 Census, the total population of England and Wales was 56.1 million
 
 Use lower case:
 
@@ -139,9 +139,7 @@ Use this in the Methodology section:
 
 Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and write data as a singular noun.
 
-For example:
-
-‘This data shows that…’, not ‘These data show that…’.
+Write ‘This data shows that…’, not ‘These data show that…’.
 
 ### Dates
 
@@ -256,7 +254,7 @@ Add this content to the Methodology section:
 
 Use the same term as in the data source. The ONS explains [the difference between the two terms](https://www.ons.gov.uk/economy/environmentalaccounts/articles/whatisthedifferencebetweensexandgender/2019-02-21).
 
-See also [women and men](#women-and-men).
+See also: [women and men](#women-and-men).
 
 ### Gypsy, Roma and Traveller ethnic groups
 
@@ -290,7 +288,7 @@ You can also use ‘as likely’ for relative likelihoods.
 
 For example:
 
-* Black people were over 3 times as likely to be arrested as White people – there were 35 arrests for every 1,000 Black people, and 11 for every 1,000 White people
+> Black people were over 3 times as likely to be arrested as White people – there were 35 arrests for every 1,000 Black people, and 11 for every 1,000 White people
 
 ### Links
 
@@ -417,7 +415,7 @@ Write ‘England, Wales and Scotland’, not Great Britain.
 
 If data covers regions in England, plus Wales and/or Scotland as a whole, write ‘all regions’ in commentary. For example:
 
-> * out of all regions, London had the smallest percentage of White British people, at 44.9%, and the North East had the highest percentage, at 93.6%
+> out of all regions, London had the smallest percentage of White British people, at 44.9%, and the North East had the highest percentage, at 93.6%
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="w" class="atoz-section">W</h2>
@@ -450,12 +448,12 @@ If you do use ‘working age’, include a definition in the first bullet point 
 
 Example:
 
-> * 75% of working age people (people aged 16 to 64) in England, Wales and Scotland were employed in 2018
+> 75% of working age people (people aged 16 to 64) in England, Wales and Scotland were employed in 2018
 
 ## Related guidance
 
-* [How we write about statistics and ethnicity](./how-we-write)
-* [Measure page guidance](./measure-page)
+* [Writing about ethnicity](writing-about-ethnicity)
+* [Writing principles](principles)
 
 
 <div class="app-back-to-top app-back-to-top--hidden" data-module="app-back-to-top">
