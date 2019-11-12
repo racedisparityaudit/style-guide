@@ -27,7 +27,7 @@ We do not use Black, Asian and minority ethnic (BAME) or Black and minority ethn
 
 * the UK’s ethnic minorities include White minorities
 * they highlight some groups and not others – for example, Black and Asian people are included but not people of a Mixed ethnicity
-* user research, the acronyms BAME and BME were not well understood by our audience
+* in user research, the acronyms BAME and BME were not well understood by our audience
 
 ### Broad and specific ethnic groups
 
