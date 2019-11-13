@@ -459,3 +459,36 @@ Example:
 		</a>
 	</div>
 </div>
+<style>
+.app-back-to-top{
+    padding-bottom: 20px;
+}
+
+.app-back-to-top--fixed {
+  position: fixed;
+  bottom: 0px;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #f3f2f1;
+  z-index: 1;
+}
+.app-back-to-top--fixed .app-back-to-top__container {
+  max-width: 990px;
+  margin: 0 auto;
+}
+.app-back-to-top--fixed .app-back-to-top__link {
+  padding: 15px;
+  display: block;
+  outline: 0;
+}
+.app-back-to-top__icon {
+  display: inline-block;
+  width: 0.8em;
+  height: 1em;
+  margin-top: -5px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+</style>
