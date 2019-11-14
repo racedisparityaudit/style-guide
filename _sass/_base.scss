@@ -60,6 +60,13 @@ h3 {
   margin-bottom: em(5, 16);
 }
 
+h4 {
+  @include bold-19();
+  margin-top: 2em;
+  margin-bottom: em(5, 16);
+  color: #6f777b;
+}
+
 p {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -225,18 +232,4 @@ h2.atoz-section {
     text-align: center;
     line-height: 2.2em;
     color: #fff;
-}
-/* h4 styles as per Gov.uk Frontend */
-.govuk-heading-s, h4 {
-    color: #6f777b;
-    /*font-family: "GDS Transport",Arial,sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-weight: 700; */
-    font-size: 16px;
-    /* font-size: 1rem; */
-    line-height: 1.25;
-    display: block;
-    margin-top: 0;
-    margin-bottom: 15px;
 }
