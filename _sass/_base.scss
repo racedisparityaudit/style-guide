@@ -210,6 +210,29 @@ blockquote {
 }
 
 
+/* DS - additions for index page */
+.section-list li {
+	list-style: none;
+    cursor: pointer;
+    border-top: 1px solid #bfc1c3;
+}
+.section-list li a {
+	text-decoration: none;
+    display: block;
+    padding: 10px 10px 10px 0;
+}
+.section-list li a .subsection-title-text {
+	text-decoration: none;
+    display: block;
+    padding: 10px 10px 10px 0;
+    color: #005ea5;
+}
+.section-list li a .subsection-summary {
+    color: #0b0c0c;
+    display: block;
+}
+
+
 /* DS - additions for A-Z page */
 nav#toc ul {
 	max-width: 100%;
