@@ -213,7 +213,7 @@ blockquote {
 
 /* DS - additions for index page */
 .section-list {
-	padding-left: none;
+	padding-left: 0;
 }
 .section-list li {
 	list-style: none;
@@ -223,7 +223,7 @@ blockquote {
 .section-list li a {
 	text-decoration: none;
     display: block;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .section-list li a:hover {
 	background-color: #dee0e2;
@@ -231,7 +231,7 @@ blockquote {
 .section-list li a h2.subsection-title-text {
 	text-decoration: none;
     display: block;
-    padding: 10px;
+    padding: 0px;
     margin: 0;
     color: #005ea5;
 }
