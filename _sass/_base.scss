@@ -60,6 +60,7 @@ h3 {
   margin-bottom: em(5, 16);
 }
 
+/* DS - added styles for h4 */
 h4 {
   @include bold-19();
   margin-top: 2em;
@@ -211,6 +212,9 @@ blockquote {
 
 
 /* DS - additions for index page */
+.section-list {
+	padding-left: none;
+}
 .section-list li {
 	list-style: none;
     cursor: pointer;
@@ -219,12 +223,16 @@ blockquote {
 .section-list li a {
 	text-decoration: none;
     display: block;
-    padding: 10px 10px 10px 0;
+    padding: 10px 0;
 }
-.section-list li a .subsection-title-text {
+.section-list li a:hover {
+	background-color: #dee0e2;
+}
+.section-list li a h2.subsection-title-text {
 	text-decoration: none;
     display: block;
-    padding: 10px 10px 10px 0;
+    padding: 10px;
+    margin: 0;
     color: #005ea5;
 }
 .section-list li a .subsection-summary {
