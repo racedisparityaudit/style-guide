@@ -3,11 +3,14 @@ layout: page
 title: A to Z
 ---
 
-This guide includes:
+This A to Z is for anyone writing content for the Ethnicity facts and figures website and publications. It includes:
 
-* boilerplate text (content designed to have multiple applications) for statistical concepts
-* definitions of commonly-used terms
+* example text that can be used in commentary, for example about confidence intervals or free school meals
 * general guidance on formatting, grammar and punctuation
+
+It should be used alongside guidance on [writing about ethnicity](writing-about-ethnicity) and our [writing principles](principles). 
+
+If you can’t find what you need, check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). Otherwise, send us feedback to tell us what’s missing.
 
 <nav id="toc">
 	<ul>
