@@ -42,10 +42,7 @@ We explain if findings aren’t reliable or meaningful.
 
 For example:
 
-* more
-* stuff
-* goes
-* here
+> although the data shows rises or falls in visits for some ethnic groups, these figures may not represent the wider population because of the small number of people surveyed.
 
 ## Define terms
 
@@ -84,3 +81,8 @@ We say instead ‘in every ethnic group’ if a finding applies to every ethnic 
 For example:
 
 > between 2004 and 2018, the employment rate increased in every ethnic group
+
+## Help us stay up to date
+
+Language usage and acceptability change over time. We want to make sure our content reflects those changes. Contact us at [ethnicity@cabinetoffice.gov.uk](mailto:ethnicity@cabinetoffice.gov.uk) with your thoughts and research. 
+
