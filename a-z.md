@@ -454,11 +454,14 @@ Example:
 * [Writing about ethnicity](writing-about-ethnicity)
 * [Writing principles](principles)
 
+## Help us stay up to date
+
+Language usage and acceptability change over time. We want to make sure our content reflects those changes. Contact us at [ethnicity@cabinetoffice.gov.uk](mailto:ethnicity@cabinetoffice.gov.uk) with your thoughts and research.
 
 <div class="app-back-to-top app-back-to-top--hidden" data-module="app-back-to-top">
 	<div class="app-back-to-top__container">
 		<a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#toc" data-event-action="Clicked" data-event-category="Back to Top" data-event-label="Contents" data-on="click">
-			<svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17"><path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path></svg>Contents
+			<svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17"><path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path></svg>Back to top
 		</a>
 	</div>
 </div>
