@@ -82,6 +82,11 @@ For example:
 
 > between 2004 and 2018, the employment rate increased in every ethnic group
 
+## Related guidance
+
+* [Writing about ethnicity](writing-about-ethnicity)
+* [Style guide A to Z](a-z)
+
 ## Help us stay up to date
 
 Language usage and acceptability change over time. We want to make sure our content reflects those changes. Contact us at [ethnicity@cabinetoffice.gov.uk](mailto:ethnicity@cabinetoffice.gov.uk) with your thoughts and research. 
