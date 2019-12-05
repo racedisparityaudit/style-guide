@@ -5,12 +5,10 @@ title: A to Z
 
 This A to Z is for anyone writing content for the Ethnicity facts and figures website and publications. It includes:
 
-* example text that can be used in commentary, for example about confidence intervals or free school meals
+* example text that can be used in commentary, for example about confidence intervals
 * general guidance on formatting, grammar and punctuation
 
-It should be used alongside guidance on [writing about ethnicity](writing-about-ethnicity) and our [writing principles](principles). 
-
-If you can’t find what you need, check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). Otherwise, send us feedback to tell us what’s missing.
+It should be used alongside guidance on [writing about ethnicity](/writing-about-ethnicity) and [our writing principles](/our-writing-principles). You can also check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). 
 
 <nav id="toc">
 	<ul>
@@ -50,6 +48,17 @@ If you can’t find what you need, check [the GDS style guide](https://www.gov.u
 
 Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
+See also [Ethnicity facts and figures](#ethnicity-facts-and-figures), [Race Disparity Unit](race-disparity-unit) and [Race Disparity Audit](race-disparity-audit). 
+ 
+### Age standardisation
+
+If figures have been age standardised, add this content to ‘Things you need to know’:
+
+> These figures are not the actual percentages of people who [insert text relevant to measure]. They have been adjusted because:
+>
+> * people’s age can affect their [insert text relevant to measure]
+> * different ethnic groups have different [age profiles](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/demographics/age-groups/latest).
+ 
 ### Ages
 
 Use conversational language when talking about ages.
@@ -61,52 +70,66 @@ For example:
 * ‘under 18s’, not ‘people aged 17 and under’
 
 There are some exceptions. For example, say ‘people aged 65 and over’, not ‘over 64s’.
+ 
+### Academic years
+
+See [Dates](#dates). 
 
 ### Averages
 
 Don’t use ‘mean’ or ‘median’ in bullet points. Say ‘average’ instead.
 
-You can explain the type of average used in methodology.
+You can explain the type of average used in ‘Methodology’.
 
 Plain English version of median:
 
 > The middle point of a range of numbers arranged in order.
 
-Plain English version of mean: 
+Plain English version of mean:
 
 > The sum of all the numbers, divided by how many numbers there are.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="b" class="atoz-section">B</h2>
 
-### BAME/BME (Black, Asian and minority ethnic/Black and minority ethnic)
+### BAME and BME (Black, Asian and minority ethnic/Black and minority ethnic)
 
-See [Writing about ethnicity](writing-about-ethnicity).
+Don’t use these terms.
+
+Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#BAME-BME-and-people-of-colour).
+
+### Blacks
+
+Do not use this term.
+
+Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#phrasing).
 
 ### Broad and specific ethnic groups
 
-See [Writing about ethnicity](writing-about-ethnicity).
+Don’t use these terms.
+
+Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#broad-and-specific-ethnic-groups).
 
 ### Bullet points
 
-In most cases, follow [GOV.UK guidance on bullet points](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#bullet-points-steps).
+In most cases, follow the [GOV.UK guidance on bullet points](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#bullet-points-steps).
 
-There’s one exception. Don’t add a lead-in line above the bullet points in ‘Main facts and figures’. 
+There’s one exception. Don’t add a lead-in line above the bullet points in ‘Main facts and figures’.
 
-See also [Writing principles](#).
+See also [Our writing principles](/our-writing-principles).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="c" class="atoz-section">C</h2>
 
 ### Capitalisation
 
-Follow the [GOV.UK guidance on capitalisation](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#capitalisation). 
+Follow the [GOV.UK guidance on capitalisation](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#capitalisation).
 
-See also [Writing about ethnicity](writing-about-ethnicity).
+See also [Writing about ethnicity](/writing-about-ethnicity#capitalisation).
 
 ### Census
 
-A population census happens every 10 years in England and Wales, Scotland, and Northern Ireland. Write ‘Census’ with a capital ‘C’ when you’re referring to a specific census. 
+A population census happens every 10 years in England and Wales, Scotland, and Northern Ireland. Write ‘Census’ with a capital ‘C’ when you’re referring to a specific census.
 
 For example:
 
@@ -115,7 +138,7 @@ For example:
 Use lower case:
 
 * when you’re not referring to a specific census – for example, ‘census information shows that…’
-* for the ‘school census’ 
+* for the ‘school census’
 
 ### Comparisons
 
@@ -131,34 +154,34 @@ For example:
 
 Use this in the Methodology section:
 
-> [Download the data](#download-the-data) to see the confidence intervals for the estimates on this page.
->
-> Read more about how confidence intervals are used to judge the reliability of survey data.
+> Download the data to see confidence intervals for the estimates on this page.
+
+Read more about how confidence intervals are used to judge the reliability of survey data.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="d" class="atoz-section">D</h2>
 
 ### Data
 
-Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and write data as a singular noun.
+Follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#data) and write data as a singular noun:
 
-Write ‘This data shows that…’, not ‘These data show that…’.
+‘This data shows that…’, not ‘These data show that…’.
 
 ### Dates
 
-Follow [GOV.UK’s style guide on dates](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#dates). Say ‘2018 to 2019’, not ‘2018/19’ or ‘2018-19’.  
+Follow the [GOV.UK style guide on dates](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#dates). Write ‘2018 to 2019’, not ‘2018/19’ or ‘2018-19’.
 
 Dashes (-) and slashes (/) make it harder for users to read and don’t work well for those who use screen readers.
 
-#### Financial or academic years 
+#### Financial or academic years
 
-Let users know if you’re referring to a date range other than a calendar year: 
+Let users know if you’re referring to a date range other than a calendar year:
 
 * The financial year ending March 2019
 * The academic year ending July 2019
 * The tax year 2017 to 2018
 
-Example:
+For example:
 
 > there were 277,378 stop and search incidents in England and Wales in the financial year ending March 2018, at a rate of 5 per 1,000 people
 
@@ -169,12 +192,12 @@ Don’t refer to ‘rolling averages’.
 Use or adapt one of the following:
 
 * 3 years ending March 2019 (combined)
-* In the 5 years ending August 2019, an average of...
+* In the 5 years ending August 2019, an average of…
 * On average for 2017 and 2018 combined, …
 
-Example:
+For example:
 
-> in the 2 years ending March 2017, an average of 3.9 million (17%) of the estimated 23 million households in England rented social housing
+> in the 2 years ending March 2017, 17% of households in England rented social housing
 
 #### Periods over time
 
@@ -182,86 +205,104 @@ Don’t write ‘2002/03 to 2018/19’.
 
 Use or adapt one of the following:
 
-* 2002 to 2018
+* 2002 to 2019
 * 10 academic years ending August 2019
 * Financial years ending March 2003 to March 2019
 
+### Deciles
+
+See [Quintiles](#quintiles).
 
 ### Decimals
 
-See [rounding](#rounding).
+See [Rounding](#rounding).
 
 ### Denominators and numerators
 
 Don’t refer to ‘numerators’ or ‘denominators’ except in data download files.
+
+### Deprivation
+
+See [Index of multiple deprivation](#index-of-multiple-deprivation). 
+
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="e" class="atoz-section">E</h2>
 
 ### Economically inactive
 
-Someone is economically inactive if they are 16 to 64 years old and:
+Use this Plain English definition of economically inactive:
 
-* are out of work
-* have not been looking for work in the past 4 weeks
-* are not waiting to start a job
+> Someone is economically inactive if they are 16 to 64 years old and:
+> * are out of work
+> * have not been looking for work in the past 4 weeks
+> * are not waiting to start a job
 
-This could include people who care for their family or are retired. 
+This could include people who care for their family or are retired.
+
+### Ethnicity
+
+Use ‘ethnicity’ instead of ‘race’.
+
+See also [Writing about ethnicity](/writing-about-ethnicity#ethnicity-and-race). 
 
 ### Ethnic minorities
 
-See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](/writing-about-ethnicity#ethnic-minorities).
 
 ### Ethnicities and nationalities
 
-See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](/writing-about-ethnicity#ethnicities-and-nationalities).
 
 ### Ethnicity facts and figures
 
-Write ‘Ethnicity facts and figures’, not ‘Ethnicity Facts and Figures’ or ‘ethnicity facts and figures’.  
-
+Write ‘Ethnicity facts and figures’, not ‘Ethnicity Facts and Figures’ or ‘ethnicity facts and figures’.
 This includes within a sentence. For example, ‘New data was recently added to Ethnicity facts and figures.’
-
 Don’t use the abbreviations ‘EFF’ or ‘EFAF’. Either say ‘Ethnicity facts and figures’ or ‘the website’, depending on the context. Don’t call it a ‘service’.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="f" class="atoz-section">F</h2>
 
+### Financial years
+
+See [Dates](#dates). 
+
 ### Fractions
 
 Only use meaningful fractions such as a quarter, a half, three-quarters or one-third. Follow the [ONS guidance](https://style.ons.gov.uk/category/house-style/numbers/#fractions) by writing them out rather than expressing numerically (not ½ or ¾).
 
-### Free school meals (FSM)
+### Free school meals
 
 Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms) before using ‘FSM’.
 
-All children in reception, year 1 and year 2 at state-funded schools get free school meals.
+Eligibility for free school meals can be used as an indicator of deprivation.
 
-But eligibility for free school meals is also used as an indicator of deprivation.
+Where it is, add this content to dimension summaries, above the bullet points:
 
-Add this content to dimension summaries, above the bullet points:
-
-> The Department for Education uses eligibility for free school meals (FSM) as an indicator of deprivation.
+> Eligibility for free school meals (FSM) in England is used as an indicator of deprivation.
 
 Add this content to the Methodology section:
 
 > Figures for free school meals include pupils who are eligible for FSM. To be eligible, their families must:
->
 > * have applied for FSM at the time of the school census in January
 > * be receiving a qualifying benefit like Jobseeker’s Allowance
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="g" class="atoz-section">G</h2>
 
-### Gender vs sex
+### Gender and sex
 
 Use the same term as in the data source. The ONS explains [the difference between the two terms](https://www.ons.gov.uk/economy/environmentalaccounts/articles/whatisthedifferencebetweensexandgender/2019-02-21).
 
-See also: [women and men](#women-and-men).
+See also [Women and men](#women-and-men).
+
+### Great Britain
+
+See [UK and Great Britain](#uk-and-great-britain).
 
 ### Gypsy, Roma and Traveller ethnic groups
 
-See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](/writing-about-ethnicity#gypsy-roma-and-traveller-ethnic-groups).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="h" class="atoz-section">H</h2>
