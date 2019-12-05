@@ -472,17 +472,17 @@ The exception is when linking to measures with different rounding rules, for exa
 
 ### Sex
 
-See [Gender vs sex](#gender-vs-sex).
+See [Gender and sex](#gender-and-sex).
 
 ### Socio-economic groups
 
-Write ‘socio-economic groups’. Don't write ‘socioeconomic groups’ or ‘NS-SEC groups’ (including in charts and tables).
+Write ‘socio-economic groups’. Don’t write ‘socioeconomic groups’ or ‘NS-SEC groups’ (including in charts and tables).
 
 You don’t need to list the groups other than in the charts and tables.
 
 ### Statistical significance
 
-See [Writing principles](principles).
+See [Our writing principles](/our-writing-principles#explain-if-figures-aren’t-reliable).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="t" class="atoz-section">T</h2>
@@ -491,7 +491,7 @@ See [Writing principles](principles).
 
 If needed, use this definition of total household income:
 
-> Total household income is the combined income of everyone in a household. It includes income from all sources. For example, work, pensions, benefits, and interest from savings.  
+> Total household income is the combined income of everyone in a household. It includes income from all sources. For example, work, pensions, benefits, and interest from savings.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="u" class="atoz-section">U</h2>
@@ -502,7 +502,9 @@ Write ‘UK’, not ‘United Kingdom’.
 
 Write ‘England, Wales and Scotland’, not Great Britain.
 
-If data covers regions in England, plus Wales and/or Scotland as a whole, write ‘all regions’ in commentary. For example:
+If data covers regions in England, plus Wales and/or Scotland as a whole, write ‘all regions’ in commentary. 
+
+For example: 
 
 > out of all regions, London had the smallest percentage of White British people, at 44.9%, and the North East had the highest percentage, at 93.6%
 
@@ -510,16 +512,14 @@ If data covers regions in England, plus Wales and/or Scotland as a whole, write 
 <h2 id="w" class="atoz-section">W</h2>
 
 ### Weighting
-
 Use this in the Methodology section where applicable:
 
-> [Download the data](#download-the-data) to see unweighted samples.
->
-> Read more about how weighting is used to judge the reliability of survey data.
+> Download the data to see unweighted samples.
+> Read more about how weighting is used to make samples representative of the population. 
 
 ### Women and men
 
-Use ‘women’ and ‘girls’ instead of ‘females’. Use ‘men’ and ‘boys’ rather than ‘males’. 
+Use ‘women’ and ‘girls’ instead of ‘females’. Use ‘men’ and ‘boys’ rather than ‘males’.
 
 Only use ‘male’ and ‘female’ as adjectives.
 
@@ -529,20 +529,22 @@ For example:
 
 ### Working age
 
-The working age population in employment statistics includes all 16 to 64 year olds. 
+The working age population in employment statistics includes all 16 to 64 year olds.
 
-Consider if it’s clearer to refer directly to ‘16 to 64 year olds’ instead of ‘people of working age’. 
+Consider if it’s clearer to refer directly to ‘16 to 64 year olds’ instead of ‘people of working age’.
 
-If you do use ‘working age’, include a definition in the first bullet point of each summary. 
+If you do use ‘working age’, include a definition in the first bullet point of each summary.
 
-Example:
+For example:
 
 > 75% of working age people (people aged 16 to 64) in England, Wales and Scotland were employed in 2018
 
 ## Related guidance
 
-* [Writing about ethnicity](writing-about-ethnicity)
-* [Writing principles](principles)
+[Writing about ethnicity](/writing-about-ethnicity)
+
+[Our writing principles](/our-writing-principles)
+
 
 ## Help us stay up to date
 
