@@ -20,7 +20,7 @@ It should be used alongside guidance on [writing about ethnicity](/writing-about
 		<li><a href="#f">F</a></li>
 		<li><a href="#g">G</a></li>
 		<li><a href="#h">H</a></li>
-		<li><span>I</span></li>
+		<li><a href="#i">I</a></li>
 		<li><span>J</span></li>
 		<li><span>K</span></li>
 		<li><a href="#l">L</a></li>
@@ -28,7 +28,7 @@ It should be used alongside guidance on [writing about ethnicity](/writing-about
 		<li><a href="#n">N</a></li>
 		<li><a href="#o">O</a></li>
 		<li><a href="#p">P</a></li>
-		<li><span>Q</span></li>
+		<li><a href="#q">Q</a></li>
 		<li><a href="#r">R</a></li>
 		<li><a href="#s">S</a></li>
 		<li><a href="#t">T</a></li>
@@ -308,25 +308,43 @@ See [Writing about ethnicity](/writing-about-ethnicity#gypsy-roma-and-traveller-
 <h2 id="h" class="atoz-section">H</h2>
 
 ### Household
-
-Plain English version of household:
+Use this Plain English definition of household:
 
 > A household is a person or group of people whose accommodation is their main home. If it is a group, they must share cooking facilities and a living room, sitting room or dining area.
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="i" class="atoz-section">I</h2>
+
+### Index of multiple deprivation
+
+Do not refer to indices of deprivation in commentary. Use Plain English instead, with a simple definition if necessary.
+
+For example:
+
+> * the neighbourhood’s deprivation is defined using the [Index of Multiple Deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). 
+> * Black students from all but the least deprived neighbourhoods had the highest rates of leaving their course
+
+You can add a longer definition to ‘Things You Need to Know’:
+
+> The Index of Multiple Deprivation (IMD) 2015 splits England into neighbourhoods by population size (roughly, 1,500 people). IMD describes relative, not absolute, deprivation: that is, neighbourhoods are grouped into the most deprived 20% through to the least deprived 20%.
+ 
+See also [Quintiles](#quintiles).
+
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="l" class="atoz-section">L</h2>
 
 ### Likelihood
 
-You can use ‘more/most likely’ and ‘less/least likely’ to compare ethnic groups.
+You can use ‘more/most likely’ and ‘less/least likely’ to compare ethnic groups where there are statistically significant differences.
 
 Always make it clear what you’re comparing.
 
 For example:
 
-* in all ethnic groups, men were more likely to be employed than women
-* adults from the Chinese ethnic group were the least likely out of all ethnic groups to be overweight or obese
-* people from ethnic minorities were more likely to receive an OBE or MBE than any other type of honour
+> * in all ethnic groups, men were more likely to be employed than women
+> * adults from the Chinese ethnic group were the least likely out of all ethnic groups to be overweight or obese
+> * people from ethnic minorities were more likely to receive an OBE or MBE than any other type of honour
 
 You can also use ‘as likely’ for relative likelihoods.
 
@@ -336,8 +354,7 @@ For example:
 
 ### Links
 
-Avoid linking to PDFs. If you do, the document link text should be labelled as a PDF with the file size and number of pages. 
-
+Avoid linking to PDFs. If you do, the document link text should be labelled as a PDF with the file size and number of pages.
 For example:
 
 > This is consistent with [DfE’s statistical policy statement on confidentiality](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/773124/External_confidentiality_policy.pdf) (PDF, 336KB, 13 pages).
@@ -353,29 +370,31 @@ Don’t use ‘maintained schools’. Use ‘state-funded mainstream schools’ 
 
 ### Mean
 
-See [averages](#averages).
+See [Averages](#averages).
 
 ### Median
 
-See [averages](#averages).
+See [Averages](#averages).
 
 ### Mixed ethnicity
 
-See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](/writing-about-ethnicity#phrasing).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="n" class="atoz-section">N</h2>
 
 ### Non-White
 
-See [Writing about ethnicity](writing-about-ethnicity).
+Don’t say ‘Non-White’.
+
+Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#ethnic-minorities).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="o" class="atoz-section">O</h2>
 
-### 'Other' ethnic groups
+### Other ethnic groups
 
-See [Writing about ethnicity](writing-about-ethnicity).
+See [Writing about ethnicity](/writing-about-ethnicity#capitalisation).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="p" class="atoz-section">P</h2>
@@ -384,10 +403,32 @@ See [Writing about ethnicity](writing-about-ethnicity).
 
 Don’t use ‘proportion’, ‘level’ or ‘rate’ as an alternative to ‘percentage’. They don’t mean the same thing.
 
-See also: [rates](#rates). 
+See also [Rates](#rates).
+
+
+<hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
+<h2 id="q" class="atoz-section">Q</h2>
+
+### Quintile
+
+Don’t use ‘quintile’ or ‘decile’. Instead refer directly to what the quintiles or deciles relate to.   
+
+For example, don’t say this:
+
+> 43% of Indian households fell into the 2 highest income quintiles 
+
+ Say this:
+
+> 43% of Indian households had a total income of £34,700 a year or more
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="r" class="atoz-section">R</h2>
+
+### Race
+
+Use ‘ethnicity’ instead of ‘race’. 
+
+See also [Writing about ethnicity](/writing-about-ethnicity#ethnicity-and-race).
 
 ### Race Disparity Audit
 
@@ -399,22 +440,30 @@ If you need to refer to it, write ‘the Race Disparity Audit’, not ‘the rac
 
 ### Race Disparity Unit
 
-Write ‘the Race Disparity Unit’, not ‘the Race disparity unit’ or ‘the race disparity unit’. 
+The [Race Disparity Unit](https://www.gov.uk/government/organisations/race-disparity-unit) is the team that produced the Race Disparity Audit and now manages the Ethnicity facts and figures website.
 
-It’s fine to say ‘the RDU’, but write it out in full the first time you say it, as per the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
+Write ‘the Race Disparity Unit’, not ‘the Race disparity unit’ or ‘the race disparity unit’.
+
+It’s fine to say ‘the RDU’, but write it out in full the first time you use it, as per the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
 ### Rates
 
 You can use ‘rate’ as in these examples:
 
-Black people had the highest unemployment rate out of all the ethnic groups (9%)
+Black people had the highest unemployment rate out of all the ethnic groups (9%) 
 there were 698,737 arrests in England and Wales in 2017to 20/18, at a rate of 13 arrests per 1,000 people
 
-See also: [Percentage or proportion](#percentage-or-proportion)
+See also [Percentage and proportion](#percentage-and-proportion).
+
+### Rolling averages
+
+Do not use rolling averages. 
+ 
+Refer to guidance in [Dates](#dates).
 
 ### Rounding
 
-Generally you should be consistent in your use of rounding in a measure page. So, 1.2%, 5.8% and 10.1% - not 1.2%, 6% and 10.146%.
+Generally you should be consistent in your use of rounding in a measure page. So 1.2%, 5.8% and 10.1%, not 1.2%, 6% and 10.146%. Keep the decimal point even if it’s a zero. So 10.0%, not 10%. 
 
 The exception is when linking to measures with different rounding rules, for example from a summary report. In this case, use the same rounding that has been used within each measure page.
 
