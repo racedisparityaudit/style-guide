@@ -3,7 +3,9 @@ layout: page
 title: Our writing principles
 ---
 
-A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. Our writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
+A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. 
+O
+ur writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
 
 ## Write clearly and concisely
 
@@ -14,9 +16,9 @@ Content we write for the Ethnicity facts and figures website and GOV.UK should:
 * be written in plain English
 * be easy for everyone to understand, even complex statistical ideas
 * be accessible to everyone, including people with disabilities or who use assistive technologies like screen readers 
-* follow our guidelines on [writing about ethnicity](writing-about-ethnicity) and our [style guide A to Z](a-z)
-
-GOV.UK has [guidance on writing well](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).
+* follow our guidelines on [writing about ethnicity](/writing-about-ethnicity) and [our style guide A to Z](/A-to-Z)
+ 
+GOV.UK has [guidance on writing well](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).  
 
 ## Be impartial and avoid judgemental language
 
@@ -42,7 +44,7 @@ We explain if findings aren’t reliable or meaningful.
 
 For example:
 
-> although the data shows rises or falls in visits for some ethnic groups, these figures may not represent the wider population because of the small number of people surveyed.
+> although the data shows rises or falls in visits for some ethnic groups, these figures may not represent the wider population because of the small number of people surveyed
 
 ## Define terms
 
@@ -51,12 +53,13 @@ We include definitions of terms we think readers may not know. We do this the fi
 For example:
 
 > 22% of working age people (people aged 16 to 64) were economically inactive in 2018, which means they were out of work and not looking for a job
->
+
 > in the academic year 2017 to 2018, the overall absence rate (school sessions missed due to authorised and unauthorised absence) was 4.8%
+
 
 ## Don’t overload users with numbers
 
-We don’t reference too many figures in one sentence. This is because it makes users work harder to understand the information. The Nielson Norman Group have done research into how users process information.
+We don’t reference too many figures in one sentence. This is because it makes users work harder to understand the information. The Nielson Norman Group have done [research into how users process information](https://www.nngroup.com/articles/minimize-cognitive-load/).
 
 For example:
 
@@ -69,6 +72,7 @@ This could be rewritten as:
 We minimise the number of figures in one sentence.
  
 We’re also consistent in the way we present figures. For example, we use fractions and percentages, but not both in the same measure. 
+
 
 ## Avoid ambiguity
 
@@ -84,8 +88,8 @@ For example:
 
 ## Related guidance
 
-* [Writing about ethnicity](writing-about-ethnicity)
-* [Style guide A to Z](a-z)
+* [Writing about ethnicity](/writing-about-ethnicity)
+* [Style guide A to Z](/A-to-Z)
 
 ## Help us stay up to date
 
