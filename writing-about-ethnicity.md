@@ -49,7 +49,7 @@ However, don’t say 'Mixed people' or 'Mixed race people'. Say ‘people from a
 
 We differentiate between Gypsy, Roma and Irish Traveller communities. 
 
-‘Gypsy or Irish Traveller’ is one of the [18 standardised ethnic groups](/ethnic-groups). However data is sometimes collected for a Gypsy/Roma group or White Gypsy/Traveller group, for example. 
+‘Gypsy or Irish Traveller’ is one of the [18 standardised ethnic groups](https://www.ethnicity-facts-figures.service.gov.uk/ethnic-groups). However data is sometimes collected for a Gypsy/Roma group or White Gypsy/Traveller group, for example. 
 
 We don’t use slashes (/) in commentary as this can imply these terms are the same. Instead we refer to:
 
