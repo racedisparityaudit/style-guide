@@ -89,7 +89,7 @@ For example:
 ## Related guidance
 
 * [Writing about ethnicity](writing-about-ethnicity)
-* [Style guide A to Z](A-to-Z)
+* [Style guide A to Z](a-z)
 
 ## Help us stay up to date
 
