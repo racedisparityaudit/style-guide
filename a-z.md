@@ -484,7 +484,7 @@ You don’t need to list the groups other than in the charts and tables.
 
 ### Statistical significance
 
-See [Our writing principles](our-writing-principles#explain-if-figures-arent-reliable).
+See [Our writing principles](principles#explain-if-figures-arent-reliable).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="t" class="atoz-section">T</h2>
@@ -543,9 +543,9 @@ For example:
 
 ## Related guidance
 
-[Writing about ethnicity](/writing-about-ethnicity)
+[Writing about ethnicity](writing-about-ethnicity)
 
-[Our writing principles](/our-writing-principles)
+[Our writing principles](principles)
 
 
 ## Help us stay up to date
