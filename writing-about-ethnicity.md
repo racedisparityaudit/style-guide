@@ -93,6 +93,13 @@ Where there’s a risk of users mistaking ethnicities for nationalities, we avoi
 * ‘people from the Indian ethnic group’, not 'Indian people'
 * ‘pupils from the Chinese ethnic group’, not ‘Chinese pupils’
 
+
+## Related guidance
+
+* [Our writing principles](principles)
+* [Style guide A to Z](a-z)
+
+
 ## Help us stay up to date
 
 Language usage and acceptability change over time. We want to make sure our content reflects those changes. Contact us at [ethnicity@cabinetoffice.gov.uk](mailto:ethnicity@cabinetoffice.gov.uk) with your thoughts and research. 
