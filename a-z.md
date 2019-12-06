@@ -5,10 +5,10 @@ title: A to Z
 
 This A to Z is for anyone writing content for the Ethnicity facts and figures website and publications. It includes:
 
-* example text that can be used in commentary, for example about confidence intervals
 * general guidance on formatting, grammar and punctuation
+* example text that can be used in commentary
 
-It should be used alongside guidance on [writing about ethnicity](/writing-about-ethnicity) and [our writing principles](/our-writing-principles). You can also check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). 
+It should be used alongside guidance on [writing about ethnicity](writing-about-ethnicity) and [our writing principles](principles). You can also check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). 
 
 <nav id="toc">
 	<ul>
@@ -48,7 +48,7 @@ It should be used alongside guidance on [writing about ethnicity](/writing-about
 
 Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
-See also [Ethnicity facts and figures](#ethnicity-facts-and-figures), [Race Disparity Unit](race-disparity-unit) and [Race Disparity Audit](race-disparity-audit). 
+See also [Ethnicity facts and figures](#ethnicity-facts-and-figures), [Race Disparity Unit](#race-disparity-unit) and [Race Disparity Audit](#race-disparity-audit). 
  
 ### Age standardisation
 
@@ -96,19 +96,19 @@ Plain English version of mean:
 
 Don’t use these terms.
 
-Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#BAME-BME-and-people-of-colour).
+Refer to guidance in [Writing about ethnicity](writing-about-ethnicity#bame-bme-and-people-of-colour).
 
 ### Blacks
 
 Do not use this term.
 
-Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#phrasing).
+Refer to guidance in [Writing about ethnicity](writing-about-ethnicity#phrasing).
 
 ### Broad and specific ethnic groups
 
 Don’t use these terms.
 
-Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#broad-and-specific-ethnic-groups).
+Refer to guidance in [Writing about ethnicity](writing-about-ethnicity#broad-and-specific-ethnic-groups).
 
 ### Bullet points
 
@@ -116,7 +116,7 @@ In most cases, follow the [GOV.UK guidance on bullet points](https://www.gov.uk/
 
 There’s one exception. Don’t add a lead-in line above the bullet points in ‘Main facts and figures’.
 
-See also [Our writing principles](/our-writing-principles).
+See also [Our writing principles](principles).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="c" class="atoz-section">C</h2>
@@ -125,7 +125,7 @@ See also [Our writing principles](/our-writing-principles).
 
 Follow the [GOV.UK guidance on capitalisation](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#capitalisation).
 
-See also [Writing about ethnicity](/writing-about-ethnicity#capitalisation).
+See also [Writing about ethnicity](writing-about-ethnicity#capitalisation).
 
 ### Census
 
@@ -155,8 +155,8 @@ For example:
 Use this in the Methodology section:
 
 > Download the data to see confidence intervals for the estimates on this page.
-
-Read more about how confidence intervals are used to judge the reliability of survey data.
+>
+> Read more about how confidence intervals are used to judge the reliability of survey data.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="d" class="atoz-section">D</h2>
@@ -237,27 +237,29 @@ Use this Plain English definition of economically inactive:
 > * are out of work
 > * have not been looking for work in the past 4 weeks
 > * are not waiting to start a job
-
-This could include people who care for their family or are retired.
+>
+> This could include people who care for their family or are retired.
 
 ### Ethnicity
 
 Use ‘ethnicity’ instead of ‘race’.
 
-See also [Writing about ethnicity](/writing-about-ethnicity#ethnicity-and-race). 
+See also [Writing about ethnicity](writing-about-ethnicity#ethnicity-and-race). 
 
 ### Ethnic minorities
 
-See [Writing about ethnicity](/writing-about-ethnicity#ethnic-minorities).
+See [Writing about ethnicity](writing-about-ethnicity#ethnic-minorities).
 
 ### Ethnicities and nationalities
 
-See [Writing about ethnicity](/writing-about-ethnicity#ethnicities-and-nationalities).
+See [Writing about ethnicity](writing-about-ethnicity#ethnicities-and-nationalities).
 
 ### Ethnicity facts and figures
 
 Write ‘Ethnicity facts and figures’, not ‘Ethnicity Facts and Figures’ or ‘ethnicity facts and figures’.
+
 This includes within a sentence. For example, ‘New data was recently added to Ethnicity facts and figures.’
+
 Don’t use the abbreviations ‘EFF’ or ‘EFAF’. Either say ‘Ethnicity facts and figures’ or ‘the website’, depending on the context. Don’t call it a ‘service’.
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
@@ -302,7 +304,7 @@ See [UK and Great Britain](#uk-and-great-britain).
 
 ### Gypsy, Roma and Traveller ethnic groups
 
-See [Writing about ethnicity](/writing-about-ethnicity#gypsy-roma-and-traveller-ethnic-groups).
+See [Writing about ethnicity](writing-about-ethnicity#gypsy-roma-and-traveller-ethnic-groups).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="h" class="atoz-section">H</h2>
@@ -378,7 +380,7 @@ See [Averages](#averages).
 
 ### Mixed ethnicity
 
-See [Writing about ethnicity](/writing-about-ethnicity#phrasing).
+See [Writing about ethnicity](writing-about-ethnicity#phrasing).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="n" class="atoz-section">N</h2>
@@ -387,19 +389,19 @@ See [Writing about ethnicity](/writing-about-ethnicity#phrasing).
 
 Don’t say ‘Non-White’.
 
-Refer to guidance in [Writing about ethnicity](/writing-about-ethnicity#ethnic-minorities).
+Refer to guidance in [Writing about ethnicity](writing-about-ethnicity#ethnic-minorities).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="o" class="atoz-section">O</h2>
 
 ### Other ethnic groups
 
-See [Writing about ethnicity](/writing-about-ethnicity#capitalisation).
+See [Writing about ethnicity](writing-about-ethnicity#capitalisation).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="p" class="atoz-section">P</h2>
 
-### Percentage or proportion
+### Percentage and proportion
 
 Don’t use ‘proportion’, ‘level’ or ‘rate’ as an alternative to ‘percentage’. They don’t mean the same thing.
 
@@ -409,7 +411,7 @@ See also [Rates](#rates).
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="q" class="atoz-section">Q</h2>
 
-### Quintile
+### Quintiles
 
 Don’t use ‘quintile’ or ‘decile’. Instead refer directly to what the quintiles or deciles relate to.   
 
@@ -428,7 +430,7 @@ For example, don’t say this:
 
 Use ‘ethnicity’ instead of ‘race’. 
 
-See also [Writing about ethnicity](/writing-about-ethnicity#ethnicity-and-race).
+See also [Writing about ethnicity](writing-about-ethnicity#ethnicity-and-race).
 
 ### Race Disparity Audit
 
@@ -482,7 +484,7 @@ You don’t need to list the groups other than in the charts and tables.
 
 ### Statistical significance
 
-See [Our writing principles](/our-writing-principles#explain-if-figures-aren’t-reliable).
+See [Our writing principles](our-writing-principles#explain-if-figures-arent-reliable).
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
 <h2 id="t" class="atoz-section">T</h2>
