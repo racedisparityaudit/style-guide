@@ -452,8 +452,9 @@ It’s fine to say ‘the RDU’, but write it out in full the first time you us
 
 You can use ‘rate’ as in these examples:
 
-Black people had the highest unemployment rate out of all the ethnic groups (9%) 
-there were 698,737 arrests in England and Wales in 2017to 20/18, at a rate of 13 arrests per 1,000 people
+> Black people had the highest unemployment rate out of all the ethnic groups (9%).
+
+> There were 698,737 arrests in England and Wales in 2017 to 2018, at a rate of 13 arrests per 1,000 people.
 
 See also [Percentage and proportion](#percentage-and-proportion).
 
