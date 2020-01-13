@@ -4,6 +4,27 @@ title: Writing about ethnicity
 ---
 
 The Ethnicity facts and figures website and publications generally follow the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).
+
+
+<div id="toc">
+<div class="govuk-body govuk-!-font-size-16 govuk-!-margin-bottom-1 govuk-!-margin-top-5">Contents</div>
+<ol class="eff-table-of-contents">
+         
+<li><a class="govuk-link" href="#main-facts-and-figures" data-on="click" data-event-category="Table of contents link clicked" data-event-action="Main facts and figures" data-event-label=""><span class="eff-table-of-contents__number">1. </span><span class="eff-table-of-contents__content">Language</span></a></li>
+
+
+
+<li><a class="govuk-link" href="#by-ethnicity" data-on="click" data-event-category="Table of contents link clicked" data-event-action="Dimension" data-event-label="By ethnicity"><span class="eff-table-of-contents__number">2. </span><span class="eff-table-of-contents__content">Ordering and style</span></a></li>
+
+
+<li><a class="govuk-link" href="#by-ethnicity-and-eligibility-for-free-school-meals" data-on="click" data-event-category="Table of contents link clicked" data-event-action="Dimension" data-event-label="By ethnicity and eligibility for free school meals"><span class="eff-table-of-contents__number">3. </span><span class="eff-table-of-contents__content">Ethnicities and nationalities</span></a></li>
+
+
+<li><a class="govuk-link" href="#by-ethnicity-and-area" data-on="click" data-event-category="Table of contents link clicked" data-event-action="Dimension" data-event-label="By ethnicity and area"><span class="eff-table-of-contents__number">4. </span><span class="eff-table-of-contents__content">Related guidance</span></a></li>
+            
+</ol>
+</div>
+</div>
  
 ## Language
 
