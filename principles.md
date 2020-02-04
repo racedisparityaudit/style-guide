@@ -16,7 +16,7 @@ Content we write for the Ethnicity facts and figures website and GOV.UK should:
 * be written in plain English
 * be easy for everyone to understand, even complex statistical ideas
 * be accessible to everyone, including people with disabilities or who use assistive technologies like screen readers 
-* follow our guidelines on [writing about ethnicity](writing-about-ethnicity) and [our style guide A to Z](A-to-Z)
+* follow our guidelines on [writing about ethnicity](writing-about-ethnicity) and [our style guide A to Z](a-z)
  
 GOV.UK has [guidance on writing well](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).  
 
