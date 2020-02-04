@@ -336,7 +336,7 @@ The variables listed depend on the content of the download file.
 ## Related guidance
 
 * [Style guide A to Z](./a-z)
-* [Measure page guidance](./measure-page)
-* [How we write about statistics and ethnicity](./how-we-write)
+* [Writing about ethnicity](./writing-about-ethnicity)
+* [Our writing principles](./principles)
 
 
