@@ -4,6 +4,8 @@ title: Our writing principles
 description: Our principles for writing clearly and impartially about statistics and ethnicity on Ethnicity facts and figures.
 ---
 
+A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. Our writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
+
 Contents
 1. [Write clearly and concisely](#write-clearly-and-concisely)
 2. [Be impartial and avoid judgemental language](#be-impartial-and-avoid-judgemental-language)
@@ -13,8 +15,6 @@ Contents
 6. [Avoid ambiguity](#avoid-ambiguity)
 7. [Related guidance](#related-guidance)
 8. [Help us stay up to date](#help-us-stay-up-to-date)
-
-A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. Our writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
 
 ## Write clearly and concisely
 
