@@ -7,9 +7,9 @@ description: Our principles for writing clearly and impartially about statistics
 Contents
 1. [Write clearly and concisely](#write-clearly-and-concisely)
 2. [Be impartial and avoid judgemental language](#be-impartial-and-avoid-judgemental-language)
-3. [Explain if figures aren’t reliable](#explain-if-figures-aren’t-reliable)
+3. [Explain if figures aren’t reliable](#explain-if-figures-arent-reliable)
 4. [Define terms](#define-terms)
-5. [Don’t overload users with numbers](#don’t-overload-users-with-numbers)
+5. [Don’t overload users with numbers](#dont-overload-users-with-numbers)
 6. [Avoid ambiguity](#avoid-ambiguity)
 7. [Related guidance](#related-guidance)
 8. [Help us stay up to date](#help-us-stay-up-to-date)
