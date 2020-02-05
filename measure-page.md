@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Measure page guidance
-redirect_to:
-  - /
 ---
 
 A measure page represents data which has been analysed according to 1 or more ‘dimensions’ (sometimes called ‘analyses’). It’s good practice to include dimensions by:
