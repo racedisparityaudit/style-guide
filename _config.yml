@@ -3,8 +3,8 @@ title: Ethnicity facts and figures style guide and templates
 
 # Build settings
 markdown: kramdown
-theme: govuk-jekyll-theme
-remote_theme: frankieroberto/govuk-jekyll-theme
+theme: style-guide-theme
+remote_theme: racedisparityaudit/style-guide-theme
 
 defaults:
   -
@@ -15,3 +15,4 @@ defaults:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag

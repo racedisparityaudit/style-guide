@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A to Z
+description: A to Z of guidance on how to write words and phrases that appear commonly on Ethnicity facts and figures.
 ---
 
 This A to Z is for anyone writing content for the Ethnicity facts and figures website and publications. It includes:
@@ -8,7 +9,7 @@ This A to Z is for anyone writing content for the Ethnicity facts and figures we
 * general guidance on formatting, grammar and punctuation
 * example text that can be used in commentary
 
-It should be used alongside guidance on [writing about ethnicity](writing-about-ethnicity) and [our writing principles](principles). You can also check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) or [the ONS style guide](https://style.ons.gov.uk/category/house-style/). 
+It should be used alongside guidance on [writing about ethnicity](writing-about-ethnicity) and [our writing principles](principles). You can also check [the GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) or [the ONS style guide](https://style.ons.gov.uk/category/house-style/).
 
 <nav id="toc">
 	<ul>
@@ -48,8 +49,8 @@ It should be used alongside guidance on [writing about ethnicity](writing-about-
 
 Follow the [GOV.UK style guide on abbreviations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#abbreviations-and-acronyms).
 
-See also [Ethnicity facts and figures](#ethnicity-facts-and-figures), [Race Disparity Unit](#race-disparity-unit) and [Race Disparity Audit](#race-disparity-audit). 
- 
+See also [Ethnicity facts and figures](#ethnicity-facts-and-figures), [Race Disparity Unit](#race-disparity-unit) and [Race Disparity Audit](#race-disparity-audit).
+
 ### Age standardisation
 
 If figures have been age standardised, add this content to ‘Things you need to know’:
@@ -58,7 +59,7 @@ If figures have been age standardised, add this content to ‘Things you need to
 >
 > * people’s age can affect their [insert text relevant to measure]
 > * different ethnic groups have different [age profiles](https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/demographics/age-groups/latest).
- 
+
 ### Ages
 
 Use conversational language when talking about ages.
@@ -70,10 +71,10 @@ For example:
 * ‘under 18s’, not ‘people aged 17 and under’
 
 There are some exceptions. For example, say ‘people aged 65 and over’, not ‘over 64s’.
- 
+
 ### Academic years
 
-See [Dates](#dates). 
+See [Dates](#dates).
 
 ### Averages
 
@@ -223,7 +224,7 @@ Don’t refer to ‘numerators’ or ‘denominators’ except in data download 
 
 ### Deprivation
 
-See [Index of multiple deprivation](#index-of-multiple-deprivation). 
+See [Index of multiple deprivation](#index-of-multiple-deprivation).
 
 
 <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-6">
@@ -244,7 +245,7 @@ Use this Plain English definition of economically inactive:
 
 Use ‘ethnicity’ instead of ‘race’.
 
-See also [Writing about ethnicity](writing-about-ethnicity#ethnicity-and-race). 
+See also [Writing about ethnicity](writing-about-ethnicity#ethnicity-and-race).
 
 ### Ethnic minorities
 
@@ -267,7 +268,7 @@ Don’t use the abbreviations ‘EFF’ or ‘EFAF’. Either say ‘Ethnicity f
 
 ### Financial years
 
-See [Dates](#dates). 
+See [Dates](#dates).
 
 ### Fractions
 
@@ -323,13 +324,13 @@ Do not refer to indices of deprivation in commentary. Use Plain English instead,
 
 For example:
 
-> * the neighbourhood’s deprivation is defined using the [Index of Multiple Deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). 
+> * the neighbourhood’s deprivation is defined using the [Index of Multiple Deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019).
 > * Black students from all but the least deprived neighbourhoods had the highest rates of leaving their course
 
 You can add a longer definition to ‘Things You Need to Know’:
 
 > The Index of Multiple Deprivation (IMD) 2015 splits England into neighbourhoods by population size (roughly, 1,500 people). IMD describes relative, not absolute, deprivation: that is, neighbourhoods are grouped into the most deprived 20% through to the least deprived 20%.
- 
+
 See also [Quintiles](#quintiles).
 
 
@@ -413,11 +414,11 @@ See also [Rates](#rates).
 
 ### Quintiles
 
-Don’t use ‘quintile’ or ‘decile’. Instead refer directly to what the quintiles or deciles relate to.   
+Don’t use ‘quintile’ or ‘decile’. Instead refer directly to what the quintiles or deciles relate to.
 
 For example, don’t say this:
 
-> 43% of Indian households fell into the 2 highest income quintiles 
+> 43% of Indian households fell into the 2 highest income quintiles
 
  Say this:
 
@@ -428,7 +429,7 @@ For example, don’t say this:
 
 ### Race
 
-Use ‘ethnicity’ instead of ‘race’. 
+Use ‘ethnicity’ instead of ‘race’.
 
 See also [Writing about ethnicity](writing-about-ethnicity#ethnicity-and-race).
 
@@ -460,13 +461,13 @@ See also [Percentage and proportion](#percentage-and-proportion).
 
 ### Rolling averages
 
-Do not use rolling averages. 
- 
+Do not use rolling averages.
+
 Refer to guidance in [Dates](#dates).
 
 ### Rounding
 
-Generally you should be consistent in your use of rounding in a measure page. So 1.2%, 5.8% and 10.1%, not 1.2%, 6% and 10.146%. Keep the decimal point even if it’s a zero. So 10.0%, not 10%. 
+Generally you should be consistent in your use of rounding in a measure page. So 1.2%, 5.8% and 10.1%, not 1.2%, 6% and 10.146%. Keep the decimal point even if it’s a zero. So 10.0%, not 10%.
 
 The exception is when linking to measures with different rounding rules, for example from a summary report. In this case, use the same rounding that has been used within each measure page.
 
@@ -505,9 +506,9 @@ Write ‘UK’, not ‘United Kingdom’.
 
 Write ‘England, Wales and Scotland’, not Great Britain.
 
-If data covers regions in England, plus Wales and/or Scotland as a whole, write ‘all regions’ in commentary. 
+If data covers regions in England, plus Wales and/or Scotland as a whole, write ‘all regions’ in commentary.
 
-For example: 
+For example:
 
 > out of all regions, London had the smallest percentage of White British people, at 44.9%, and the North East had the highest percentage, at 93.6%
 
@@ -518,7 +519,7 @@ For example:
 Use this in the Methodology section where applicable:
 
 > Download the data to see unweighted samples.
-> Read more about how weighting is used to make samples representative of the population. 
+> Read more about how weighting is used to make samples representative of the population.
 
 ### Women and men
 
@@ -594,7 +595,7 @@ Language usage and acceptability change over time. We want to make sure our cont
 }
 </style>
 <script type="text/javascript">
-    
+
 function BackToTop($module) {
   this.$module = $module;
   this.hasScrolled = false
