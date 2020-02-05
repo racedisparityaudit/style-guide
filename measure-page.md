@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Measure page guidance
+redirect_to:
+  - /
 ---
 
 A measure page represents data which has been analysed according to 1 or more ‘dimensions’ (sometimes called ‘analyses’). It’s good practice to include dimensions by:
@@ -13,9 +15,9 @@ A measure page represents data which has been analysed according to 1 or more �
 
 The [Unemployment measure page](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest) is a good example.
 
-Each of these dimensions can be illustrated with a chart and/or table, and a summary.   
+Each of these dimensions can be illustrated with a chart and/or table, and a summary.
 
-The commentary on the measure page is organised into different sections, to meet the needs of a wide variety of users. 
+The commentary on the measure page is organised into different sections, to meet the needs of a wide variety of users.
 
 Use these guidelines to complete or update your commentary for a measure page.
 
@@ -23,11 +25,11 @@ Use these guidelines to complete or update your commentary for a measure page.
 
 ### Title
 
-A plain English version of what the data measures. Use terms people are likely to search for, and front-load the most important content. 
+A plain English version of what the data measures. Use terms people are likely to search for, and front-load the most important content.
 
 Bad example:
 
-> Households by ethnic group of head and total weekly household income, three-year averages, United Kingdom 
+> Households by ethnic group of head and total weekly household income, three-year averages, United Kingdom
 
 Good example:
 
@@ -35,7 +37,7 @@ Good example:
 
 ### Time period
 
-The time period the data covers. See the [Style guide A to Z](/a-z#dates-and-date-ranges) for date formulations. 
+The time period the data covers. See the [Style guide A to Z](/a-z#dates-and-date-ranges) for date formulations.
 
 ### Area covered
 
@@ -57,7 +59,7 @@ If other, please contact the team to arrange for another option to be added.
 
 If you don’t know whether your data includes lower or upper tier local authorities, you can download a lookup file of [local authorities in England and Wales](http://geoportal.statistics.gov.uk/datasets/lower-tier-local-authority-to-upper-tier-local-authority-december-2017-lookup-in-england-and-wales).
 
-## Data sources: primary source 
+## Data sources: primary source
 
 ### Title of data source
 
@@ -96,7 +98,7 @@ If the source data is not published, link to a page that best describes the data
 
 ### Publication release date
 
-When the data being used for the measure was published. 
+When the data being used for the measure was published.
 
 If the measure doesn’t use the first publication, enter the date when the version it uses was published.
 
@@ -109,7 +111,7 @@ Note here if:
 * the measure doesn’t use the first publication of the source data – for example, ‘This measure uses the revised Key Stage 2 data published by the Department for Education, rather than the provisional data from the first publication’
 * the source data has been updated but the update doesn’t affect the ethnicity statistics (and therefore we haven’t used it)
 
-### Publication frequency 
+### Publication frequency
 
 Choose one of the following:
 
@@ -129,7 +131,7 @@ If other, please specify.
 
 ### Purpose of data source
 
-Why is government (or another body) collecting this data? 
+Why is government (or another body) collecting this data?
 
 Example from [Reading attainments for children aged 7 to 11](https://www.ethnicity-facts-figures.service.gov.uk/education-skills-and-training/7-to-11-years-old/reading-attainments-for-children-aged-7-to-11-key-stage-2/latest):
 
@@ -145,7 +147,7 @@ If there’s a secondary source, complete the secondary source section in the sa
 
 ### Main points
 
-This section is intended for high-level findings about the data, serving as an instant takeaway for users. 
+This section is intended for high-level findings about the data, serving as an instant takeaway for users.
 
 Its content should therefore:
 
@@ -168,7 +170,7 @@ Use this section to explain factors that might lead users to misinterpret or mis
 
 Even quite complex statistical concepts can and should be translated into plain English for users.
 
-Sometimes, it’s helpful to offer a simplified version of a statistical caveat or test, and refer specialist users to ‘Methodology’ or ‘Download the data’ for more detailed and/or technical information. 
+Sometimes, it’s helpful to offer a simplified version of a statistical caveat or test, and refer specialist users to ‘Methodology’ or ‘Download the data’ for more detailed and/or technical information.
 
 See the [Style guide A to Z](/a-z) for boilerplated plain English explanations for specialist concepts.
 
@@ -186,13 +188,13 @@ Translate complex statistical concepts into plain English for users, referring t
 
 ### Why these ethnic categories were chosen
 
-UK government organisations use a variety of different lists of ethnicities. These lists also change over time to reflect the nation’s changing population. 
+UK government organisations use a variety of different lists of ethnicities. These lists also change over time to reflect the nation’s changing population.
 
-Although the Office of National Statistics (ONS) set out a standardised list of ethnicities in the 2011 Census, in practice there is no single standard across the public sector. 
+Although the Office of National Statistics (ONS) set out a standardised list of ethnicities in the 2011 Census, in practice there is no single standard across the public sector.
 
-Use this section to explain, in plain English, the ethnic categorisation in this measure page and why it is used. 
+Use this section to explain, in plain English, the ethnic categorisation in this measure page and why it is used.
 
-See the [Style guide A to Z](/a-z#ethnic-categories) for the most common ethnic categorisations. 
+See the [Style guide A to Z](/a-z#ethnic-categories) for the most common ethnic categorisations.
 
 ## Methodology
 
@@ -202,11 +204,11 @@ The UK Statistics Authority’s Code of Practice is clear that transparency is i
 
 > Transparent judgements about statistical definitions and methods, together with judgements about strengths and limitations, are essential in supporting confidence in the quality of the statistics. [Five whys: the Code of Practice](https://www.statisticsauthority.gov.uk/five-whys-the-code-of-practice/)
 
-Use ‘Things you need to know’ to provide the non-specialist user with honest and clearly expressed caveats about the limitations of the data. 
+Use ‘Things you need to know’ to provide the non-specialist user with honest and clearly expressed caveats about the limitations of the data.
 
-Use ‘Methodology’ to give statisticians, specialists and experts in the field a detailed methodological description. 
+Use ‘Methodology’ to give statisticians, specialists and experts in the field a detailed methodological description.
 
-The language in this section may need to be more specialist and technical than the commentary elsewhere. However it should be as accessible as possible to the interested non-specialist. 
+The language in this section may need to be more specialist and technical than the commentary elsewhere. However it should be as accessible as possible to the interested non-specialist.
 
 Include information about the following if they apply to your data:
 
@@ -219,7 +221,7 @@ Include information about the following if they apply to your data:
 * weighting
 * confidence intervals
 
-Content on weighting and confidence intervals should be given separate subheads and be listed last in the methodology section. 
+Content on weighting and confidence intervals should be given separate subheads and be listed last in the methodology section.
 
 See the [Style guide A to Z](/a-z) for boilerplated plain English explanations for specialist concepts.
 
@@ -227,17 +229,17 @@ See the [Style guide A to Z](/a-z) for boilerplated plain English explanations f
 
 Specify here if data has been excluded from the analysis to protect confidentiality, because small sample sizes make it unreliable, or for any other reason.
 
-If no data has been excluded, leave this section blank. 
+If no data has been excluded, leave this section blank.
 
 ### Rounding
 
-Specify the rounding rules used in commentary and data. 
+Specify the rounding rules used in commentary and data.
 
 See the [data style guide](/data-style-guide#rounding) for rules on rounding.
 
 ### Related publications
 
-Use this section to list further reading or related data sets. 
+Use this section to list further reading or related data sets.
 
 Example from [Reading attainments for children aged 7 to 11](https://www.ethnicity-facts-figures.service.gov.uk/education-skills-and-training/7-to-11-years-old/reading-attainments-for-children-aged-7-to-11-key-stage-2/latest):
 
@@ -245,10 +247,10 @@ Example from [Reading attainments for children aged 7 to 11](https://www.ethnici
 
 ### Quality Methodology Information URL
 
-Give a link to the data’s quality methodology report. 
+Give a link to the data’s quality methodology report.
 
 ### Further technical information
- 
+
 Please supply any other information you think is relevant.
 
 Example from [Illicit drug use among adults](https://www.gov.uk/government/statistics/schools-pupils-and-their-characteristics-january-2016):
@@ -273,7 +275,7 @@ You can add a second contact if needed.
 
 ### Title
 
-Create a plain English version of the data dimension. Remember that ‘by ethnicity’ comes first, followed by a second or third cut of the data. 
+Create a plain English version of the data dimension. Remember that ‘by ethnicity’ comes first, followed by a second or third cut of the data.
 
 Bad example:
 
@@ -291,7 +293,7 @@ The time period this dimension of the data covers. If the chart and table cover 
 
 ### Summary
 
-Use the summary to comment in detail on the findings presented in this dimension. 
+Use the summary to comment in detail on the findings presented in this dimension.
 
 Content should:
 
@@ -300,7 +302,7 @@ Content should:
 * alert users to serious caveats about the quality of the data
 * where possible, work as stand-alone statements (as they may be quoted out of context)
 * avoid simply repeating the numbers in the tables and charts
-* avoid overloading users with information they can’t absorb 
+* avoid overloading users with information they can’t absorb
 * account for differences visible in the charts which aren’t meaningful
 * be written in between 6 and 8 bullet points
 
@@ -310,7 +312,7 @@ Main points:
 
 > the percentage of White adults and Black adults who were overweight in the period 2013 to 2015 was higher than the average for all adults in England
 
-Summary: 
+Summary:
 
 > in the period 2013 to 2015, the percentage of adults who were overweight was 66% for White people and 67% for Black people, both higher than the average for all adults in England
 
