@@ -3,13 +3,6 @@ layout: page
 title: Writing about ethnicity
 ---
 
-Contents
-
-1. [Ethnic minorities and ethnic groups](##ethnic-minorities-and-ethnic-groups)
-2. [Ordering and style](##ordering-and-style)
-3. [Ethnicities and nationalities](##ethnicities-and-nationalities)
-4. [Related guidance](##related-guidance)
-
 The Ethnicity facts and figures website and publications generally follow the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).
 
 ## Ethnic minorities and ethnic groups
