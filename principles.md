@@ -3,9 +3,7 @@ layout: page
 title: Our writing principles
 ---
 
-A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. 
-O
-ur writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
+A range of people visit Ethnicity facts and figures and read our reports on GOV.UK. This includes people who aren’t experts in data. Our writing principles have been developed to ensure our content is clear, meaningful and trustworthy to all our users.
 
 ## Write clearly and concisely
 
