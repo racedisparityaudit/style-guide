@@ -5,6 +5,10 @@ title: Writing about ethnicity
 
 The Ethnicity facts and figures website and publications generally follow the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).
 
+## Ethnic minorities and ethnic groups
+
+We're consistent in the way we write about ethnicity, ethnic minorities and specific ethnic groups.
+
 ### Ethnicity and race
 
 We refer to ethnicity and not race. This is because:
