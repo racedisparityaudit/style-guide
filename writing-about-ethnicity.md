@@ -6,6 +6,12 @@ description: How we write about ethnicity on Ethnicity facts and figures, includ
 
 The Ethnicity facts and figures website and publications generally follow the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).
 
+Contents
+1. [Ethnic minorities and ethnic groups](#ethnic-minorities-and-ethnic-groups)
+2. [Ordering and style](#ordering-and-style)
+3. [Related guidance](#related-guidance)
+4. [Help us stay up to date](#help-us-stay-up-to-date)
+
 ## Ethnic minorities and ethnic groups
 
 We're consistent in the way we write about ethnicity, ethnic minorities and specific ethnic groups.
