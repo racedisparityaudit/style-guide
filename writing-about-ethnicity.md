@@ -4,7 +4,7 @@ title: Writing about ethnicity
 description: How we write about ethnicity on Ethnicity facts and figures, including our definition of ethnic minorities, words and phrases we use and avoid, and why we don’t use BAME or BME.
 ---
 
-The Ethnicity facts and figures website and publications generally follow the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity).
+How we write about ethnicity, including words and phrases we use and avoid, and how we describe ethnic minorities and different ethnic groups.
 
 Contents
 1. [Ethnic minorities and ethnic groups](#ethnic-minorities-and-ethnic-groups)
@@ -14,7 +14,8 @@ Contents
 
 ## Ethnic minorities and ethnic groups
 
-We're consistent in the way we write about ethnicity, ethnic minorities and specific ethnic groups.
+Ethnicity facts and figures generally follows the [ethnicity guidelines in the ONS style guide](https://style.ons.gov.uk/category/house-style/language-and-spelling/#race-and-ethnicity). We have developed additional ways to write about ethnicity, ethnic minorities and specific ethnic groups. 
+
 
 ### Ethnicity and race
 
