@@ -7,49 +7,7 @@ This guide includes:
 
 * information for data analysts about the structure and content of measure pages
 * an introduction to charts and tables, including when to use the different types of chart
-* guidance on presenting data and using the chart and table builder in the publishing system (‘CMS’)
-
-## Dimensions
-
-Each measure page presents data that’s broken down by ethnicity and, in many cases, also broken down by other factors. These different breakdowns of the data are called the ‘dimensions’ of the measure.
-
-Each dimension should:
-
-* usually include a chart – except when it’s too complicated, or misleading, to present the data in a chart
-* always include a table – the table presents the same information as the chart, and sometimes additional information when it’s available and useful (like sample sizes)
-
-### Ordering dimensions
-
-Dimensions should appear in the following order:
-
-* by ethnicity (latest data)
-* by ethnicity over time
-* by ethnicity and sex/gender
-* by ethnicity and age
-* by ethnicity and area
-
-
-Then by ethnicity and any other factor, such as:
-
-* by ethnicity and socio-economic group
-* by ethnicity and income
-* by ethnicity and free school meals (FSM)
-* by ethnicity and rank/grade
-
-The first dimension should always be ‘by ethnicity’. After that, exceptions to the order can be made when it’s clear users will be more interested in certain dimensions (for example, the ‘rank/grade’ dimension for workforce measures). Make sure related groups of measures are consistent.
-
-In some cases, additional dimensions correspond to different parts of the data. For example, one dimension could be the ‘percentage of pupils reaching the key stage 1 expected standard in reading’ and another could be the ‘percentage of pupils reaching the key stage 1 higher standard in reading’.
-Put any dimensions that cover specific subsets at the end. (For example, the final dimension of [Employment](https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/employment/employment/latest) analyses a subset of the population: 16 to 24 year olds.)
-
-
-### First dimension
-
-Use the chart and table in the first dimension to break down the data by ethnicity for the most recent year of data.
-
-Use an ‘over time’ analysis in the table for the first dimension if:
-
-* a second dimension ‘over time’ would be very similar to the first dimension (for example, if there are only 2 years of data)
-* the dimensions ‘by ethnicity’ and ‘by ethnicity over time’ are the only ones in a measure, as in [Patient experience of primary care - GP services](https://www.ethnicity-facts-figures.service.gov.uk/health/patient-experiences/patient-experience-of-primary-care-gp-services/latest)
+* guidance on presenting data and using the chart and table builder in the publishing system (‘Publisher’)
 
 ## Types of chart
 
@@ -104,6 +62,83 @@ The vertical axis should start from zero where the metric is a percentage.
 
 When there are few lines to compare but they are very close together, they can be presented in a line chart (rather than multiple line charts) but changing the minimum value in the y axis. However, testing has shown this approach is less easily read. Read how this is done in the section ‘Chart values and labels’ in this guide.
 
+## Data
+
+### Special symbols
+
+There should not be any empty cells in charts, tables and data downloads.
+
+Use the following symbols if data is missing or has been rounded to zero:
+
+<ul class="symbols-list">
+<li><kbd>!</kbd> data withheld for confidentiality</li>
+<li><kbd>?</kbd> data not shown because small sample size makes it unreliable</li>
+<li><kbd>-</kbd> data not collected [or otherwise unavailable]</li>
+<li><kbd>N/A</kbd> data not applicable (eg no meaningful numerator)</li>
+  <li><kbd>~0</kbd> the actual figure is greater than 0 but has been rounded down</li>
+
+</ul>
+
+The CMS automatically adds footnotes explaining what the symbols mean.
+
+### Rounding
+
+Depending on the quality of the data, round numbers in charts and tables to either:
+
+* whole numbers
+* 1 decimal place
+
+As a rule of thumb, round good quality data to 1 decimal place, and poor quality data to whole numbers.
+
+When you’ve decided which approach to take, make a note in the ‘Rounding’ section of the commentary template explaining what you did and why.
+
+Rounding must be consistent across tables, charts and commentary in the same measure.
+
+The data in download files should be unrounded.
+
+
+
+### Chart values and labels
+
+When creating charts in the chart builder, select the ‘Standard ethnicity’ group in all fields that refer to ethnicity categories (‘Primary grouping’, ‘Secondary grouping’, ‘Panels’, etc). If the field has a text box, enter ‘Ethnicity’.
+
+If the values in the data are percentages, import the data as numbers rather than percentages in all data files (chart, table and download files).
+
+The ‘Number format’ section in the CMS chart builder lets you choose between ‘Percentage’ and ‘Other’.
+
+Choose ‘Percentage’ if you want the y axis to start at 0% and end at 100%.
+
+Choose ‘Other’ if you want the y axis to have a range different than 0% to 100%. You should always have 0% as the minimum value, but some situations may call for a different maximum value: for example to avoid graph lines being too close together or if all the data ranges between 0% and 30%. The chart builder will automatically set 0% as the minimum value and an appropriate maximum value for the data presented, but if you want to select these values yourself, enter them in the ‘Minimum’ and ‘Maximum’ fields. Finally, if you select the ‘Other’ option, you must add the sign ‘%’ in the ‘Suffix’ field.
+
+Don’t add any labels to charts because:
+
+* the description for both axes should be included within the chart title (for example, ‘Percentage of…’)
+* the values of the horizontal axis should also be evident from the grid line labels
+* labels inside charts are added automatically by the CMS
+
+### Download files
+
+Download files contain all the data used in the charts and tables, as well as some additional data.
+
+Use the following names for the variables within download files to make sure they’re consistent across different measures:
+
+* measure
+* ethnicity
+* time
+* gender or sex – use the same term provided by the department/in the source data
+* age
+* geography
+* value
+* numerator
+* denominator
+* upper bound
+* lower bound
+
+The names of the variables listed in the ‘Download description’ for each measure should be broadly the same as those in the download file – but say ‘confidence intervals’ rather than ‘upper bound’ and ‘lower bound’. Explain any other differences in the download description.
+
+The variables listed depend on the content of the download file.
+
+
 ## Ethnic categories
 
 Ethnic categories should follow those listed in the [style guide A to Z](/a-z) where possible.
@@ -131,44 +166,6 @@ Statistics on ‘Ethnicity facts and figures’ should be consistent with those 
 Include information on the number of people with unknown ethnicity, and whether they are used in the calculations, in the section ‘What the data measures’. If no data on unknowns is provided, specify this in ‘The ethnic categories used in this data’.
 
 Don’t include an analysis of people with unknown ethnicity in the commentary unless there’s an important reason for doing so (for example, an unusually high number of people of unknown ethnicity).
-
-## Titles of dimensions, charts and tables
-
-Within each dimension, there are separate titles for the dimension, chart and table. Titles will be checked by a content designer, but you should aim to keep them concise and in plain English.
-
-Use ‘by ethnicity’ in titles (not ‘by ethnic group’), and don’t use a comma before ‘by ethnicity’ unless the title is confusing without it.
-
-Titles shouldn’t include:
-
-* the time period, unless the chart and table contain different time periods - this is because the time period is specified separately for each dimension in the ‘Time period’ field
-* the age group the dataset refers to, unless it’s key for understanding the data covered in the dimension, for example ‘Reading attainments for children aged 5 to 7 by ethnicity’
-
-For dimensions containing geographies, the dimension title should be ‘by ethnicity and area’ and the chart and table titles should have the specific geography (for example, ‘by ethnicity and local authority’). If the geography is ‘regions’, the table and chart title should say ‘area’ rather than ‘region’ to avoid confusion with the word ‘religion’. (User research showed ‘region’ can be misread as ‘religion’).
-
-
-### Dimension title
-
-Use the dimension title to describe what the dimension covers.
-
-Follow the format:
-
-‘(thing being analysed) by ethnicity (and further data cut)’ – for example, ‘Employment by ethnicity and gender’.
-
-### Chart and table titles
-
-Use table and chart titles to describe the specific data being presented.
-
-Make sure the base or population is clearly identified. For example, say ‘Percentage of children who are obese…’, not ‘Percentage of obese children…’
-
-Chart titles often follow the pattern:
-
-‘(Percentage) of (thing being measured) by ethnicity (and further data cut)’ – for example, ‘Percentage of households who own their home by ethnicity and socio-economic group’.
-
-Table titles often include numbers as well as percentages – for example, ‘Percentage and number of households who own their home by ethnicity and socio-economic group’.
-
-If a table or chart shows rates, define them rather than use the word ‘rate’ – for example, ‘Arrests per 1,000 population by ethnicity and gender’.
-
-Measure titles only refer to what’s being measured in what population (for example, ‘ADHD in adults’), while dimension titles provide more detail on the metric being used (for example, ‘Positive screenings for ADHD in adults’). Titles for charts and tables should be the most specific, so the data is unlikely to be misinterpreted (for example, ‘Percentage of adults who screened positive for ADHD in the past 6 months, by ethnicity and sex’).
 
 ## Tables
 
@@ -257,80 +254,6 @@ Follow the North-South zig-zag pattern through England, with other UK countries 
 ### Workforce grades and military ranks
 
 Put in grade order, from highest to lowest.
-
-## Data
-
-### Missing data
-
-There should not be any empty cells in charts, tables and data downloads.
-
-Use the following symbols where data is missing:
-
-<ul class="symbols-list">
-<li><kbd>!</kbd> data withheld for confidentiality</li>
-<li><kbd>?</kbd> data not shown because small sample size makes it unreliable</li>
-<li><kbd>-</kbd> data not collected [or otherwise unavailable]</li>
-<li><kbd>N/A</kbd> data not applicable (eg no meaningful numerator)</li>
-</ul>
-
-The CMS automatically adds footnotes explaining what the symbols mean.
-
-### Rounding
-
-Depending on the quality of the data, round numbers in charts and tables to either:
-
-* whole numbers
-* 1 decimal place
-
-As a rule of thumb, round good quality data to 1 decimal place, and poor quality data to whole numbers.
-
-When you’ve decided which approach to take, make a note in the ‘Rounding’ section of the commentary template explaining what you did and why.
-
-Rounding must be consistent across tables, charts and commentary in the same measure.
-
-The data in download files should be unrounded.
-
-
-
-### Chart values and labels
-
-When creating charts in the chart builder, select the ‘Standard ethnicity’ group in all fields that refer to ethnicity categories (‘Primary grouping’, ‘Secondary grouping’, ‘Panels’, etc). If the field has a text box, enter ‘Ethnicity’.
-
-If the values in the data are percentages, import the data as numbers rather than percentages in all data files (chart, table and download files).
-
-The ‘Number format’ section in the CMS chart builder lets you choose between ‘Percentage’ and ‘Other’.
-
-Choose ‘Percentage’ if you want the y axis to start at 0% and end at 100%.
-
-Choose ‘Other’ if you want the y axis to have a range different than 0% to 100%. You should always have 0% as the minimum value, but some situations may call for a different maximum value: for example to avoid graph lines being too close together or if all the data ranges between 0% and 30%. The chart builder will automatically set 0% as the minimum value and an appropriate maximum value for the data presented, but if you want to select these values yourself, enter them in the ‘Minimum’ and ‘Maximum’ fields. Finally, if you select the ‘Other’ option, you must add the sign ‘%’ in the ‘Suffix’ field.
-
-Don’t add any labels to charts because:
-
-* the description for both axes should be included within the chart title (for example, ‘Percentage of…’)
-* the values of the horizontal axis should also be evident from the grid line labels
-* labels inside charts are added automatically by the CMS
-
-### Download files
-
-Download files contain all the data used in the charts and tables, as well as some additional data.
-
-Use the following names for the variables within download files to make sure they’re consistent across different measures:
-
-* measure
-* ethnicity
-* time
-* gender or sex – use the same term provided by the department/in the source data
-* age
-* geography
-* value
-* numerator
-* denominator
-* upper bound
-* lower bound
-
-The names of the variables listed in the ‘Download description’ for each measure should be broadly the same as those in the download file – but say ‘confidence intervals’ rather than ‘upper bound’ and ‘lower bound’. Explain any other differences in the download description.
-
-The variables listed depend on the content of the download file.
 
 
 ## Related guidance
