@@ -1,4 +1,12 @@
-# Ethnicity facts and figures style guide
+# ~Ethnicity facts and figures style guide~ (OLD)
+
+> **Note:** The old EFF Style Guide website (https://guide.ethnicity-facts-figures.service.gov.uk)  
+> has been replaced by  
+> the Style Guide pages within the main EFF website (https://www.ethnicity-facts-figures.service.gov.uk/style-guide).
+>
+> This repository will be archived.
+> 
+> To edit the style guide, see the [Style Guide views](https://github.com/racedisparityaudit/ethnicity-facts-and-figures-publisher/blob/306c1bf38e7a8ac897705620480101897342c402/application/static_site/views.py#L325) and [Style Guide templates](https://github.com/racedisparityaudit/ethnicity-facts-and-figures-publisher/tree/main/application/templates/static_site/static_pages/style_guide) in the main EFF repository
 
 This is the code and content for the [Style guide](https://guide.ethnicity-facts-figures.service.gov.uk/) for the Ethnicity facts and figures website.
 
